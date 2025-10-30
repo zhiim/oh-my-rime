@@ -13,7 +13,38 @@ import_tables:
   - dicts/rime_mint.compatible   # 兼容词库（万象拼音词库基础版本）
   - dicts/rime_mint.ext          # 联想词库（万象拼音词库基础版本）
   - dicts/other_kaomoji          # 颜文字表情（按`VV`呼出)
-  - dicts/rime_ice.others        # 雾凇拼音 others词库（用于自动纠错）
+  # - dicts/rime_ice.others        # 雾凇拼音 others词库（用于自动纠错）
   # 20240608 Emoji完全交由OpenCC，不再使用字典作为补充
   # - dicts/other_emoji            # Emoji(仅仅作为补充，实际使用一般是OpenCC生效)
+
+  # 使用白霜词库
+  # - dicts/rime-frost/cn_dicts/8105     # 字表
+  # - dicts/rime-frost/cn_dicts/41448  # 大字表（按需启用）
+  # - dicts/rime-frost/cn_dicts/base     # 基础词库
+  # - dicts/rime-frost/cn_dicts/ext      # 扩展词库
+  # - dicts/rime-frost/cn_dicts/tencent  # 腾讯词向量（大词库，部署时间较长）
+  - dicts/rime-frost/cn_dicts/others   # 一些杂项
+  # 细胞词库
+  - dicts/rime-frost/cn_dicts_cell/medication
+  - dicts/rime-frost/cn_dicts_cell/industry_product
+  - dicts/rime-frost/cn_dicts_cell/exthot
+  - dicts/rime-frost/cn_dicts_cell/chess
+  - dicts/rime-frost/cn_dicts_cell/chess2
+  - dicts/rime-frost/cn_dicts_cell/animal
+  - dicts/rime-frost/cn_dicts_cell/game
+  - dicts/rime-frost/cn_dicts_cell/idiom
+  - dicts/rime-frost/cn_dicts_cell/sport
+  - dicts/rime-frost/cn_dicts_cell/media
+  - dicts/rime-frost/cn_dicts_cell/shulihua
+  - dicts/rime-frost/cn_dicts_cell/food
+  - dicts/rime-frost/cn_dicts_cell/inputmethod
+  - dicts/rime-frost/cn_dicts_cell/history
+  - dicts/rime-frost/cn_dicts_cell/place
+  - dicts/rime-frost/cn_dicts_cell/geography
+  - dicts/rime-frost/cn_dicts_cell/name2
+  - dicts/rime-frost/cn_dicts_cell/literature
+  - dicts/rime-frost/cn_dicts_cell/music
+  - dicts/rime-frost/cn_dicts_cell/computer
+  - dicts/rime-frost/cn_dicts_cell/composite
+  - dicts/rime-frost/cn_dicts_cell/name
 ...

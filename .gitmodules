@@ -1,0 +1,3 @@
+[submodule "dicts/rime-frost"]
+	path = dicts/rime-frost
+	url = https://github.com/zhiim/rime-frost.git
