@@ -1,6 +1,17 @@
 patch:
   # 使用自定义词典
   translator/dictionary: rime_mint.custom
-  
+
   # 最大输入长度
   codeLengthLimit_processor: 50
+
+  # 语言模型
+  # 使用万象模型: https://github.com/amzxyz/RIME-LMDG?tab=readme-ov-file
+  "grammar/language": model
+  "grammar/collocation_max_length": 5
+  "grammar/collocation_min_length": 2
+
+  # translator 内加载
+  "translator/contextual_suggestions": true
+  "translator/max_homophones": 7
+  "translator/max_homographs": 7
