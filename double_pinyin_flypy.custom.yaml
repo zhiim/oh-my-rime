@@ -1,0 +1,6 @@
+patch:
+  # 使用自定义词典
+  translator/dictionary: rime_mint.custom
+  
+  # 最大输入长度
+  codeLengthLimit_processor: 50

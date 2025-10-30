@@ -10,10 +10,13 @@ build
 *.userdb
 
 # 自定义文件
-*.custom.yaml
+# *.custom.yaml
 
 # VSCode 项目文件
 *.code-workspace
 
 # 语言模型文件
 *.gram
+
+# rime sync 文件
+sync
