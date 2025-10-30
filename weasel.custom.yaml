@@ -6,8 +6,8 @@ patch:
   style/layout/border_width: 0
   style/layout/corner_radius: 10
   style/layout/round_corner: 8
-  style/layout/margin_x: 12
-  style/layout/margin_y: 10
+  style/layout/margin_x: 10
+  style/layout/margin_y: 8
   style/layout/hilite_padding: 5
   style/color_scheme: black_white
   preset_color_schemes:
