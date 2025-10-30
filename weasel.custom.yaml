@@ -4,11 +4,11 @@ patch:
   style/horizontal: true
   style/layout/border_height: 0
   style/layout/border_width: 0
-  style/layout/corner_radius: 10
-  style/layout/round_corner: 8
-  style/layout/margin_x: 10
+  style/layout/corner_radius: 10 # 输入框圆角
+  style/layout/round_corner: 8 # 色块圆角
+  style/layout/margin_x: 10 # 色块和输入框之间padding
   style/layout/margin_y: 8
-  style/layout/hilite_padding: 5
+  style/layout/hilite_padding: 5 # 色块的padding
   style/color_scheme: black_white
   preset_color_schemes:
     # 修改自鼠须管配色方案
