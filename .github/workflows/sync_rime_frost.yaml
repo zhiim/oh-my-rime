@@ -1,0 +1,52 @@
+name: Sync Rime Frost Upstream Dictionary
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '0 3 1,15,28 * *'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Upstream Info
+        run: |
+          echo "UPSTREAM_REPO=https://github.com/gaboolic/rime-frost.git" >> $GITHUB_ENV
+          echo "UPSTREAM_PATH=cn_dicts cn_dicts_cell en_dicts" >> $GITHUB_ENV
+
+      - name: Checkout This Repo
+        uses: actions/checkout@v5
+
+      - name: Download Rime Frost (Upstream)
+        run: |
+          echo "Cloning only '${{ env.UPSTREAM_PATH }}' from ${{ env.UPSTREAM_REPO }}"
+          git clone --filter=blob:none --no-checkout --depth 1 ${{ env.UPSTREAM_REPO }} upstream
+          cd upstream
+          git sparse-checkout set ${{ env.UPSTREAM_PATH }}
+          git checkout
+          cd ..
+
+      - name: Copy Dictionary from Rime Frost
+        run: |
+          for d in ${{ env.UPSTREAM_PATH }}; do
+            mkdir -p ./dicts/rime-frost/$d
+            cp -r ./upstream/$d/* ./dicts/rime-frost/$d/
+          done
+          rm -rf upstream
+
+      - name: Check for changes
+        run: |
+          git add dicts/rime-frost
+          git diff --cached --quiet || echo "changed=true" >> $GITHUB_ENV
+
+      - name: Create Pull Request
+        if: env.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "feat: 同步上游白霜词库"
+          title: "Update: 同步上游白霜词库"
+          body: "自动从白霜仓库同步最新的词库文件。"
+          branch: "auto-sync-upstream"
+          labels: "dependencies, automation"
+          assignees: "${{ github.actor }}"
