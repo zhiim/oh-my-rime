@@ -45,6 +45,20 @@ patch:
       hilited_candidate_label_color: 0xcac9c8 # 第一候选项编号颜色
       hilited_label_color: 0xcac9c8 # 第一候选项编号颜色
       hilited_comment_text_color: 0xefefef # 注解文字高亮
+    mint_light_green:
+      name: "碧皓青／Mint Light Green"
+      author: Mintimate <"Mintimate's Blog">
+      text_color: 0x7BAE4F # 拼音串
+      back_color: 0xefefef # 背景
+      label_color: 0x323232 # 预选栏编号颜色
+      border_color: 0xefefef # 边框
+      comment_text_color: 0x878787 # 注解文字
+      candidate_text_color: 0x323232 # 非第一候选项
+      hilited_candidate_back_color: 0x7BAE4F # 第一候选项背景
+      hilited_candidate_text_color: 0xFFFFFF # 第一候选项
+      hilited_candidate_label_color: 0xEFEFEF # 第一候选项编号颜色
+      hilited_label_color: 0xEFEFEF # 第一候选项编号颜色
+      hilited_comment_text_color: 0xDFF0EE # 注解文字高亮
     black_white:
       name: "黑白"
       text_color: 0x6495ed # 拼音串
