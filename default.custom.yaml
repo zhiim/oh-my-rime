@@ -3,7 +3,6 @@ patch:
   schema_list:
     - schema: double_pinyin_flypy  # 小鹤双拼
     - schema: rime_mint            # 薄荷拼音
-  menu/page_size: 8  # 候选词个数
   key_binder/bindings:
     # 候选词菜单换页
     - { when: composing, accept: Control+p, send: Up }     # composing 时,Control+p 等同于 Up 键

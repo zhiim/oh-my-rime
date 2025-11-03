@@ -1,4 +1,6 @@
 patch:
+  menu/page_size: 8 # 候选词个数
+
   # 使用自定义词典
   translator/dictionary: rime_mint.custom
 
