@@ -14,7 +14,6 @@ patch:
     # 常用切换快捷键
     - { when: always, accept: Control+Shift+F, toggle: transcription } # 切换简体/繁体
     - { when: always, accept: Control+Shift+P, toggle: ascii_punct } # 切换中/西文模式
-    - { when: always, accept: Shift+space, toggle: full_shape } # 切换全角/半角的方式
   ascii_composer/switch_key:
     Caps_Lock: commit_code  # 按下 Caps Lock 会直接上屏
     Control_L: commit_code  # 按下左 Control 键会切换到西文模式
