@@ -33255,7 +33255,7 @@ sort: by_weight
 炒币	chao bi	319
 # 超碧	chao bi	0
 抄笔记	chao bi ji	83
-朝比奈	chao bi nai	29
+朝比奈	zhao bi nai	29
 超编	chao bian	36
 超标	chao biao	1743
 抄表	chao biao	134
@@ -56352,6 +56352,7 @@ sort: by_weight
 地鳖	di bie	2
 敌兵	di bing	151
 帝昺	di bing	5
+低波	di bo	31
 地波	di bo	13
 狄波拉	di bo la	24
 底部	di bu	5613
@@ -61364,6 +61365,7 @@ sort: by_weight
 掉不了	diao bu liao	17
 钓不了	diao bu liao	2
 吊不起	diao bu qi	4
+调不通	diao bu tong	38
 钓不着	diao bu zhao	3
 凋残	diao can	15
 吊舱	diao cang	44
@@ -80921,6 +80923,7 @@ sort: by_weight
 付出真心	fu chu zhen xin	50
 赋初值	fu chu zhi	12
 富川	fu chuan	7
+浮窗	fu chuang	78
 富春	fu chun	94
 # 福春	fu chun	0
 富春鸡	fu chun ji	1
@@ -92012,6 +92015,7 @@ sort: by_weight
 共谋	gong mou	174
 共谋发展	gong mou fa zhan	8
 公亩	gong mu	4
+公母	gong mu	53
 公墓	gong mu	305
 公募	gong mu	2209
 共募集	gong mu ji	4
@@ -99768,6 +99772,7 @@ sort: by_weight
 锅饼	guo bing	4
 国柄	guo bing	7
 果擘洞庭橘	guo bo dong ting ju	2
+国补	guo bu	22
 裹布	guo bu	3
 # 过埠	guo bu	0
 果不出	guo bu chu	5
@@ -204049,6 +204054,7 @@ sort: by_weight
 气死我	qi si wo	22
 气死我了	qi si wo le	369
 七艘	qi sou	10
+起送	qi song	23
 起诉	qi su	5940
 泣诉	qi su	17
 栖宿	qi su	1
@@ -261698,10 +261704,12 @@ sort: by_weight
 跳不了	tiao bu liao	28
 挑不了	tiao bu liao	4
 挑不起	tiao bu qi	12
+调不通	tiao bu tong	38
 挑不完	tiao bu wan	4
 跳不远	tiao bu yuan	2
 挑菜	tiao cai	18
 调参	tiao can	525
+调仓	tiao cang	301
 跳槽	tiao cao	7096
 跳操	tiao cao	314
 跳槽者	tiao cao zhe	16
@@ -262163,6 +262171,7 @@ sort: by_weight
 调停人	tiao ting ren	9
 调停者	tiao ting zhe	20
 跳痛	tiao tong	30
+调通	tiao tong	38
 跳投	tiao tou	1028
 挑头	tiao tou	50
 挑土	tiao tu	5
@@ -375802,3 +375811,6 @@ sort: by_weight
 氟化合物	fu hua he wu	34
 空间频率	kong jian pin lv	30
 机读	ji du	30
+均订	junding	38
+万订	wan ding	12
+千订	qian ding	3
