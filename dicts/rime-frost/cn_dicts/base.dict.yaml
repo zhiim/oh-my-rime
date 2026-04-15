@@ -4749,6 +4749,7 @@ sort: by_weight
 安装目录	an zhuang mu lu	99
 安装盘	an zhuang pan	23
 安装配置	an zhuang pei zhi	64
+安装器	an zhuang qi	40
 安装驱动	an zhuang qu dong	51
 安装软件	an zhuang ruan jian	290
 安装时	an zhuang shi	224
@@ -117052,6 +117053,7 @@ sort: by_weight
 黄马	huang ma	22
 皇马队长	huang ma dui zhang	10
 黄马褂	huang ma gua	27
+黄马甲	huang ma jia	19
 黄麻起义	huang ma qi yi	1
 慌忙	huang mang	472
 慌忙的	huang mang de	24
@@ -144558,6 +144560,7 @@ sort: by_weight
 巨快	ju kuai	54
 举筷	ju kuai	5
 巨款	ju kuan	439
+聚宽	ju kuan	100
 巨亏	ju kui	247
 巨辣	ju la	4
 巨烂	ju lan	24
@@ -144819,6 +144822,7 @@ sort: by_weight
 巨舌	ju she	3
 狙射树枭	ju she shu xiao	7
 巨舌症	ju she zheng	3
+具身	ju shen	25
 举身	ju shen	1
 拘审	ju shen	3
 举身赴清池	ju shen fu qing chi	9
@@ -163280,6 +163284,7 @@ sort: by_weight
 联交所	lian jiao suo	22
 连接	lian jie	35518
 链接	lian jie	32844
+联接	lian jie	835
 廉洁	lian jie	185
 联结	lian jie	1044
 链节	lian jie	12
@@ -179532,7 +179537,7 @@ sort: by_weight
 没挣着	mei zheng zhao	10
 每只	mei zhi	683
 每支	mei zhi	247
-妹纸	mei zhi	1462
+妹纸	mei zhi	146
 没治	mei zhi	44
 没纸	mei zhi	36
 美制	mei zhi	48
@@ -183978,6 +183983,7 @@ sort: by_weight
 摩尔质量	mo er zhi liang	36
 默而识之	mo er zhi zhi	1
 魔法	mo fa	7819
+末法	mo fa	66
 魔法棒	mo fa bang	83
 魔法季	mo fa ji	2
 魔法纪录	mo fa ji lu	2
@@ -184006,6 +184012,9 @@ sort: by_weight
 魔法战争	mo fa zhan zheng	4
 魔法阵	mo fa zhen	131
 魔法之门	mo fa zhi men	2
+末法众生	mo fa zhong sheng	0
+末法时代	mo fa shi dai	56
+末法时期	mo fa shi qi	7
 模范	mo fan	500
 磨烦	mo fan	2
 模范城市	mo fan cheng shi	6
@@ -265252,6 +265261,7 @@ sort: by_weight
 通则	tong ze	196
 痛责	tong ze	6
 统战	tong zhan	165
+桶蘸	tong zhan	1
 同站	tong zhan	11
 统战部	tong zhan bu	46
 统战工作	tong zhan gong zuo	15
@@ -309960,6 +309970,7 @@ sort: by_weight
 言声	yan sheng	3
 眼生	yan sheng	28
 严声	yan sheng	3
+厌胜	yan sheng	3
 衍生产品	yan sheng chan pin	341
 衍生出	yan sheng chu	1703
 言声儿	yan sheng er	2
@@ -344604,6 +344615,7 @@ sort: by_weight
 榨出汁	zha chu zhi	3
 炸春卷	zha chun juan	18
 # 柞村	zha cun	0
+炸刺	zha ci	6
 渣打	zha da	90
 札达	zha da	27
 炸大虾	zha da xia	4
@@ -361117,6 +361129,7 @@ sort: by_weight
 周而不比	zhou er bu bi	1
 周而复	zhou er fu	5
 周而复始	zhou er fu shi	726
+咒法	zhou fa	16
 粥饭	zhou fan	16
 周方	zhou fang	10
 周防	zhou fang	10
