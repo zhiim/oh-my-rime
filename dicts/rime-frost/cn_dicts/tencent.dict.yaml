@@ -1193,7 +1193,7 @@ sort: by_weight
 上线服务	shang xian fu wu	0
 上线检验	shang xian jian yan	0
 上线活动	shang xian huo dong	0
-上线测试	shang xian ce shi	0
+上线测试	shang xian ce shi	20
 上线营业	shang xian ying ye	0
 上线计划	shang xian ji hua	0
 上线赠送	shang xian zeng song	0
@@ -2152,7 +2152,7 @@ sort: by_weight
 不乱扔烟头	bu luan reng yan tou	0
 不乱贴乱画	bu luan tie luan hua	0
 不争取	bu zheng qu	0
-不争吵	bu zheng chao	0
+不争吵	bu zheng chao	5
 不争论	bu zheng lun	0
 不二之臣	bu er zhi chen	0
 不亏损	bu kui sun	0
@@ -2994,7 +2994,7 @@ sort: by_weight
 不可相信	bu ke xiang xin	0
 不可看	bu ke kan	0
 不可确定	bu ke que ding	0
-不可笑	bu ke xiao	0
+不可笑	bu ke xiao	42
 不可能任务	bu ke neng ren wu	0
 不可能做到	bu ke neng zuo dao	0
 不可能出现	bu ke neng chu xian	0
@@ -3252,7 +3252,7 @@ sort: by_weight
 不同的业务	bu tong de ye wu	0
 不同的东西	bu tong de dong xi	0
 不同的个体	bu tong de ge ti	0
-不同的个性	bu tong de ge xing	0
+不同的个性	bu tong de ge xing	22
 不同的主体	bu tong de zhu ti	0
 不同的主题	bu tong de zhu ti	0
 不同的习惯	bu tong de xi guan	0
@@ -3721,7 +3721,7 @@ sort: by_weight
 不在那里	bu zai na li	0
 不在香港	bu zai xiang gang	0
 不在高	bu zai gao	0
-不坚决	bu jian jue	0
+不坚决	bu jian jue	26
 不坚强	bu jian qiang	0
 不坚持	bu jian chi	0
 不培养	bu pei yang	0
@@ -4552,7 +4552,7 @@ sort: by_weight
 不懂网络	bu dong wang luo	0
 不懂股票	bu dong gu piao	0
 不懂自己	bu dong zi ji	0
-不懂艺术	bu dong yi shu	0
+不懂艺术	bu dong yi shu	41
 不懂英语	bu dong ying yu	0
 不懂表达	bu dong biao da	0
 不懂规则	bu dong gui ze	0
@@ -4606,7 +4606,7 @@ sort: by_weight
 不投票	bu tou piao	0
 不投诉	bu tou su	0
 不投资	bu tou zi	0
-不抗拒	bu kang ju	0
+不抗拒	bu kang ju	37
 不折不扣完成	bu zhe bu kou wan cheng	0
 不折叠	bu zhe die	0
 不折磨	bu zhe mo	0
@@ -4907,7 +4907,7 @@ sort: by_weight
 不断锻炼	bu duan duan lian	0
 不断验证	bu duan yan zheng	0
 不断鼓励	bu duan gu li	0
-不新颖	bu xin ying	0
+不新颖	bu xin ying	14
 不方便回答	bu fang bian hui da	0
 不方面	bu fang mian	0
 不旅游	bu lv you	0
@@ -5753,7 +5753,7 @@ sort: by_weight
 不混乱	bu hun luan	0
 不混淆	bu hun xiao	0
 不添加	bu tian jia	0
-不清新	bu qing xin	0
+不清新	bu qing xin	8
 不清楚原因	bu qing chu yuan yin	0
 不清楚吗	bu qing chu ma	0
 不清楚对方	bu qing chu dui fang	0
@@ -5969,7 +5969,7 @@ sort: by_weight
 不申报	bu shen bao	0
 不男人	bu nan ren	0
 不画画	bu hua hua	0
-不画眼线	bu hua yan xian	0
+不画眼线	bu hua yan xian	1
 不畏劳苦	bu wei lao ku	0
 不畏危险	bu wei wei xian	0
 不畏艰难困苦	bu wei jian nan kun ku	0
@@ -6114,7 +6114,7 @@ sort: by_weight
 不立体	bu li ti	0
 不竞争	bu jing zheng	0
 不符合历史	bu fu he li shi	0
-不符合时代	bu fu he shi dai	0
+不符合时代	bu fu he shi dai	14
 不符合标准	bu fu he biao zhun	0
 不符合环保要求	bu fu he huan bao yao qiu	0
 不等于不	bu deng yu bu	0
@@ -9488,7 +9488,7 @@ sort: by_weight
 世界水准	shi jie shui zhun	0
 世界汽车	shi jie qi che	0
 世界沟通	shi jie gou tong	0
-世界法则	shi jie fa ze	0
+世界法则	shi jie fa ze	20
 世界法轮大法日	shi jie fa lun da fa ri	0
 世界海	shi jie hai	0
 世界海洋	shi jie hai yang	0
@@ -9716,7 +9716,7 @@ sort: by_weight
 业主们纷纷	ye zhu men fen fen	0
 业主们表示	ye zhu men biao shi	0
 业主会	ye zhu hui	0
-业主信息	ye zhu xin xi	0
+业主信息	ye zhu xin xi	5
 业主共有资金	ye zhu gong you zi jin	0
 业主利益	ye zhu li yi	0
 业主反馈	ye zhu fan kui	0
@@ -9837,7 +9837,7 @@ sort: by_weight
 业务定位	ye wu ding wei	0
 业务实体	ye wu shi ti	0
 业务实力	ye wu shi li	0
-业务实施	ye wu shi shi	0
+业务实施	ye wu shi shi	5
 业务实现	ye wu shi xian	0
 业务实践	ye wu shi jian	0
 业务实际	ye wu shi ji	0
@@ -9854,7 +9854,7 @@ sort: by_weight
 业务应用	ye wu ying yong	0
 业务建设	ye wu jian she	0
 业务开发	ye wu kai fa	0
-业务开展	ye wu kai zhan	0
+业务开展	ye wu kai zhan	120
 业务强	ye wu qiang	0
 业务形式	ye wu xing shi	0
 业务形态	ye wu xing tai	0
@@ -10075,7 +10075,7 @@ sort: by_weight
 业绩疲软	ye ji pi ruan	0
 业绩目标	ye ji mu biao	0
 业绩确定	ye ji que ding	0
-业绩稳定	ye ji wen ding	0
+业绩稳定	ye ji wen ding	54
 业绩第一	ye ji di yi	0
 业绩管理	ye ji guan li	0
 业绩线	ye ji xian	0
@@ -10149,7 +10149,7 @@ sort: by_weight
 东京热无码	dong jing re wu ma	0
 东京热高清无码	dong jing re gao qing wu ma	0
 东京熟	dong jing shu	0
-东京生活	dong jing sheng huo	0
+东京生活	dong jing sheng huo	5
 东京电子	dong jing dian zi	0
 东京社区	dong jing she qu	0
 东京计器	dong jing ji qi	0
@@ -10835,7 +10835,7 @@ sort: by_weight
 丢到家	diu dao jia	0
 丢失东西	diu shi dong xi	0
 丢失后	diu shi hou	0
-丢失孩子	diu shi hai zi	0
+丢失孩子	diu shi hai zi	3
 丢失工作	diu shi gong zuo	0
 丢失数据	diu shi shu ju	0
 丢失时间	diu shi shi jian	0
@@ -11390,7 +11390,7 @@ sort: by_weight
 两个男的	liang ge nan de	0
 两个画面	liang ge hua mian	0
 两个病人	liang ge bing ren	0
-两个百年	liang ge bai nian	0
+两个百年	liang ge bai nian	5
 两个皇帝	liang ge huang di	0
 两个皮肤	liang ge pi fu	0
 两个盒子	liang ge he zi	0
@@ -12990,7 +12990,7 @@ sort: by_weight
 两横三纵	liang heng san zong	0
 两次催收	liang ci cui shou	0
 两次出现	liang ci chu xian	0
-两次创业	liang ci chuang ye	0
+两次创业	liang ci chuang ye	8
 两次失败婚姻	liang ci shi bai hun yin	0
 两次机会	liang ci ji hui	0
 两次而已	liang ci er yi	0
@@ -13123,7 +13123,7 @@ sort: by_weight
 两种动力	liang zhong dong li	0
 两种动物	liang zhong dong wu	0
 两种发动机	liang zhong fa dong ji	0
-两种口感	liang zhong kou gan	0
+两种口感	liang zhong kou gan	12
 两种可能	liang zhong ke neng	0
 两种味道	liang zhong wei dao	0
 两种命运	liang zhong ming yun	0
@@ -13181,7 +13181,7 @@ sort: by_weight
 两种艺术	liang zhong yi shu	0
 两种花	liang zhong hua	0
 两种药物	liang zhong yao wu	0
-两种菜	liang zhong cai	0
+两种菜	liang zhong cai	1
 两种表现	liang zhong biao xian	0
 两种观点	liang zhong guan dian	0
 两种设计	liang zhong she ji	0
@@ -13875,7 +13875,7 @@ sort: by_weight
 个人的话	ge ren de hua	0
 个人的选择	ge ren de xuan ze	0
 个人的问题	ge ren de wen ti	0
-个人的需求	ge ren de xu qiu	0
+个人的需求	ge ren de xu qiu	97
 个人目标	ge ren mu biao	0
 个人直播	ge ren zhi bo	0
 个人相信	ge ren xiang xin	0
@@ -14799,7 +14799,7 @@ sort: by_weight
 中国储能	zhong guo chu neng	0
 中国储能网	zhong guo chu neng wang	0
 中国僵尸	zhong guo jiang shi	0
-中国儒家	zhong guo ru jia	0
+中国儒家	zhong guo ru jia	2
 中国儿童	zhong guo er tong	0
 中国儿艺	zhong guo er yi	0
 中国元	zhong guo yuan	0
@@ -15715,7 +15715,7 @@ sort: by_weight
 中国版权	zhong guo ban quan	0
 中国牙谷	zhong guo ya gu	0
 中国牛	zhong guo niu	0
-中国物业	zhong guo wu ye	0
+中国物业	zhong guo wu ye	2
 中国物业管理	zhong guo wu ye guan li	0
 中国物业管理协会	zhong guo wu ye guan li xie hui	0
 中国物价	zhong guo wu jia	0
@@ -16899,7 +16899,7 @@ sort: by_weight
 中心中学	zhong xin zhong xue	0
 中心主题	zhong xin zhu ti	0
 中心产品	zhong xin chan pin	0
-中心人员	zhong xin ren yuan	0
+中心人员	zhong xin ren yuan	2
 中心介绍	zhong xin jie shao	0
 中心价	zhong xin jia	0
 中心企业	zhong xin qi ye	0
@@ -17202,7 +17202,7 @@ sort: by_weight
 中期分析	zhong qi fen xi	0
 中期协	zhong qi xie	0
 中期息	zhong qi xi	0
-中期投资	zhong qi tou zi	0
+中期投资	zhong qi tou zi	7
 中期时	zhong qi shi	0
 中期期	zhong qi qi	0
 中期来看	zhong qi lai kan	0
@@ -18206,7 +18206,7 @@ sort: by_weight
 临床上	lin chuang shang	0
 临床专业	lin chuang zhuan ye	0
 临床专家组	lin chuang zhuan jia zu	0
-临床业务	lin chuang ye wu	0
+临床业务	lin chuang ye wu	2
 临床中	lin chuang zhong	0
 临床价值	lin chuang jia zhi	0
 临床优势	lin chuang you shi	0
@@ -18220,14 +18220,14 @@ sort: by_weight
 临床情况	lin chuang qing kuang	0
 临床执业医师考试	lin chuang zhi ye yi shi kao shi	0
 临床技术	lin chuang ji shu	0
-临床技能	lin chuang ji neng	0
+临床技能	lin chuang ji neng	40
 临床操作	lin chuang cao zuo	0
 临床教师	lin chuang jiao shi	0
 临床数据	lin chuang shu ju	0
 临床服务	lin chuang fu wu	0
 临床标准	lin chuang biao zhun	0
 临床水平	lin chuang shui ping	0
-临床环境	lin chuang huan jing	0
+临床环境	lin chuang huan jing	5
 临床申请	lin chuang shen qing	0
 临床相关	lin chuang xiang guan	0
 临床知识	lin chuang zhi shi	0
@@ -18939,7 +18939,7 @@ sort: by_weight
 主播包子	zhu bo bao zi	0
 主播吧	zhu bo ba	0
 主播喷水	zhu bo pen shui	0
-主播团队	zhu bo tuan dui	0
+主播团队	zhu bo tuan dui	4
 主播对抗赛	zhu bo dui kang sai	0
 主播平台	zhu bo ping tai	0
 主播推荐	zhu bo tui jian	0
@@ -19531,7 +19531,7 @@ sort: by_weight
 主题制作	zhu ti zhi zuo	0
 主题功能	zhu ti gong neng	0
 主题动漫	zhu ti dong man	0
-主题包	zhu ti bao	0
+主题包	zhu ti bao	10
 主题包括	zhu ti bao kuo	0
 主题化	zhu ti hua	0
 主题区	zhu ti qu	0
@@ -23374,7 +23374,7 @@ sort: by_weight
 于佳欣	yu jia xin	0
 于健康	yu jian kang	0
 于公司	yu gong si	0
-于凌晨	yu ling chen	0
+于凌晨	yu ling chen	12
 于北京	yu bei jing	0
 于医生	yu yi sheng	0
 于半珊	yu ban shan	0
@@ -24072,7 +24072,7 @@ sort: by_weight
 互联网功能	hu lian wang gong neng	0
 互联网加	hu lian wang jia	0
 互联网化	hu lian wang hua	0
-互联网医疗	hu lian wang yi liao	0
+互联网医疗	hu lian wang yi liao	203
 互联网医院	hu lian wang yi yuan	0
 互联网升级	hu lian wang sheng ji	0
 互联网厂商	hu lian wang chang shang	0
@@ -24115,7 +24115,7 @@ sort: by_weight
 互联网式	hu lian wang shi	0
 互联网思想	hu lian wang si xiang	0
 互联网思维	hu lian wang si wei	0
-互联网战略	hu lian wang zhan lve	0
+互联网战略	hu lian wang zhan lve	10
 互联网手机	hu lian wang shou ji	0
 互联网手段	hu lian wang shou duan	0
 互联网投票	hu lian wang tou piao	0
@@ -24168,7 +24168,7 @@ sort: by_weight
 互联网租赁	hu lian wang zu lin	0
 互联网移动	hu lian wang yi dong	0
 互联网竞争	hu lian wang jing zheng	0
-互联网端	hu lian wang duan	0
+互联网端	hu lian wang duan	7
 互联网第一	hu lian wang di yi	0
 互联网管理	hu lian wang guan li	0
 互联网类	hu lian wang lei	0
@@ -25911,7 +25911,7 @@ sort: by_weight
 交通志愿服务	jiao tong zhi yuan fu wu	0
 交通快讯	jiao tong kuai xun	0
 交通怎么样	jiao tong zen me yang	0
-交通情况	jiao tong qing kuang	0
+交通情况	jiao tong qing kuang	110
 交通执法人员	jiao tong zhi fa ren yuan	0
 交通执法大队	jiao tong zhi fa da dui	0
 交通执法支队	jiao tong zhi fa zhi dui	0
@@ -25995,7 +25995,7 @@ sort: by_weight
 交通设施建设	jiao tong she shi jian she	0
 交通设计	jiao tong she ji	0
 交通诱导屏	jiao tong you dao ping	0
-交通资源	jiao tong zi yuan	0
+交通资源	jiao tong zi yuan	10
 交通走廊	jiao tong zou lang	0
 交通路况信息	jiao tong lu kuang xin xi	0
 交通路段	jiao tong lu duan	0
@@ -26135,7 +26135,7 @@ sort: by_weight
 产业发展领导小组	chan ye fa zhan ling dao xiao zu	0
 产业发展高峰论坛	chan ye fa zhan gao feng lun tan	0
 产业变化	chan ye bian hua	0
-产业合作	chan ye he zuo	0
+产业合作	chan ye he zuo	6
 产业合作伙伴	chan ye he zuo huo ban	0
 产业合作平台	chan ye he zuo ping tai	0
 产业合作社	chan ye he zuo she	0
@@ -26184,7 +26184,7 @@ sort: by_weight
 产业强镇	chan ye qiang zhen	0
 产业形成	chan ye xing cheng	0
 产业影响	chan ye ying xiang	0
-产业思维	chan ye si wei	0
+产业思维	chan ye si wei	6
 产业恢复	chan ye hui fu	0
 产业情况	chan ye qing kuang	0
 产业所	chan ye suo	0
@@ -26293,7 +26293,7 @@ sort: by_weight
 产业逻辑	chan ye luo ji	0
 产业道路	chan ye dao lu	0
 产业配套能力	chan ye pei tao neng li	0
-产业金融	chan ye jin rong	0
+产业金融	chan ye jin rong	4
 产业链中	chan ye lian zhong	0
 产业链伙伴	chan ye lian huo ban	0
 产业链供应	chan ye lian gong ying	0
@@ -27097,7 +27097,7 @@ sort: by_weight
 产品高端	chan pin gao duan	0
 产品高质量	chan pin gao zhi liang	0
 产品魅力	chan pin mei li	0
-产品齐全	chan pin qi quan	0
+产品齐全	chan pin qi quan	6
 产城一体	chan cheng yi ti	0
 产城一体化	chan cheng yi ti hua	0
 产城人	chan cheng ren	0
@@ -27335,7 +27335,7 @@ sort: by_weight
 京东全城购	jing dong quan cheng gou	0
 京东公司	jing dong gong si	0
 京东农场	jing dong nong chang	0
-京东卖	jing dong mai	0
+京东卖	jing dong mai	15
 京东合作	jing dong he zuo	0
 京东员工	jing dong yuan gong	0
 京东在线	jing dong zai xian	0
@@ -27494,7 +27494,7 @@ sort: by_weight
 亮灯工程	liang deng gong cheng	0
 亮灯时间	liang deng shi jian	0
 亮点一	liang dian yi	0
-亮点不断	liang dian bu duan	0
+亮点不断	liang dian bu duan	4
 亮点二	liang dian er	0
 亮点产品	liang dian chan pin	0
 亮点内容	liang dian nei rong	0
@@ -28087,7 +28087,7 @@ sort: by_weight
 人员技能	ren yuan ji neng	0
 人员投入	ren yuan tou ru	0
 人员拒绝	ren yuan ju jue	0
-人员招聘	ren yuan zhao pin	0
+人员招聘	ren yuan zhao pin	83
 人员持证	ren yuan chi zheng	0
 人员指挥	ren yuan zhi hui	0
 人员排查登记	ren yuan pai cha deng ji	0
@@ -28145,7 +28145,7 @@ sort: by_weight
 人员花名册	ren yuan hua ming ce	0
 人员范围	ren yuan fan wei	0
 人员补充	ren yuan bu chong	0
-人员装备	ren yuan zhuang bei	0
+人员装备	ren yuan zhuang bei	2
 人员要求	ren yuan yao qiu	0
 人员规范	ren yuan gui fan	0
 人员计划	ren yuan ji hua	0
@@ -28864,7 +28864,7 @@ sort: by_weight
 人物卡	ren wu ka	0
 人物印象	ren wu yin xiang	0
 人物可爱	ren wu ke ai	0
-人物台词	ren wu tai ci	0
+人物台词	ren wu tai ci	34
 人物同防	ren wu tong fang	0
 人物名	ren wu ming	0
 人物名字	ren wu ming zi	0
@@ -28961,7 +28961,7 @@ sort: by_weight
 人生下来	ren sheng xia lai	0
 人生不再	ren sheng bu zai	0
 人生不同	ren sheng bu tong	0
-人生不易	ren sheng bu yi	0
+人生不易	ren sheng bu yi	29
 人生中	ren sheng zhong	0
 人生为何	ren sheng wei he	0
 人生之	ren sheng zhi	0
@@ -29058,7 +29058,7 @@ sort: by_weight
 人生选择	ren sheng xuan ze	0
 人生道	ren sheng dao	0
 人生道理	ren sheng dao li	0
-人生遗憾	ren sheng yi han	0
+人生遗憾	ren sheng yi han	12
 人生里	ren sheng li	0
 人生问题	ren sheng wen ti	0
 人生阶段	ren sheng jie duan	0
@@ -30355,7 +30355,7 @@ sort: by_weight
 从事金融活动	cong shi jin rong huo dong	0
 从事销售	cong shi xiao shou	0
 从交警	cong jiao jing	0
-从产品开发	cong chan pin kai fa	0
+从产品开发	cong chan pin kai fa	11
 从产品线	cong chan pin xian	0
 从产生	cong chan sheng	0
 从产量	cong chan liang	0
@@ -31326,7 +31326,7 @@ sort: by_weight
 代理登入	dai li deng ru	0
 代理相关	dai li xiang guan	0
 代理税务	dai li shui wu	0
-代理端	dai li duan	0
+代理端	dai li duan	1
 代理网	dai li wang	0
 代理网站	dai li wang zhan	0
 代理联盟	dai li lian meng	0
@@ -31510,7 +31510,7 @@ sort: by_weight
 令牌们	ling pai men	0
 令狐翼	ling hu yi	0
 令老师	ling lao shi	0
-令计划	ling ji hua	0
+令计划	ling ji hua	1
 以万物	yi wan wu	0
 以上一	yi shang yi	0
 以上三位	yi shang san wei	0
@@ -34233,11 +34233,11 @@ sort: by_weight
 休息后	xiu xi hou	0
 休息啦	xiu xi la	0
 休息好	xiu xi hao	0
-休息好了	xiu xi hao le	0
+休息好了	xiu xi hao le	61
 休息平台	xiu xi ping tai	0
 休息座椅	xiu xi zuo yi	0
 休息方式	xiu xi fang shi	0
-休息时候	xiu xi shi hou	0
+休息时候	xiu xi shi hou	30
 休息期间	xiu xi qi jian	0
 休息点	xiu xi dian	0
 休息状态	xiu xi zhuang tai	0
@@ -34436,7 +34436,7 @@ sort: by_weight
 优先发放	you xian fa fang	0
 优先发电	you xian fa dian	0
 优先吸纳	you xian xi na	0
-优先处理	you xian chu li	0
+优先处理	you xian chu li	77
 优先复工	you xian fu gong	0
 优先审评程序	you xian shen ping cheng xu	0
 优先工作	you xian gong zuo	0
@@ -36261,7 +36261,7 @@ sort: by_weight
 会说不	hui shuo bu	0
 会说到	hui shuo dao	0
 会说好	hui shuo hao	0
-会说英语	hui shuo ying yu	0
+会说英语	hui shuo ying yu	42
 会说话的	hui shuo hua de	0
 会说话的女人	hui shuo hua de nv ren	0
 会说谎	hui shuo huang	0
@@ -36570,7 +36570,7 @@ sort: by_weight
 伯雪鹰	bo xue ying	0
 估值中	gu zhi zhong	0
 估值优势	gu zhi you shi	0
-估值低	gu zhi di	0
+估值低	gu zhi di	75
 估值分析	gu zhi fen xi	0
 估值压力	gu zhi ya li	0
 估值变化	gu zhi bian hua	0
@@ -36814,7 +36814,7 @@ sort: by_weight
 低价超跌	di jia chao die	0
 低价酒店	di jia jiu dian	0
 低伤害	di shang hai	0
-低估值	di gu zhi	0
+低估值	di gu zhi	410
 低估值蓝筹股	di gu zhi lan chou gu	0
 低估值顺周期	di gu zhi shun zhou qi	0
 低位个股	di wei ge gu	0
@@ -37077,7 +37077,7 @@ sort: by_weight
 体力工作	ti li gong zuo	0
 体力方面	ti li fang mian	0
 体力要求	ti li yao qiu	0
-体力运动	ti li yun dong	0
+体力运动	ti li yun dong	18
 体力问题	ti li wen ti	0
 体医融合	ti yi rong he	0
 体博会	ti bo hui	0
@@ -37330,7 +37330,7 @@ sort: by_weight
 体育运动中心	ti yu yun dong zhong xin	0
 体育运动设施	ti yu yun dong she shi	0
 体育需求	ti yu xu qiu	0
-体育领域	ti yu ling yu	0
+体育领域	ti yu ling yu	53
 体育馆站	ti yu guan zhan	0
 体育馆项目	ti yu guan xiang mu	0
 体育首页	ti yu shou ye	0
@@ -38290,7 +38290,7 @@ sort: by_weight
 作为新手	zuo wei xin shou	0
 作为新时代的女性	zuo wei xin shi dai de nv xing	0
 作为新生代偶像	zuo wei xin sheng dai ou xiang	0
-作为新能源汽车	zuo wei xin neng yuan qi che	0
+作为新能源汽车	zuo wei xin neng yuan qi che	8
 作为新英雄	zuo wei xin ying xiong	0
 作为方法	zuo wei fang fa	0
 作为旗舰	zuo wei qi jian	0
@@ -39334,7 +39334,7 @@ sort: by_weight
 你可以接受	ni ke yi jie shou	0
 你可以改变	ni ke yi gai bian	0
 你可以放弃	ni ke yi fang qi	0
-你可以放心	ni ke yi fang xin	0
+你可以放心	ni ke yi fang xin	59
 你可以更好	ni ke yi geng hao	0
 你可以爱	ni ke yi ai	0
 你可以理解	ni ke yi li jie	0
@@ -39756,7 +39756,7 @@ sort: by_weight
 你感恩	ni gan en	0
 你感情	ni gan qing	0
 你愤怒	ni fen nu	0
-你愿意的话	ni yuan yi de hua	0
+你愿意的话	ni yuan yi de hua	15
 你慢一点	ni man yi dian	0
 你慢慢	ni man man	0
 你慢慢来	ni man man lai	0
@@ -39868,7 +39868,7 @@ sort: by_weight
 你是唯一的	ni shi wei yi de	0
 你是垃圾	ni shi la ji	0
 你是太阳	ni shi tai yang	0
-你是女人	ni shi nv ren	0
+你是女人	ni shi nv ren	3
 你是女生	ni shi nv sheng	0
 你是她的	ni shi ta de	0
 你是妈妈	ni shi ma ma	0
@@ -41748,7 +41748,7 @@ sort: by_weight
 使用电	shi yong dian	0
 使用电动车	shi yong dian dong che	0
 使用电压	shi yong dian ya	0
-使用电器	shi yong dian qi	0
+使用电器	shi yong dian qi	17
 使用电子产品	shi yong dian zi chan pin	0
 使用电梯	shi yong dian ti	0
 使用电池	shi yong dian chi	0
@@ -42421,7 +42421,7 @@ sort: by_weight
 依靠品牌	yi kao pin pai	0
 依靠团队	yi kao tuan dui	0
 依靠市场	yi kao shi chang	0
-依靠感	yi kao gan	0
+依靠感	yi kao gan	5
 依靠技术	yi kao ji shu	0
 依靠政府	yi kao zheng fu	0
 依靠数据	yi kao shu ju	0
@@ -42583,7 +42583,7 @@ sort: by_weight
 便便头	bian bian tou	0
 便公开	bian gong kai	0
 便利企业	bian li qi ye	0
-便利功能	bian li gong neng	0
+便利功能	bian li gong neng	4
 便利化营商环境	bian li hua ying shang huan jing	0
 便利店业务	bian li dian ye wu	0
 便利店商品	bian li dian shang pin	0
@@ -42613,7 +42613,7 @@ sort: by_weight
 便捷办	bian jie ban	0
 便捷就医	bian jie jiu yi	0
 便捷换乘	bian jie huan cheng	0
-便捷方式	bian jie fang shi	0
+便捷方式	bian jie fang shi	16
 便捷的金融	bian jie de jin rong	0
 便携式信息设备	bian xie shi xin xi she bei	0
 便携式数控切割机	bian xie shi shu kong qie ge ji	0
@@ -42808,7 +42808,7 @@ sort: by_weight
 促进新生	cu jin xin sheng	0
 促进旅游消费	cu jin lv you xiao fei	0
 促进服务	cu jin fu wu	0
-促进机构	cu jin ji gou	0
+促进机构	cu jin ji gou	7
 促进母乳喂养	cu jin mu ru wei yang	0
 促进民心相通	cu jin min xin xiang tong	0
 促进民族团结进步	cu jin min zu tuan jie jin bu	0
@@ -43042,7 +43042,7 @@ sort: by_weight
 保养中	bao yang zhong	0
 保养产品	bao yang chan pin	0
 保养价格	bao yang jia ge	0
-保养信息	bao yang xin xi	0
+保养信息	bao yang xin xi	1
 保养内容	bao yang nei rong	0
 保养单元和元件	bao yang dan yuan he yuan jian	0
 保养及维修	bao yang ji wei xiu	0
@@ -43387,7 +43387,7 @@ sort: by_weight
 保护美国	bao hu mei guo	0
 保护美国人	bao hu mei guo ren	0
 保护老人	bao hu lao ren	0
-保护联盟	bao hu lian meng	0
+保护联盟	bao hu lian meng	1
 保护肠道健康	bao hu chang dao jian kang	0
 保护胃肠	bao hu wei chang	0
 保护能力	bao hu neng li	0
@@ -44265,7 +44265,7 @@ sort: by_weight
 信息提示	xin xi ti shi	0
 信息提醒	xin xi ti xing	0
 信息搜索	xin xi sou suo	0
-信息搜集	xin xi sou ji	0
+信息搜集	xin xi sou ji	177
 信息摸排	xin xi mo pai	0
 信息支持	xin xi zhi chi	0
 信息支撑	xin xi zhi cheng	0
@@ -44615,7 +44615,7 @@ sort: by_weight
 修复过程中	xiu fu guo cheng zhong	0
 修复部分	xiu fu bu fen	0
 修复问题	xiu fu wen ti	0
-修复阶段	xiu fu jie duan	0
+修复阶段	xiu fu jie duan	6
 修女楼	xiu nv lou	0
 修妖者	xiu yao zhe	0
 修学佛法	xiu xue fo fa	0
@@ -45438,7 +45438,7 @@ sort: by_weight
 做到分	zuo dao fen	0
 做到前面	zuo dao qian mian	0
 做到及时	zuo dao ji shi	0
-做到合理	zuo dao he li	0
+做到合理	zuo dao he li	9
 做到坚持	zuo dao jian chi	0
 做到大	zuo dao da	0
 做到好	zuo dao hao	0
@@ -45642,7 +45642,7 @@ sort: by_weight
 做好打算	zuo hao da suan	0
 做好技术	zuo hao ji shu	0
 做好投资	zuo hao tou zi	0
-做好指导	zuo hao zhi dao	0
+做好指导	zuo hao zhi dao	1
 做好排查	zuo hao pai cha	0
 做好推广	zuo hao tui guang	0
 做好支撑	zuo hao zhi cheng	0
@@ -46442,7 +46442,7 @@ sort: by_weight
 健康保护	jian kang bao hu	0
 健康保证	jian kang bao zheng	0
 健康保障	jian kang bao zhang	0
-健康信号	jian kang xin hao	0
+健康信号	jian kang xin hao	1
 健康信息登记	jian kang xin xi deng ji	0
 健康值	jian kang zhi	0
 健康健康	jian kang jian kang	0
@@ -46457,7 +46457,7 @@ sort: by_weight
 健康内衣	jian kang nei yi	0
 健康分享	jian kang fen xiang	0
 健康分析	jian kang fen xi	0
-健康创新	jian kang chuang xin	0
+健康创新	jian kang chuang xin	1
 健康功能	jian kang gong neng	0
 健康助力	jian kang zhu li	0
 健康化	jian kang hua	0
@@ -46526,7 +46526,7 @@ sort: by_weight
 健康性	jian kang xing	0
 健康情报	jian kang qing bao	0
 健康意识	jian kang yi shi	0
-健康成分	jian kang cheng fen	0
+健康成分	jian kang cheng fen	4
 健康扫码	jian kang sao ma	0
 健康扶贫	jian kang fu pin	0
 健康扶贫工作	jian kang fu pin gong zuo	0
@@ -48022,7 +48022,7 @@ sort: by_weight
 充分利用时间	chong fen li yong shi jian	0
 充分响应	chong fen xiang ying	0
 充分学习	chong fen xue xi	0
-充分实现	chong fen shi xian	0
+充分实现	chong fen shi xian	15
 充分履职	chong fen lv zhi	0
 充分支持	chong fen zhi chi	0
 充分整合资源	chong fen zheng he zi yuan	0
@@ -48404,7 +48404,7 @@ sort: by_weight
 先进汽车	xian jin qi che	0
 先进班组	xian jin ban zu	0
 先进生产工艺	xian jin sheng chan gong yi	0
-先进的产品	xian jin de chan pin	0
+先进的产品	xian jin de chan pin	15
 先进的分析	xian jin de fen xi	0
 先进的加工工艺	xian jin de jia gong gong yi	0
 先进的加工设备	xian jin de jia gong she bei	0
@@ -50081,7 +50081,7 @@ sort: by_weight
 全国两会报道	quan guo liang hui bao dao	0
 全国两会精神	quan guo liang hui jing shen	0
 全国中	quan guo zhong	0
-全国中考	quan guo zhong kao	0
+全国中考	quan guo zhong kao	1
 全国乒乓球锦标赛	quan guo ping pang qiu jin biao sai	0
 全国乡村振兴	quan guo xiang cun zhen xing	0
 全国乡村治理	quan guo xiang cun zhi li	0
@@ -50251,7 +50251,7 @@ sort: by_weight
 全国新闻联播	quan guo xin wen lian bo	0
 全国施工	quan guo shi gong	0
 全国普法办	quan guo pu fa ban	0
-全国最佳	quan guo zui jia	0
+全国最佳	quan guo zui jia	13
 全国最多	quan guo zui duo	0
 全国最好	quan guo zui hao	0
 全国最早	quan guo zui zao	0
@@ -50296,7 +50296,7 @@ sort: by_weight
 全国直销	quan guo zhi xiao	0
 全国示范县	quan guo shi fan xian	0
 全国社会	quan guo she hui	0
-全国社区	quan guo she qu	0
+全国社区	quan guo she qu	2
 全国禁毒示范城市	quan guo jin du shi fan cheng shi	0
 全国科技	quan guo ke ji	0
 全国科技工作者日	quan guo ke ji gong zuo zhe ri	0
@@ -50346,7 +50346,7 @@ sort: by_weight
 全国观众	quan guo guan zhong	0
 全国规划	quan guo gui hua	0
 全国计划	quan guo ji hua	0
-全国认可	quan guo ren ke	0
+全国认可	quan guo ren ke	3
 全国认证	quan guo ren zheng	0
 全国评选	quan guo ping xuan	0
 全国货到付款	quan guo huo dao fu kuan	0
@@ -50355,7 +50355,7 @@ sort: by_weight
 全国软件	quan guo ruan jian	0
 全国运营	quan guo yun ying	0
 全国运输	quan guo yun shu	0
-全国送	quan guo song	0
+全国送	quan guo song	2
 全国送货	quan guo song huo	0
 全国通用粮票	quan guo tong yong liang piao	0
 全国酒店	quan guo jiu dian	0
@@ -50690,7 +50690,7 @@ sort: by_weight
 全新游戏	quan xin you xi	0
 全新特色	quan xin te se	0
 全新状态	quan xin zhuang tai	0
-全新环境	quan xin huan jing	0
+全新环境	quan xin huan jing	5
 全新理解	quan xin li jie	0
 全新瑞纳	quan xin rui na	0
 全新生活	quan xin sheng huo	0
@@ -51873,7 +51873,7 @@ sort: by_weight
 全面对标对表	quan mian dui biao dui biao	0
 全面对照	quan mian dui zhao	0
 全面小康指数	quan mian xiao kang zhi shu	0
-全面屏幕	quan mian ping mu	0
+全面屏幕	quan mian ping mu	6
 全面屏技术	quan mian ping ji shu	0
 全面屏新机	quan mian ping xin ji	0
 全面屏旗舰	quan mian ping qi jian	0
@@ -52583,7 +52583,7 @@ sort: by_weight
 公共镜像	gong gong jing xiang	0
 公共问题	gong gong wen ti	0
 公共集体户	gong gong ji ti hu	0
-公共项目	gong gong xiang mu	0
+公共项目	gong gong xiang mu	15
 公共风险	gong gong feng xian	0
 公关人	gong guan ren	0
 公关女	gong guan nv	0
@@ -53086,7 +53086,7 @@ sort: by_weight
 公司的策略	gong si de ce lve	0
 公司的管理	gong si de guan li	0
 公司的老板	gong si de lao ban	0
-公司的股票	gong si de gu piao	0
+公司的股票	gong si de gu piao	358
 公司的背景	gong si de bei jing	0
 公司的要求	gong si de yao qiu	0
 公司的资料	gong si de zi liao	0
@@ -55315,7 +55315,7 @@ sort: by_weight
 关于道德	guan yu dao de	0
 关于道路	guan yu dao lu	0
 关于那些	guan yu na xie	0
-关于郑州	guan yu zheng zhou	0
+关于郑州	guan yu zheng zhou	9
 关于配资	guan yu pei zi	0
 关于酒	guan yu jiu	0
 关于酒店	guan yu jiu dian	0
@@ -56519,7 +56519,7 @@ sort: by_weight
 其他应用程序	qi ta ying yong cheng xu	0
 其他店	qi ta dian	0
 其他店铺	qi ta dian pu	0
-其他废物	qi ta fei wu	0
+其他废物	qi ta fei wu	6
 其他建议	qi ta jian yi	0
 其他建设	qi ta jian she	0
 其他建设工程	qi ta jian she gong cheng	0
@@ -57609,7 +57609,7 @@ sort: by_weight
 具体的建议	ju ti de jian yi	0
 具体的情况	ju ti de qing kuang	0
 具体的技术	ju ti de ji shu	0
-具体的效果	ju ti de xiao guo	0
+具体的效果	ju ti de xiao guo	16
 具体的数据	ju ti de shu ju	0
 具体的方法	ju ti de fang fa	0
 具体的时间	ju ti de shi jian	0
@@ -57767,7 +57767,7 @@ sort: by_weight
 具有自检	ju you zi jian	0
 具有舒适	ju you shu shi	0
 具有良好的耐腐蚀	ju you liang hao de nai fu shi	0
-具有营养	ju you ying yang	0
+具有营养	ju you ying yang	5
 具有补肝益肾	ju you bu gan yi shen	0
 具有补肾	ju you bu shen	0
 具有记忆	ju you ji yi	0
@@ -57972,7 +57972,7 @@ sort: by_weight
 养老保险手册	yang lao bao xian shou ce	0
 养老保险查询	yang lao bao xian cha xun	0
 养老公司	yang lao gong si	0
-养老功能	yang lao gong neng	0
+养老功能	yang lao gong neng	3
 养老助残卡	yang lao zhu can ka	0
 养老工作	yang lao gong zuo	0
 养老床位	yang lao chuang wei	0
@@ -58399,7 +58399,7 @@ sort: by_weight
 内容玩法	nei rong wan fa	0
 内容理解	nei rong li jie	0
 内容生产	nei rong sheng chan	0
-内容生动	nei rong sheng dong	0
+内容生动	nei rong sheng dong	10
 内容生态	nei rong sheng tai	0
 内容生成	nei rong sheng cheng	0
 内容电商	nei rong dian shang	0
@@ -58782,7 +58782,7 @@ sort: by_weight
 内部信封料	nei bu xin feng liao	0
 内部停车场	nei bu ting che chang	0
 内部公告	nei bu gong gao	0
-内部公开	nei bu gong kai	0
+内部公开	nei bu gong kai	7
 内部凭证	nei bu ping zheng	0
 内部分	nei bu fen	0
 内部分享	nei bu fen xiang	0
@@ -58828,7 +58828,7 @@ sort: by_weight
 内部情况	nei bu qing kuang	0
 内部意见	nei bu yi jian	0
 内部成分	nei bu cheng fen	0
-内部成员	nei bu cheng yuan	0
+内部成员	nei bu cheng yuan	58
 内部成本	nei bu cheng ben	0
 内部战争	nei bu zhan zheng	0
 内部技术	nei bu ji shu	0
@@ -58919,7 +58919,7 @@ sort: by_weight
 内部连接	nei bu lian jie	0
 内部透密	nei bu tou mi	0
 内部透码	nei bu tou ma	0
-内部通知	nei bu tong zhi	0
+内部通知	nei bu tong zhi	11
 内部逻辑	nei bu luo ji	0
 内部部门	nei bu bu men	0
 内部链	nei bu lian	0
@@ -59242,7 +59242,7 @@ sort: by_weight
 再归来	zai gui lai	0
 再往上	zai wang shang	0
 再往前	zai wang qian	0
-再心动	zai xin dong	0
+再心动	zai xin dong	1
 再忘记	zai wang ji	0
 再快点	zai kuai dian	0
 再怀孕	zai huai yun	0
@@ -59311,7 +59311,7 @@ sort: by_weight
 再提起	zai ti qi	0
 再提醒	zai ti xing	0
 再提问	zai ti wen	0
-再搅拌	zai jiao ban	0
+再搅拌	zai jiao ban	19
 再操作	zai cao zuo	0
 再支付	zai zhi fu	0
 再收回	zai shou hui	0
@@ -59390,7 +59390,7 @@ sort: by_weight
 再次展现	zai ci zhan xian	0
 再次工作	zai ci gong zuo	0
 再次开启	zai ci kai qi	0
-再次强化	zai ci qiang hua	0
+再次强化	zai ci qiang hua	13
 再次强大	zai ci qiang da	0
 再次形成	zai ci xing cheng	0
 再次思考	zai ci si kao	0
@@ -59443,7 +59443,7 @@ sort: by_weight
 再次突破	zai ci tu po	0
 再次等待	zai ci deng dai	0
 再次签注	zai ci qian zhu	0
-再次结婚	zai ci jie hun	0
+再次结婚	zai ci jie hun	8
 再次编辑	zai ci bian ji	0
 再次蔓延	zai ci man yan	0
 再次表明	zai ci biao ming	0
@@ -59775,7 +59775,7 @@ sort: by_weight
 写作培训	xie zuo pei xun	0
 写作基础	xie zuo ji chu	0
 写作天赋	xie zuo tian fu	0
-写作实践	xie zuo shi jian	0
+写作实践	xie zuo shi jian	9
 写作对象	xie zuo dui xiang	0
 写作工具	xie zuo gong ju	0
 写作平台	xie zuo ping tai	0
@@ -59965,7 +59965,7 @@ sort: by_weight
 军事体验	jun shi ti yan	0
 军事信息	jun shi xin xi	0
 军事冬令营	jun shi dong ling ying	0
-军事准备	jun shi zhun bei	0
+军事准备	jun shi zhun bei	10
 军事分析	jun shi fen xi	0
 军事区域	jun shi qu yu	0
 军事博物馆站	jun shi bo wu guan zhan	0
@@ -60593,7 +60593,7 @@ sort: by_weight
 农村警务	nong cun jing wu	0
 农村贫困人口脱贫	nong cun pin kun ren kou tuo pin	0
 农村贫困劳动力	nong cun pin kun lao dong li	0
-农村资源	nong cun zi yuan	0
+农村资源	nong cun zi yuan	2
 农村赌博	nong cun du bo	0
 农村路网	nong cun lu wang	0
 农村转移劳动力	nong cun zhuan yi lao dong li	0
@@ -61369,7 +61369,7 @@ sort: by_weight
 决定放弃	jue ding fang qi	0
 决定方向	jue ding fang xiang	0
 决定时间	jue ding shi jian	0
-决定曝光	jue ding bao guang	0
+决定曝光	jue ding bao guang	2
 决定未来	jue ding wei lai	0
 决定来	jue ding lai	0
 决定正确	jue ding zheng que	0
@@ -62625,7 +62625,7 @@ sort: by_weight
 几点希望	ji dian xi wang	0
 几点开盘	ji dian kai pan	0
 几点要求	ji dian yao qiu	0
-几点说明	ji dian shuo ming	0
+几点说明	ji dian shuo ming	47
 几百万吧	ji bai wan ba	0
 几百个人	ji bai ge ren	0
 几百人了	ji bai ren le	0
@@ -63155,7 +63155,7 @@ sort: by_weight
 出彩人生	chu cai ren sheng	0
 出彩先锋	chu cai xian feng	0
 出彩河南	chu cai he nan	0
-出彩点	chu cai dian	0
+出彩点	chu cai dian	15
 出影响	chu ying xiang	0
 出征客场	chu zheng ke chang	0
 出征时	chu zheng shi	0
@@ -63185,7 +63185,7 @@ sort: by_weight
 出料阀	chu liao fa	0
 出新闻	chu xin wen	0
 出方案	chu fang an	0
-出智慧	chu zhi hui	0
+出智慧	chu zhi hui	18
 出服务	chu fu wu	0
 出本书	chu ben shu	0
 出村进城	chu cun jin cheng	0
@@ -64395,7 +64395,7 @@ sort: by_weight
 分类建设	fen lei jian she	0
 分类总结	fen lei zong jie	0
 分类情况	fen lei qing kuang	0
-分类意识	fen lei yi shi	0
+分类意识	fen lei yi shi	6
 分类技术	fen lei ji shu	0
 分类投放垃圾	fen lei tou fang la ji	0
 分类投放生活垃圾	fen lei tou fang sheng huo la ji	0
@@ -64477,7 +64477,7 @@ sort: by_weight
 分解后	fen jie hou	0
 分解能力	fen jie neng li	0
 分解货	fen jie huo	0
-分解过程	fen jie guo cheng	0
+分解过程	fen jie guo cheng	20
 分解问题	fen jie wen ti	0
 分论坛	fen lun tan	0
 分设备	fen she bei	0
@@ -65612,7 +65612,7 @@ sort: by_weight
 创业交流	chuang ye jiao liu	0
 创业产品	chuang ye chan pin	0
 创业人员	chuang ye ren yuan	0
-创业人才	chuang ye ren cai	0
+创业人才	chuang ye ren cai	15
 创业人物	chuang ye ren wu	0
 创业人生	chuang ye ren sheng	0
 创业人群	chuang ye ren qun	0
@@ -65736,7 +65736,7 @@ sort: by_weight
 创业者说	chuang ye zhe shuo	0
 创业能力	chuang ye neng li	0
 创业脱贫	chuang ye tuo pin	0
-创业至今	chuang ye zhi jin	0
+创业至今	chuang ye zhi jin	24
 创业致富带头人	chuang ye zhi fu dai tou ren	0
 创业苗圃	chuang ye miao pu	0
 创业英雄	chuang ye ying xiong	0
@@ -65992,7 +65992,7 @@ sort: by_weight
 创意图	chuang yi tu	0
 创意图片	chuang yi tu pian	0
 创意圣诞	chuang yi sheng dan	0
-创意城市	chuang yi cheng shi	0
+创意城市	chuang yi cheng shi	8
 创意多	chuang yi duo	0
 创意好	chuang yi hao	0
 创意小商品	chuang yi xiao shang pin	0
@@ -66267,7 +66267,7 @@ sort: by_weight
 创新版	chuang xin ban	0
 创新环境	chuang xin huan jing	0
 创新理论武装	chuang xin li lun wu zhuang	0
-创新生产	chuang xin sheng chan	0
+创新生产	chuang xin sheng chan	2
 创新生态链	chuang xin sheng tai lian	0
 创新生活	chuang xin sheng huo	0
 创新生物	chuang xin sheng wu	0
@@ -68194,7 +68194,7 @@ sort: by_weight
 制作生日蛋糕	zhi zuo sheng ri dan gao	0
 制作电子图	zhi zuo dian zi tu	0
 制作电影	zhi zuo dian ying	0
-制作电视	zhi zuo dian shi	0
+制作电视	zhi zuo dian shi	3
 制作的内容	zhi zuo de nei rong	0
 制作的方法	zhi zuo de fang fa	0
 制作的时间	zhi zuo de shi jian	0
@@ -69327,7 +69327,7 @@ sort: by_weight
 力量平衡	li liang ping heng	0
 力量建设	li liang jian she	0
 力量强	li liang qiang	0
-力量强化	li liang qiang hua	0
+力量强化	li liang qiang hua	4
 力量性	li liang xing	0
 力量投入	li liang tou ru	0
 力量控制	li liang kong zhi	0
@@ -70110,7 +70110,7 @@ sort: by_weight
 加加班	jia jia ban	0
 加加速	jia jia su	0
 加加速啊	jia jia su a	0
-加包装	jia bao zhuang	0
+加包装	jia bao zhuang	7
 加十分	jia shi fen	0
 加华资本	jia hua zi ben	0
 加博会	jia bo hui	0
@@ -70566,7 +70566,7 @@ sort: by_weight
 加快游戏	jia kuai you xi	0
 加快现代农业	jia kuai xian dai nong ye	0
 加快生态文明建设	jia kuai sheng tai wen ming jian she	0
-加快研究	jia kuai yan jiu	0
+加快研究	jia kuai yan jiu	4
 加快破解	jia kuai po jie	0
 加快社区	jia kuai she qu	0
 加快立法	jia kuai li fa	0
@@ -70764,7 +70764,7 @@ sort: by_weight
 加盟咨询	jia meng zi xun	0
 加盟商机	jia meng shang ji	0
 加盟园	jia meng yuan	0
-加盟城市	jia meng cheng shi	0
+加盟城市	jia meng cheng shi	1
 加盟好项目	jia meng hao xiang mu	0
 加盟学员	jia meng xue yuan	0
 加盟官网	jia meng guan wang	0
@@ -71067,7 +71067,7 @@ sort: by_weight
 动作语言	dong zuo yu yan	0
 动作说明	dong zuo shuo ming	0
 动作质量	dong zuo zhi liang	0
-动作较大	dong zuo jiao da	0
+动作较大	dong zuo jiao da	2
 动作过程	dong zuo guo cheng	0
 动作过程中	dong zuo guo cheng zhong	0
 动作锻炼	dong zuo duan lian	0
@@ -71101,7 +71101,7 @@ sort: by_weight
 动力如何	dong li ru he	0
 动力小	dong li xiao	0
 动力工具	dong li gong ju	0
-动力差	dong li cha	0
+动力差	dong li cha	27
 动力平台	dong li ping tai	0
 动力强	dong li qiang	0
 动力强大	dong li qiang da	0
@@ -71729,7 +71729,7 @@ sort: by_weight
 努力维持	nu li wei chi	0
 努力绽放	nu li zhan fang	0
 努力者	nu li zhe	0
-努力融入	nu li rong ru	0
+努力融入	nu li rong ru	21
 努力表现	nu li biao xian	0
 努力认真	nu li ren zhen	0
 努力训练	nu li xun lian	0
@@ -71983,7 +71983,7 @@ sort: by_weight
 勤劳贤惠	qin lao xian hui	0
 勤勉务实	qin mian wu shi	0
 勤勤恳恳做事	qin qin ken ken zuo shi	0
-勤奋一点	qin fen yi dian	0
+勤奋一点	qin fen yi dian	48
 勤奋点	qin fen dian	0
 勤奋耕耘	qin fen geng yun	0
 勤开窗通风	qin kai chuang tong feng	0
@@ -73402,7 +73402,7 @@ sort: by_weight
 北京幼升小网	bei jing you sheng xiao wang	0
 北京广告	bei jing guang gao	0
 北京应急	bei jing ying ji	0
-北京店	bei jing dian	0
+北京店	bei jing dian	6
 北京延庆区	bei jing yan qing qu	0
 北京建博会	bei jing jian bo hui	0
 北京建材	bei jing jian cai	0
@@ -73568,7 +73568,7 @@ sort: by_weight
 北京美莱	bei jing mei lai	0
 北京翻译	bei jing fan yi	0
 北京翻译公司	bei jing fan yi gong si	0
-北京老人	bei jing lao ren	0
+北京老人	bei jing lao ren	5
 北京老年医院	bei jing lao nian yi yuan	0
 北京老房装修	bei jing lao fang zhuang xiu	0
 北京考生	bei jing kao sheng	0
@@ -75226,7 +75226,7 @@ sort: by_weight
 十分好看	shi fen hao kan	0
 十分妩媚	shi fen wu mei	0
 十分安全	shi fen an quan	0
-十分完美	shi fen wan mei	0
+十分完美	shi fen wan mei	75
 十分小	shi fen xiao	0
 十分差	shi fen cha	0
 十分年轻	shi fen nian qing	0
@@ -75726,7 +75726,7 @@ sort: by_weight
 升级型	sheng ji xing	0
 升级基金	sheng ji ji jin	0
 升级处理	sheng ji chu li	0
-升级失败	sheng ji shi bai	0
+升级失败	sheng ji shi bai	8
 升级完成	sheng ji wan cheng	0
 升级工具	sheng ji gong ju	0
 升级平台	sheng ji ping tai	0
@@ -75770,7 +75770,7 @@ sort: by_weight
 升级生活	sheng ji sheng huo	0
 升级相关	sheng ji xiang guan	0
 升级礼包	sheng ji li bao	0
-升级科技	sheng ji ke ji	0
+升级科技	sheng ji ke ji	15
 升级空间	sheng ji kong jian	0
 升级策略	sheng ji ce lve	0
 升级管理	sheng ji guan li	0
@@ -76181,7 +76181,7 @@ sort: by_weight
 华克之	hua ke zhi	0
 华克山庄	hua ke shan zhuang	0
 华全动力	hua quan dong li	0
-华公司	hua gong si	0
+华公司	hua gong si	6
 华公子	hua gong zi	0
 华兴玻璃	hua xing bo li	0
 华兴路	hua xing lu	0
@@ -76604,7 +76604,7 @@ sort: by_weight
 卓远陶瓷	zhuo yuan tao ci	0
 卓锦娘	zhuo jin niang	0
 单一业务	dan yi ye wu	0
-单一事件	dan yi shi jian	0
+单一事件	dan yi shi jian	20
 单一产品	dan yi chan pin	0
 单一企业	dan yi qi ye	0
 单一功能	dan yi gong neng	0
@@ -76929,7 +76929,7 @@ sort: by_weight
 单纯比	dan chun bi	0
 单纯简单	dan chun jian dan	0
 单纯红细胞再生障碍性贫血	dan chun hong xi bao zai sheng zhang ai xing pin xue	0
-单纯聊天	dan chun liao tian	0
+单纯聊天	dan chun liao tian	2
 单缸圆锥破	dan gang yuan zhui po	0
 单缸圆锥破碎机	dan gang yuan zhui po sui ji	0
 单缸液压圆锥破	dan gang ye ya yuan zhui po	0
@@ -79549,7 +79549,7 @@ sort: by_weight
 压力平衡	ya li ping heng	0
 压力式	ya li shi	0
 压力很大	ya li hen da	0
-压力很小	ya li hen xiao	0
+压力很小	ya li hen xiao	51
 压力性	ya li xing	0
 压力情况	ya li qing kuang	0
 压力指数	ya li zhi shu	0
@@ -81759,7 +81759,7 @@ sort: by_weight
 又嫌弃	you xian qi	0
 又孤独	you gu du	0
 又安静	you an jing	0
-又实惠	you shi hui	0
+又实惠	you shi hui	54
 又小又细	you xiao you xi	0
 又小心翼翼	you xiao xin yi yi	0
 又干嘛	you gan ma	0
@@ -81967,7 +81967,7 @@ sort: by_weight
 及时交办	ji shi jiao ban	0
 及时交流	ji shi jiao liu	0
 及时享受	ji shi xiang shou	0
-及时保护	ji shi bao hu	0
+及时保护	ji shi bao hu	7
 及时信息	ji shi xin xi	0
 及时做	ji shi zuo	0
 及时关注	ji shi guan zhu	0
@@ -82314,7 +82314,7 @@ sort: by_weight
 双学双比	shuang xue shuang bi	0
 双学霸	shuang xue ba	0
 双宋夫妇	shuang song fu fu	0
-双定位	shuang ding wei	0
+双定位	shuang ding wei	1
 双室真空包装机	shuang shi zhen kong bao zhuang ji	0
 双导轨	shuang dao gui	0
 双小外	shuang xiao wai	0
@@ -82843,7 +82843,7 @@ sort: by_weight
 反复研判	fan fu yan pan	0
 反复种植失败	fan fu zhong zhi shi bai	0
 反复筑底	fan fu zhu di	0
-反复练	fan fu lian	0
+反复练	fan fu lian	54
 反复练习	fan fu lian xi	0
 反复要求	fan fu yao qiu	0
 反复观察	fan fu guan cha	0
@@ -83007,7 +83007,7 @@ sort: by_weight
 反硝化作用	fan xiao hua zuo yong	0
 反空间	fan kong jian	0
 反窃电	fan qie dian	0
-反类型	fan lei xing	0
+反类型	fan lei xing	41
 反绒皮	fan rong pi	0
 反美先锋	fan mei xian feng	0
 反美国家	fan mei guo jia	0
@@ -83068,7 +83068,7 @@ sort: by_weight
 反馈工作	fan kui gong zuo	0
 反馈建议	fan kui jian yi	0
 反馈式	fan kui shi	0
-反馈感	fan kui gan	0
+反馈感	fan kui gan	42
 反馈抑制器	fan kui yi zhi qi	0
 反馈效果	fan kui xiao guo	0
 反馈数据	fan kui shu ju	0
@@ -83512,7 +83512,7 @@ sort: by_weight
 发展真理	fa zhan zhen li	0
 发展眼光	fa zhan yan guang	0
 发展知识	fa zhan zhi shi	0
-发展短板	fa zhan duan ban	0
+发展短板	fa zhan duan ban	3
 发展研究	fa zhan yan jiu	0
 发展研究中心主任	fa zhan yan jiu zhong xin zhu ren	0
 发展研究会	fa zhan yan jiu hui	0
@@ -83545,7 +83545,7 @@ sort: by_weight
 发展网	fa zhan wang	0
 发展背景	fa zhan bei jing	0
 发展能力	fa zhan neng li	0
-发展能源	fa zhan neng yuan	0
+发展能源	fa zhan neng yuan	1
 发展自身	fa zhan zi shen	0
 发展舞台	fa zhan wu tai	0
 发展节奏	fa zhan jie zou	0
@@ -83580,7 +83580,7 @@ sort: by_weight
 发展路	fa zhan lu	0
 发展路径	fa zhan lu jing	0
 发展路线	fa zhan lu xian	0
-发展轨迹	fa zhan gui ji	0
+发展轨迹	fa zhan gui ji	192
 发展转型	fa zhan zhuan xing	0
 发展载体	fa zhan zai ti	0
 发展过程中	fa zhan guo cheng zhong	0
@@ -84650,7 +84650,7 @@ sort: by_weight
 变形后	bian xing hou	0
 变形大	bian xing da	0
 变形小	bian xing xiao	0
-变形情况	bian xing qing kuang	0
+变形情况	bian xing qing kuang	8
 变形抗力	bian xing kang li	0
 变形生活	bian xing sheng huo	0
 变形神话	bian xing shen hua	0
@@ -84730,7 +84730,7 @@ sort: by_weight
 变更公司	bian geng gong si	0
 变更公示	bian geng gong shi	0
 变更内容	bian geng nei rong	0
-变更前	bian geng qian	0
+变更前	bian geng qian	8
 变更募集资金用途	bian geng mu ji zi jin yong tu	0
 变更发布	bian geng fa bu	0
 变更后	bian geng hou	0
@@ -84940,7 +84940,7 @@ sort: by_weight
 口感不好	kou gan bu hao	0
 口感不错	kou gan bu cuo	0
 口感体验	kou gan ti yan	0
-口感味道	kou gan wei dao	0
+口感味道	kou gan wei dao	60
 口感如何	kou gan ru he	0
 口感很好	kou gan hen hao	0
 口感方面	kou gan fang mian	0
@@ -85057,7 +85057,7 @@ sort: by_weight
 口袋暴龙	kou dai bao long	0
 口袋棋牌	kou dai qi pai	0
 口袋灵眸	kou dai ling mou	0
-口袋里面	kou dai li mian	0
+口袋里面	kou dai li mian	48
 口袋钓鱼	kou dai diao yu	0
 口袋鼓起来	kou dai gu qi lai	0
 口语中	kou yu zhong	0
@@ -87656,7 +87656,7 @@ sort: by_weight
 可壁挂	ke bi gua	0
 可处理	ke chu li	0
 可复制	ke fu zhi	0
-可复古	ke fu gu	0
+可复古	ke fu gu	3
 可奈子	ke nai zi	0
 可女人	ke nv ren	0
 可她说	ke ta shuo	0
@@ -88157,7 +88157,7 @@ sort: by_weight
 可能失败	ke neng shi bai	0
 可能好	ke neng hao	0
 可能如此	ke neng ru ci	0
-可能存在的问题	ke neng cun zai de wen ti	0
+可能存在的问题	ke neng cun zai de wen ti	82
 可能存在问题	ke neng cun zai wen ti	0
 可能宝宝	ke neng bao bao	0
 可能实现	ke neng shi xian	0
@@ -88452,7 +88452,7 @@ sort: by_weight
 可靠不可靠啊	ke kao bu ke kao a	0
 可靠之人	ke kao zhi ren	0
 可靠品质	ke kao pin zhi	0
-可靠性好	ke kao xing hao	0
+可靠性好	ke kao xing hao	15
 可靠性检测	ke kao xing jian ce	0
 可靠性研究	ke kao xing yan jiu	0
 可靠性能	ke kao xing neng	0
@@ -89312,7 +89312,7 @@ sort: by_weight
 吃水饺了	chi shui jiao le	0
 吃水饺了吗	chi shui jiao le ma	0
 吃泡泡	chi pao pao	0
-吃火锅吧	chi huo guo ba	0
+吃火锅吧	chi huo guo ba	5
 吃点吧	chi dian ba	0
 吃热狗了	chi re gou le	0
 吃热狗的照片	chi re gou de zhao pian	0
@@ -89360,7 +89360,7 @@ sort: by_weight
 吃茶喝茶	chi cha he cha	0
 吃草的	chi cao de	0
 吃药啊	chi yao a	0
-吃营养	chi ying yang	0
+吃营养	chi ying yang	8
 吃装备	chi zhuang bei	0
 吃货主播	chi huo zhu bo	0
 吃货君	chi huo jun	0
@@ -90021,7 +90021,7 @@ sort: by_weight
 各种店铺	ge zhong dian pu	0
 各种建筑	ge zhong jian zhu	0
 各种开关	ge zhong kai guan	0
-各种开挂	ge zhong kai gua	0
+各种开挂	ge zhong kai gua	12
 各种开销	ge zhong kai xiao	0
 各种异形	ge zhong yi xing	0
 各种形态	ge zhong xing tai	0
@@ -90908,7 +90908,7 @@ sort: by_weight
 合作店	he zuo dian	0
 合作建立	he zuo jian li	0
 合作建议	he zuo jian yi	0
-合作建设	he zuo jian she	0
+合作建设	he zuo jian she	21
 合作开放	he zuo kai fang	0
 合作式	he zuo shi	0
 合作微信	he zuo wei xin	0
@@ -91229,7 +91229,7 @@ sort: by_weight
 合理的训练	he li de xun lian	0
 合理的设计	he li de she ji	0
 合理的评价	he li de ping jia	0
-合理的距离	he li de ju li	0
+合理的距离	he li de ju li	8
 合理的运动	he li de yun dong	0
 合理的选择	he li de xuan ze	0
 合理的逻辑	he li de luo ji	0
@@ -92111,7 +92111,7 @@ sort: by_weight
 同步规划建设	tong bu gui hua jian she	0
 同步视频	tong bu shi pin	0
 同步训练	tong bu xun lian	0
-同步记录	tong bu ji lu	0
+同步记录	tong bu ji lu	11
 同步设计	tong bu she ji	0
 同步课件	tong bu ke jian	0
 同步课程	tong bu ke cheng	0
@@ -92734,7 +92734,7 @@ sort: by_weight
 后续消息	hou xu xiao xi	0
 后续版本	hou xu ban ben	0
 后续环节	hou xu huan jie	0
-后续研发	hou xu yan fa	0
+后续研发	hou xu yan fa	8
 后续研究	hou xu yan jiu	0
 后续程序	hou xu cheng xu	0
 后续管护	hou xu guan hu	0
@@ -94279,7 +94279,7 @@ sort: by_weight
 员工情况	yuan gong qing kuang	0
 员工情绪	yuan gong qing xu	0
 员工意见	yuan gong yi jian	0
-员工感染	yuan gong gan ran	0
+员工感染	yuan gong gan ran	3
 员工成本	yuan gong cheng ben	0
 员工技术	yuan gong ji shu	0
 员工技能培训	yuan gong ji neng pei xun	0
@@ -94890,7 +94890,7 @@ sort: by_weight
 味道不纯	wei dao bu chun	0
 味道中国	wei dao zhong guo	0
 味道丰富	wei dao feng fu	0
-味道口感	wei dao kou gan	0
+味道口感	wei dao kou gan	33
 味道太咸	wei dao tai xian	0
 味道太大	wei dao tai da	0
 味道如何	wei dao ru he	0
@@ -95075,7 +95075,7 @@ sort: by_weight
 咋个整	za ge zheng	0
 咋办啊	za ban a	0
 咋可能	za ke neng	0
-咋样啊	za yang a	0
+咋样啊	za yang a	31
 和中村	he zhong cun	0
 和中立	he zhong li	0
 和中路	he zhong lu	0
@@ -97993,7 +97993,7 @@ sort: by_weight
 喜欢自然	xi huan zi ran	0
 喜欢自由	xi huan zi you	0
 喜欢舒适	xi huan shu shi	0
-喜欢舞蹈	xi huan wu dao	0
+喜欢舞蹈	xi huan wu dao	8
 喜欢艺术	xi huan yi shu	0
 喜欢花	xi huan hua	0
 喜欢花钱	xi huan hua qian	0
@@ -98466,7 +98466,7 @@ sort: by_weight
 噪音方面	zao yin fang mian	0
 噪音标准	zao yin biao zhun	0
 噪音水平	zao yin shui ping	0
-噪音环境	zao yin huan jing	0
+噪音环境	zao yin huan jing	35
 噪音表现	zao yin biao xian	0
 噪音要求	zao yin yao qiu	0
 噪音问题	zao yin wen ti	0
@@ -98537,7 +98537,7 @@ sort: by_weight
 四个世界	si ge shi jie	0
 四个丫环	si ge ya huan	0
 四个中国	si ge zhong guo	0
-四个主题	si ge zhu ti	0
+四个主题	si ge zhu ti	15
 四个习惯	si ge xi guan	0
 四个五	si ge wu	0
 四个人中	si ge ren zhong	0
@@ -99403,7 +99403,7 @@ sort: by_weight
 四驱豪华型	si qu hao hua xing	0
 四驱越野房车	si qu yue ye fang che	0
 回一个	hui yi ge	0
-回一句	hui yi ju	0
+回一句	hui yi ju	118
 回不去的	hui bu qu de	0
 回不回家呀	hui bu hui jia ya	0
 回不回来呀	hui bu hui lai ya	0
@@ -100371,7 +100371,7 @@ sort: by_weight
 团队走	tuan dui zou	0
 团队足球	tuan dui zu qiu	0
 团队辅助	tuan dui fu zhu	0
-团队运作	tuan dui yun zuo	0
+团队运作	tuan dui yun zuo	63
 团队运动	tuan dui yun dong	0
 团队运营	tuan dui yun ying	0
 团队进入	tuan dui jin ru	0
@@ -100703,7 +100703,7 @@ sort: by_weight
 固定测速	gu ding ce su	0
 固定消费	gu ding xiao fei	0
 固定消防设施	gu ding xiao fang she shi	0
-固定球	gu ding qiu	0
+固定球	gu ding qiu	1
 固定球阀	gu ding qiu fa	0
 固定用户	gu ding yong hu	0
 固定电话机	gu ding dian hua ji	0
@@ -101199,7 +101199,7 @@ sort: by_weight
 国内经济	guo nei jing ji	0
 国内经济增速放缓	guo nei jing ji zeng su fang huan	0
 国内综合	guo nei zong he	0
-国内综艺	guo nei zong yi	0
+国内综艺	guo nei zong yi	10
 国内网友	guo nei wang you	0
 国内网站	guo nei wang zhan	0
 国内美女	guo nei mei nv	0
@@ -102147,9 +102147,9 @@ sort: by_weight
 国际会所	guo ji hui suo	0
 国际会议厅	guo ji hui yi ting	0
 国际体验	guo ji ti yan	0
-国际保险	guo ji bao xian	0
+国际保险	guo ji bao xian	5
 国际信息	guo ji xin xi	0
-国际健康	guo ji jian kang	0
+国际健康	guo ji jian kang	4
 国际储能	guo ji chu neng	0
 国际元	guo ji yuan	0
 国际元素	guo ji yuan su	0
@@ -102232,7 +102232,7 @@ sort: by_weight
 国际学习	guo ji xue xi	0
 国际学术论坛	guo ji xue shu lun tan	0
 国际学生	guo ji xue sheng	0
-国际学科	guo ji xue ke	0
+国际学科	guo ji xue ke	7
 国际完美世界下载	guo ji wan mei shi jie xia zai	0
 国际官方	guo ji guan fang	0
 国际官方网	guo ji guan fang wang	0
@@ -102249,7 +102249,7 @@ sort: by_weight
 国际小商品	guo ji xiao shang pin	0
 国际小姐	guo ji xiao jie	0
 国际少儿英语	guo ji shao er ying yu	0
-国际层面	guo ji ceng mian	0
+国际层面	guo ji ceng mian	14
 国际展商	guo ji zhan shang	0
 国际展示	guo ji zhan shi	0
 国际展览业协会	guo ji zhan lan ye xie hui	0
@@ -102359,7 +102359,7 @@ sort: by_weight
 国际物流港	guo ji wu liu gang	0
 国际狮子会	guo ji shi zi hui	0
 国际环球	guo ji huan qiu	0
-国际现代	guo ji xian dai	0
+国际现代	guo ji xian dai	2
 国际现货	guo ji xian huo	0
 国际现金网	guo ji xian jin wang	0
 国际珠宝网	guo ji zhu bao wang	0
@@ -102416,7 +102416,7 @@ sort: by_weight
 国际舞蹈中心	guo ji wu dao zhong xin	0
 国际航空枢纽建设	guo ji hang kong shu niu jian she	0
 国际航运枢纽	guo ji hang yun shu niu	0
-国际艺术	guo ji yi shu	0
+国际艺术	guo ji yi shu	10
 国际艺术品	guo ji yi shu pin	0
 国际花园城市	guo ji hua yuan cheng shi	0
 国际英语	guo ji ying yu	0
@@ -102565,7 +102565,7 @@ sort: by_weight
 图像效果	tu xiang xiao guo	0
 图像监控	tu xiang jian kong	0
 图像管理	tu xiang guan li	0
-图像类型	tu xiang lei xing	0
+图像类型	tu xiang lei xing	3
 图像细节	tu xiang xi jie	0
 图像美化	tu xiang mei hua	0
 图像视频	tu xiang shi pin	0
@@ -103195,7 +103195,7 @@ sort: by_weight
 在一起呀	zai yi qi ya	0
 在一起啦	zai yi qi la	0
 在一起好吗	zai yi qi hao ma	0
-在一起就好	zai yi qi jiu hao	0
+在一起就好	zai yi qi jiu hao	8
 在七月	zai qi yue	0
 在上空	zai shang kong	0
 在下一秒	zai xia yi miao	0
@@ -104972,7 +104972,7 @@ sort: by_weight
 城市距离	cheng shi ju li	0
 城市路	cheng shi lu	0
 城市车	cheng shi che	0
-城市车辆	cheng shi che liang	0
+城市车辆	cheng shi che liang	4
 城市轨道交通专业	cheng shi gui dao jiao tong zhuan ye	0
 城市转型升级	cheng shi zhuan xing sheng ji	0
 城市运动	cheng shi yun dong	0
@@ -105151,7 +105151,7 @@ sort: by_weight
 培养学	pei yang xue	0
 培养孩子的好习惯	pei yang hai zi de hao xi guan	0
 培养客户	pei yang ke hu	0
-培养小孩	pei yang xiao hai	0
+培养小孩	pei yang xiao hai	11
 培养工作	pei yang gong zuo	0
 培养市场	pei yang shi chang	0
 培养平台	pei yang ping tai	0
@@ -105535,7 +105535,7 @@ sort: by_weight
 基层委员会	ji ceng wei yuan hui	0
 基层宣讲	ji ceng xuan jiang	0
 基层导向	ji ceng dao xiang	0
-基层市场	ji ceng shi chang	0
+基层市场	ji ceng shi chang	3
 基层干部队伍	ji ceng gan bu dui wu	0
 基层抗疫	ji ceng kang yi	0
 基层探索	ji ceng tan suo	0
@@ -106278,7 +106278,7 @@ sort: by_weight
 基金知识	ji jin zhi shi	0
 基金研究	ji jin yan jiu	0
 基金种类	ji jin zhong lei	0
-基金管	ji jin guan	0
+基金管	ji jin guan	1
 基金类	ji jin lei	0
 基金类型	ji jin lei xing	0
 基金组合	ji jin zu he	0
@@ -106867,7 +106867,7 @@ sort: by_weight
 增加自信	zeng jia zi xin	0
 增加色彩	zeng jia se cai	0
 增加营养	zeng jia ying yang	0
-增加蔬菜	zeng jia shu cai	0
+增加蔬菜	zeng jia shu cai	16
 增加蛋白质	zeng jia dan bai zhi	0
 增加融资	zeng jia rong zi	0
 增加衣服	zeng jia yi fu	0
@@ -106946,7 +106946,7 @@ sort: by_weight
 增强全民法治观念	zeng qiang quan min fa zhi guan nian	0
 增强分析	zeng qiang fen xi	0
 增强创新意识	zeng qiang chuang xin yi shi	0
-增强力量	zeng qiang li liang	0
+增强力量	zeng qiang li liang	44
 增强功能	zeng qiang gong neng	0
 增强发展信心	zeng qiang fa zhan xin xin	0
 增强发展新动能	zeng qiang fa zhan xin dong neng	0
@@ -107478,7 +107478,7 @@ sort: by_weight
 处置各类突发事件	chu zhi ge lei tu fa shi jian	0
 处置器	chu zhi qi	0
 处置时	chu zhi shi	0
-处置时间	chu zhi shi jian	0
+处置时间	chu zhi shi jian	6
 处置服务	chu zhi fu wu	0
 处置演练	chu zhi yan lian	0
 处置突发	chu zhi tu fa	0
@@ -108661,7 +108661,7 @@ sort: by_weight
 外部平台	wai bu ping tai	0
 外部开发	wai bu kai fa	0
 外部影响	wai bu ying xiang	0
-外部成本	wai bu cheng ben	0
+外部成本	wai bu cheng ben	13
 外部投资	wai bu tou zi	0
 外部接线	wai bu jie xian	0
 外部支持	wai bu zhi chi	0
@@ -108783,7 +108783,7 @@ sort: by_weight
 多个第一	duo ge di yi	0
 多个组织	duo ge zu zhi	0
 多个美国	duo ge mei guo	0
-多个赛季	duo ge sai ji	0
+多个赛季	duo ge sai ji	16
 多个选择	duo ge xuan ze	0
 多个部分	duo ge bu fen	0
 多个部门	duo ge bu men	0
@@ -109095,7 +109095,7 @@ sort: by_weight
 多多岛	duo duo dao	0
 多多平台	duo duo ping tai	0
 多多推荐	duo duo tui jian	0
-多多支持	duo duo zhi chi	0
+多多支持	duo duo zhi chi	123
 多多支持小编	duo duo zhi chi xiao bian	0
 多多点	duo duo dian	0
 多多理解	duo duo li jie	0
@@ -109406,9 +109406,9 @@ sort: by_weight
 多数朋友	duo shu peng you	0
 多数来	duo shu lai	0
 多数父母	duo shu fu mu	0
-多数球员	duo shu qiu yuan	0
+多数球员	duo shu qiu yuan	14
 多数用户	duo shu yong hu	0
-多数股票	duo shu gu piao	0
+多数股票	duo shu gu piao	7
 多数观众	duo shu guan zhong	0
 多数量	duo shu liang	0
 多文化	duo wen hua	0
@@ -110382,7 +110382,7 @@ sort: by_weight
 大光圈	da guang quan	0
 大光明寺	da guang ming si	0
 大光相	da guang xiang	0
-大党委	da dang wei	0
+大党委	da dang wei	1
 大全下载	da quan xia zai	0
 大全游戏	da quan you xi	0
 大全软件	da quan ruan jian	0
@@ -111200,10 +111200,10 @@ sort: by_weight
 大学生就业	da xue sheng jiu ye	0
 大学生就业指导	da xue sheng jiu ye zhi dao	0
 大学生开房	da xue sheng kai fang	0
-大学生思想	da xue sheng si xiang	0
+大学生思想	da xue sheng si xiang	3
 大学生数量	da xue sheng shu liang	0
 大学生文化	da xue sheng wen hua	0
-大学生日常	da xue sheng ri chang	0
+大学生日常	da xue sheng ri chang	3
 大学生朋友	da xue sheng peng you	0
 大学生服务	da xue sheng fu wu	0
 大学生村医	da xue sheng cun yi	0
@@ -114962,7 +114962,7 @@ sort: by_weight
 太焦高铁	tai jiao gao tie	0
 太物质	tai wu zhi	0
 太特别	tai te bie	0
-太独特	tai du te	0
+太独特	tai du te	38
 太独立	tai du li	0
 太玄妙	tai xuan miao	0
 太玄门	tai xuan men	0
@@ -115044,7 +115044,7 @@ sort: by_weight
 太阳一样	tai yang yi yang	0
 太阳丘	tai yang qiu	0
 太阳中	tai yang zhong	0
-太阳中心	tai yang zhong xin	0
+太阳中心	tai yang zhong xin	40
 太阳之下	tai yang zhi xia	0
 太阳之力	tai yang zhi li	0
 太阳之火	tai yang zhi huo	0
@@ -116277,7 +116277,7 @@ sort: by_weight
 女人物质	nv ren wu zhi	0
 女人狗	nv ren gou	0
 女人独立	nv ren du li	0
-女人生产	nv ren sheng chan	0
+女人生产	nv ren sheng chan	1
 女人生活	nv ren sheng huo	0
 女人电影	nv ren dian ying	0
 女人的下部	nv ren de xia bu	0
@@ -116570,7 +116570,7 @@ sort: by_weight
 女孩头像	nv hai tou xiang	0
 女孩好	nv hai hao	0
 女孩妈妈	nv hai ma ma	0
-女孩子名字	nv hai zi ming zi	0
+女孩子名字	nv hai zi ming zi	3
 女孩子啊	nv hai zi a	0
 女孩子喜欢	nv hai zi xi huan	0
 女孩子嘛	nv hai zi ma	0
@@ -118052,7 +118052,7 @@ sort: by_weight
 好清晰	hao qing xi	0
 好清洁	hao qing jie	0
 好清洗	hao qing xi	0
-好清爽	hao qing shuang	0
+好清爽	hao qing shuang	5
 好清理	hao qing li	0
 好渠道	hao qu dao	0
 好温暖	hao wen nuan	0
@@ -118193,7 +118193,7 @@ sort: by_weight
 好的婆婆	hao de po po	0
 好的婚礼	hao de hun li	0
 好的学习	hao de xue xi	0
-好的学习方法	hao de xue xi fang fa	0
+好的学习方法	hao de xue xi fang fa	106
 好的孩子	hao de hai zi	0
 好的宝宝	hao de bao bao	0
 好的客户	hao de ke hu	0
@@ -118974,7 +118974,7 @@ sort: by_weight
 如何报考	ru he bao kao	0
 如何报警	ru he bao jing	0
 如何报销	ru he bao xiao	0
-如何抵达	ru he di da	0
+如何抵达	ru he di da	17
 如何拆	ru he chai	0
 如何拍	ru he pai	0
 如何拍摄	ru he pai she	0
@@ -119086,7 +119086,7 @@ sort: by_weight
 如何玩扑克	ru he wan pu ke	0
 如何玩斗牛	ru he wan dou niu	0
 如何玩游戏	ru he wan you xi	0
-如何珍惜	ru he zhen xi	0
+如何珍惜	ru he zhen xi	7
 如何理解中国	ru he li jie zhong guo	0
 如何理财	ru he li cai	0
 如何理赔	ru he li pei	0
@@ -119698,7 +119698,7 @@ sort: by_weight
 如此总结	ru ci zong jie	0
 如此情况	ru ci qing kuang	0
 如此想	ru ci xiang	0
-如此意外	ru ci yi wai	0
+如此意外	ru ci yi wai	3
 如此愤怒	ru ci fen nu	0
 如此成功	ru ci cheng gong	0
 如此成熟	ru ci cheng shu	0
@@ -119709,7 +119709,7 @@ sort: by_weight
 如此撩人	ru ci liao ren	0
 如此操作	ru ci cao zuo	0
 如此方便	ru ci fang bian	0
-如此无聊	ru ci wu liao	0
+如此无聊	ru ci wu liao	18
 如此时	ru ci shi	0
 如此时尚	ru ci shi shang	0
 如此明显	ru ci ming xian	0
@@ -122278,7 +122278,7 @@ sort: by_weight
 学专业	xue zhuan ye	0
 学业务	xue ye wu	0
 学业工作	xue ye gong zuo	0
-学业要求	xue ye yao qiu	0
+学业要求	xue ye yao qiu	18
 学业评价	xue ye ping jia	0
 学业问题	xue ye wen ti	0
 学中国	xue zhong guo	0
@@ -123114,7 +123114,7 @@ sort: by_weight
 学术研究会	xue shu yan jiu hui	0
 学术积累	xue shu ji lei	0
 学术管理	xue shu guan li	0
-学术精神	xue shu jing shen	0
+学术精神	xue shu jing shen	25
 学术经历	xue shu jing li	0
 学术经验	xue shu jing yan	0
 学术网站	xue shu wang zhan	0
@@ -123648,7 +123648,7 @@ sort: by_weight
 学科兴趣	xue ke xing qu	0
 学科内	xue ke nei	0
 学科内容	xue ke nei rong	0
-学科创新	xue ke chuang xin	0
+学科创新	xue ke chuang xin	26
 学科化	xue ke hua	0
 学科协作	xue ke xie zuo	0
 学科发展	xue ke fa zhan	0
@@ -123781,7 +123781,7 @@ sort: by_weight
 学院女神	xue yuan nv shen	0
 学院学生	xue yuan xue sheng	0
 学院学科	xue yuan xue ke	0
-学院官网	xue yuan guan wang	0
+学院官网	xue yuan guan wang	104
 学院就业	xue yuan jiu ye	0
 学院工作	xue yuan gong zuo	0
 学院建筑	xue yuan jian zhu	0
@@ -123850,7 +123850,7 @@ sort: by_weight
 孩子上网	hai zi shang wang	0
 孩子上课	hai zi shang ke	0
 孩子不会	hai zi bu hui	0
-孩子不吃	hai zi bu chi	0
+孩子不吃	hai zi bu chi	1
 孩子不同	hai zi bu tong	0
 孩子不喜欢	hai zi bu xi huan	0
 孩子不好	hai zi bu hao	0
@@ -123867,7 +123867,7 @@ sort: by_weight
 孩子不适合	hai zi bu shi he	0
 孩子专注	hai zi zhuan zhu	0
 孩子世界	hai zi shi jie	0
-孩子丢失	hai zi diu shi	0
+孩子丢失	hai zi diu shi	2
 孩子为中心	hai zi wei zhong xin	0
 孩子为主	hai zi wei zhu	0
 孩子主动	hai zi zhu dong	0
@@ -123994,7 +123994,7 @@ sort: by_weight
 孩子工作	hai zi gong zuo	0
 孩子帮	hai zi bang	0
 孩子干	hai zi gan	0
-孩子平安	hai zi ping an	0
+孩子平安	hai zi ping an	3
 孩子年龄	hai zi nian ling	0
 孩子幸福	hai zi xing fu	0
 孩子开	hai zi kai	0
@@ -124169,7 +124169,7 @@ sort: by_weight
 孩子脸	hai zi lian	0
 孩子脾胃	hai zi pi wei	0
 孩子脾胃虚弱	hai zi pi wei xu ruo	0
-孩子自主	hai zi zi zhu	0
+孩子自主	hai zi zi zhu	3
 孩子自信	hai zi zi xin	0
 孩子自卑	hai zi zi bei	0
 孩子自学	hai zi zi xue	0
@@ -124797,7 +124797,7 @@ sort: by_weight
 安全主题	an quan zhu ti	0
 安全之弦	an quan zhi xian	0
 安全习惯	an quan xi guan	0
-安全些	an quan xie	0
+安全些	an quan xie	41
 安全交易	an quan jiao yi	0
 安全交通	an quan jiao tong	0
 安全产业	an quan chan ye	0
@@ -124952,14 +124952,14 @@ sort: by_weight
 安全挂锁	an quan gua suo	0
 安全指数	an quan zhi shu	0
 安全指标	an quan zhi biao	0
-安全挑战	an quan tiao zhan	0
+安全挑战	an quan tiao zhan	10
 安全控制器	an quan kong zhi qi	0
 安全提升	an quan ti sheng	0
 安全提醒	an quan ti xing	0
 安全搜索	an quan sou suo	0
 安全操作技能	an quan cao zuo ji neng	0
 安全操作注意事项	an quan cao zuo zhu yi shi xiang	0
-安全支付	an quan zhi fu	0
+安全支付	an quan zhi fu	15
 安全支持	an quan zhi chi	0
 安全攻击	an quan gong ji	0
 安全政策	an quan zheng ce	0
@@ -125002,7 +125002,7 @@ sort: by_weight
 安全概念	an quan gai nian	0
 安全正常	an quan zheng chang	0
 安全正点	an quan zheng dian	0
-安全氛围	an quan fen wei	0
+安全氛围	an quan fen wei	2
 安全水	an quan shui	0
 安全水域	an quan shui yu	0
 安全水平	an quan shui ping	0
@@ -125110,7 +125110,7 @@ sort: by_weight
 安全督查	an quan du cha	0
 安全知识教育	an quan zhi shi jiao yu	0
 安全研究	an quan yan jiu	0
-安全确认	an quan que ren	0
+安全确认	an quan que ren	4
 安全社交距离	an quan she jiao ju li	0
 安全祭扫	an quan ji sao	0
 安全祭祀	an quan ji si	0
@@ -125593,7 +125593,7 @@ sort: by_weight
 安排学习	an pai xue xi	0
 安排安排	an pai an pai	0
 安排就业	an pai jiu ye	0
-安排工程	an pai gong cheng	0
+安排工程	an pai gong cheng	1
 安排师	an pai shi	0
 安排意见	an pai yi jian	0
 安排我	an pai wo	0
@@ -125711,7 +125711,7 @@ sort: by_weight
 安藤玉惠	an teng yu hui	0
 安装一	an zhuang yi	0
 安装一条龙服务	an zhuang yi tiao long fu wu	0
-安装下载	an zhuang xia zai	0
+安装下载	an zhuang xia zai	22
 安装不正确	an zhuang bu zheng que	0
 安装与维修	an zhuang yu wei xiu	0
 安装专业	an zhuang zhuan ye	0
@@ -126317,7 +126317,7 @@ sort: by_weight
 完全成功	wan quan cheng gong	0
 完全成本	wan quan cheng ben	0
 完全成熟	wan quan cheng shu	0
-完全战胜	wan quan zhan sheng	0
+完全战胜	wan quan zhan sheng	9
 完全打开	wan quan da kai	0
 完全打破	wan quan da po	0
 完全扭曲	wan quan niu qu	0
@@ -126491,7 +126491,7 @@ sort: by_weight
 完善政策措施	wan shan zheng ce cuo shi	0
 完善教育	wan shan jiao yu	0
 完善数据	wan shan shu ju	0
-完善方案	wan shan fang an	0
+完善方案	wan shan fang an	15
 完善施工	wan shan shi gong	0
 完善有关	wan shan you guan	0
 完善服务	wan shan fu wu	0
@@ -126532,7 +126532,7 @@ sort: by_weight
 完善网站	wan shan wang zhan	0
 完善网络	wan shan wang luo	0
 完善考核机制	wan shan kao he ji zhi	0
-完善自身	wan shan zi shen	0
+完善自身	wan shan zi shen	27
 完善规则	wan shan gui ze	0
 完善计划	wan shan ji hua	0
 完善设计	wan shan she ji	0
@@ -126741,7 +126741,7 @@ sort: by_weight
 完结时	wan jie shi	0
 完结时间	wan jie shi jian	0
 完美一点	wan mei yi dian	0
-完美下载	wan mei xia zai	0
+完美下载	wan mei xia zai	1
 完美世界中	wan mei shi jie zhong	0
 完美世界小说下载	wan mei shi jie xiao shuo xia zai	0
 完美世界辰东	wan mei shi jie chen dong	0
@@ -126820,7 +126820,7 @@ sort: by_weight
 完美的工作	wan mei de gong zuo	0
 完美的手机	wan mei de shou ji	0
 完美的技术	wan mei de ji shu	0
-完美的控制	wan mei de kong zhi	0
+完美的控制	wan mei de kong zhi	7
 完美的操作	wan mei de cao zuo	0
 完美的故事	wan mei de gu shi	0
 完美的服务	wan mei de fu wu	0
@@ -126831,7 +126831,7 @@ sort: by_weight
 完美的生活	wan mei de sheng huo	0
 完美的电影	wan mei de dian ying	0
 完美的答案	wan mei de da an	0
-完美的结合	wan mei de jie he	0
+完美的结合	wan mei de jie he	89
 完美的结果	wan mei de jie guo	0
 完美的脸蛋	wan mei de lian dan	0
 完美的自己	wan mei de zi ji	0
@@ -126859,7 +126859,7 @@ sort: by_weight
 完美自己	wan mei zi ji	0
 完美节奏	wan mei jie zou	0
 完美芦荟	wan mei lu hui	0
-完美英雄	wan mei ying xiong	0
+完美英雄	wan mei ying xiong	7
 完美补充	wan mei bu chong	0
 完美表达	wan mei biao da	0
 完美装备	wan mei zhuang bei	0
@@ -127061,7 +127061,7 @@ sort: by_weight
 官方技术	guan fang ji shu	0
 官方投注	guan fang tou zhu	0
 官方报告	guan fang bao gao	0
-官方报道	guan fang bao dao	0
+官方报道	guan fang bao dao	32
 官方招聘	guan fang zhao pin	0
 官方指定用车	guan fang zhi ding yong che	0
 官方指导	guan fang zhi dao	0
@@ -128073,7 +128073,7 @@ sort: by_weight
 实习活动	shi xi huo dong	0
 实习点	shi xi dian	0
 实习爸爸	shi xi ba ba	0
-实习生们	shi xi sheng men	0
+实习生们	shi xi sheng men	44
 实习生张	shi xi sheng zhang	0
 实习生李	shi xi sheng li	0
 实习生杨	shi xi sheng yang	0
@@ -128308,7 +128308,7 @@ sort: by_weight
 实操技术	shi cao ji shu	0
 实操能力	shi cao neng li	0
 实操项目	shi cao xiang mu	0
-实施一年	shi shi yi nian	0
+实施一年	shi shi yi nian	1
 实施临时交通管制	shi shi lin shi jiao tong guan zhi	0
 实施临时救助	shi shi lin shi jiu zhu	0
 实施之前	shi shi zhi qian	0
@@ -128403,7 +128403,7 @@ sort: by_weight
 实施要求	shi shi yao qiu	0
 实施规定	shi shi gui ding	0
 实施责任	shi shi ze ren	0
-实施起来	shi shi qi lai	0
+实施起来	shi shi qi lai	84
 实施过程中	shi shi guo cheng zhong	0
 实施进展	shi shi jin zhan	0
 实施道路	shi shi dao lu	0
@@ -129552,7 +129552,7 @@ sort: by_weight
 客服帮助	ke fu bang zhu	0
 客服平台	ke fu ping tai	0
 客服很好	ke fu hen hao	0
-客服微信	ke fu wei xin	0
+客服微信	ke fu wei xin	38
 客服推荐	ke fu tui jian	0
 客服支持	ke fu zhi chi	0
 客服文员	ke fu wen yuan	0
@@ -130111,7 +130111,7 @@ sort: by_weight
 家庭内	jia ting nei	0
 家庭内部	jia ting nei bu	0
 家庭农场负责人	jia ting nong chang fu ze ren	0
-家庭冲突	jia ting chong tu	0
+家庭冲突	jia ting chong tu	14
 家庭分	jia ting fen	0
 家庭利益	jia ting li yi	0
 家庭制作	jia ting zhi zuo	0
@@ -130331,7 +130331,7 @@ sort: by_weight
 家族公司	jia zu gong si	0
 家族内	jia zu nei	0
 家族内部	jia zu nei bu	0
-家族利益	jia zu li yi	0
+家族利益	jia zu li yi	67
 家族力量	jia zu li liang	0
 家族化前脸	jia zu hua qian lian	0
 家族历史	jia zu li shi	0
@@ -130492,7 +130492,7 @@ sort: by_weight
 家装业	jia zhuang ye	0
 家装中	jia zhuang zhong	0
 家装产业	jia zhuang chan ye	0
-家装修	jia zhuang xiu	0
+家装修	jia zhuang xiu	15
 家装公司排名	jia zhuang gong si pai ming	0
 家装合同	jia zhuang he tong	0
 家装培训	jia zhuang pei xun	0
@@ -130562,7 +130562,7 @@ sort: by_weight
 家里钱	jia li qian	0
 家野三肖	jia ye san xiao	0
 家野中特	jia ye zhong te	0
-家钥匙	jia yao shi	0
+家钥匙	jia yao shi	1
 家门兴旺	jia men xing wang	0
 家门口就业	jia men kou jiu ye	0
 家附近	jia fu jin	0
@@ -130805,7 +130805,7 @@ sort: by_weight
 宽松舒适的板型	kuan song shu shi de ban xing	0
 宽松蝙蝠袖	kuan song bian fu xiu	0
 宽松裙	kuan song qun	0
-宽松设计	kuan song she ji	0
+宽松设计	kuan song she ji	3
 宽松软	kuan song ruan	0
 宽松连衣裙	kuan song lian yi qun	0
 宽松高腰	kuan song gao yao	0
@@ -131542,7 +131542,7 @@ sort: by_weight
 导入本	dao ru ben	0
 导入视频	dao ru shi pin	0
 导入证书	dao ru zheng shu	0
-导出视频	dao chu shi pin	0
+导出视频	dao chu shi pin	61
 导压管	dao ya guan	0
 导向仪	dao xiang yi	0
 导向件	dao xiang jian	0
@@ -131948,7 +131948,7 @@ sort: by_weight
 尊贵智联型	zun gui zhi lian xing	0
 尊贵服务	zun gui fu wu	0
 尊贵豪华	zun gui hao hua	0
-小一万	xiao yi wan	0
+小一万	xiao yi wan	68
 小一只	xiao yi zhi	0
 小一班	xiao yi ban	0
 小丁丁啊	xiao ding ding a	0
@@ -132281,7 +132281,7 @@ sort: by_weight
 小升级	xiao sheng ji	0
 小升规	xiao sheng gui	0
 小半天	xiao ban tian	0
-小单品	xiao dan pin	0
+小单品	xiao dan pin	8
 小单子	xiao dan zi	0
 小卖家	xiao mai jia	0
 小南京	xiao nan jing	0
@@ -134287,7 +134287,7 @@ sort: by_weight
 少年将	shao nian jiang	0
 少年强	shao nian qiang	0
 少年御灵师	shao nian yu ling shi	0
-少年感	shao nian gan	0
+少年感	shao nian gan	321
 少年所	shao nian suo	0
 少年故事	shao nian gu shi	0
 少年时候	shao nian shi hou	0
@@ -135181,8 +135181,8 @@ sort: by_weight
 层次多	ceng ci duo	0
 层次感满满	ceng ci gan man man	0
 层次提升	ceng ci ti sheng	0
-层次教育	ceng ci jiao yu	0
-层次明显	ceng ci ming xian	0
+层次教育	ceng ci jiao yu	6
+层次明显	ceng ci ming xian	8
 层次设计	ceng ci she ji	0
 层次高	ceng ci gao	0
 层次高的女人	ceng ci gao de nv ren	0
@@ -135299,7 +135299,7 @@ sort: by_weight
 居民文化	ju min wen hua	0
 居民朋友	ju min peng you	0
 居民朋友们	ju min peng you men	0
-居民服务	ju min fu wu	0
+居民服务	ju min fu wu	13
 居民楼院	ju min lou yuan	0
 居民生活品质	ju min sheng huo pin zhi	0
 居民生活垃圾	ju min sheng huo la ji	0
@@ -138103,7 +138103,7 @@ sort: by_weight
 工具组	gong ju zu	0
 工具组合	gong ju zu he	0
 工具组套	gong ju zu tao	0
-工具网	gong ju wang	0
+工具网	gong ju wang	4
 工具网站	gong ju wang zhan	0
 工具菜单	gong ju cai dan	0
 工具设备	gong ju she bei	0
@@ -138267,7 +138267,7 @@ sort: by_weight
 工程发展	gong cheng fa zhan	0
 工程合作	gong cheng he zuo	0
 工程合同价款	gong cheng he tong jia kuan	0
-工程名	gong cheng ming	0
+工程名	gong cheng ming	1
 工程咨询管理	gong cheng zi xun guan li	0
 工程咨询集团	gong cheng zi xun ji tuan	0
 工程团队	gong cheng tuan dui	0
@@ -138284,7 +138284,7 @@ sort: by_weight
 工程宝	gong cheng bao	0
 工程实体质量	gong cheng shi ti zhi liang	0
 工程实现	gong cheng shi xian	0
-工程实验	gong cheng shi yan	0
+工程实验	gong cheng shi yan	12
 工程客户	gong cheng ke hu	0
 工程工具	gong cheng gong ju	0
 工程工程	gong cheng gong cheng	0
@@ -138485,7 +138485,7 @@ sort: by_weight
 工艺改造	gong yi gai zao	0
 工艺效果	gong yi xiao guo	0
 工艺数据	gong yi shu ju	0
-工艺文化	gong yi wen hua	0
+工艺文化	gong yi wen hua	2
 工艺新	gong yi xin	0
 工艺方式	gong yi fang shi	0
 工艺方面	gong yi fang mian	0
@@ -138756,7 +138756,7 @@ sort: by_weight
 巨大的城市	ju da de cheng shi	0
 巨大的声音	ju da de sheng yin	0
 巨大的太阳	ju da de tai yang	0
-巨大的失败	ju da de shi bai	0
+巨大的失败	ju da de shi bai	20
 巨大的好消息	ju da de hao xiao xi	0
 巨大的工作	ju da de gong zuo	0
 巨大的差异	ju da de cha yi	0
@@ -139013,7 +139013,7 @@ sort: by_weight
 已开启了	yi kai qi le	0
 已开启的	yi kai qi de	0
 已开拍	yi kai pai	0
-已开放	yi kai fang	0
+已开放	yi kai fang	57
 已开盘	yi kai pan	0
 已张贴	yi zhang tie	0
 已形成	yi xing cheng	0
@@ -141066,7 +141066,7 @@ sort: by_weight
 带公式	dai gong shi	0
 带兵人	dai bing ren	0
 带农户	dai nong hu	0
-带出场	dai chu chang	0
+带出场	dai chu chang	4
 带出门	dai chu men	0
 带刺激	dai ci ji	0
 带动一方	dai dong yi fang	0
@@ -141342,7 +141342,7 @@ sort: by_weight
 帮中国	bang zhong guo	0
 帮他人	bang ta ren	0
 帮他做	bang ta zuo	0
-帮他分析	bang ta fen xi	0
+帮他分析	bang ta fen xi	17
 帮他擦呢	bang ta ca ne	0
 帮他擦擦	bang ta ca ca	0
 帮代办	bang dai ban	0
@@ -142845,7 +142845,7 @@ sort: by_weight
 平民女	ping min nv	0
 平民影院	ping min ying yuan	0
 平民王妃	ping min wang fei	0
-平民玩家	ping min wan jia	0
+平民玩家	ping min wan jia	188
 平民轿跑	ping min jiao pao	0
 平水铜	ping shui tong	0
 平江人	ping jiang ren	0
@@ -143678,7 +143678,7 @@ sort: by_weight
 幸福号	xing fu hao	0
 幸福合照	xing fu he zhao	0
 幸福吧	xing fu ba	0
-幸福呀	xing fu ya	0
+幸福呀	xing fu ya	16
 幸福呢	xing fu ne	0
 幸福哦	xing fu o	0
 幸福在路上	xing fu zai lu shang	0
@@ -144839,7 +144839,7 @@ sort: by_weight
 广西资讯	guang xi zi xun	0
 广西金嗓子	guang xi jin sang zi	0
 广西金融	guang xi jin rong	0
-广西钟山	guang xi zhong shan	0
+广西钟山	guang xi zhong shan	1
 广西钦州市	guang xi qin zhou shi	0
 广西钦州港	guang xi qin zhou gang	0
 广西隆安	guang xi long an	0
@@ -145136,7 +145136,7 @@ sort: by_weight
 应往届初	ying wang jie chu	0
 应征公民	ying zheng gong min	0
 应快速	ying kuai su	0
-应怎样	ying zen yang	0
+应怎样	ying zen yang	12
 应急事故	ying ji shi gu	0
 应急产业	ying ji chan ye	0
 应急产业发展	ying ji chan ye fa zhan	0
@@ -145401,7 +145401,7 @@ sort: by_weight
 应用技能	ying yong ji neng	0
 应用报告	ying yong bao gao	0
 应用指导	ying yong zhi dao	0
-应用授权	ying yong shou quan	0
+应用授权	ying yong shou quan	11
 应用排名	ying yong pai ming	0
 应用探索	ying yong tan suo	0
 应用探讨	ying yong tan tao	0
@@ -146837,7 +146837,7 @@ sort: by_weight
 建筑职业	jian zhu zhi ye	0
 建筑脚手架	jian zhu jiao shou jia	0
 建筑膜材	jian zhu mo cai	0
-建筑色彩	jian zhu se cai	0
+建筑色彩	jian zhu se cai	1
 建筑节能改造	jian zhu jie neng gai zao	0
 建筑节能材料	jian zhu jie neng cai liao	0
 建筑表现	jian zhu biao xian	0
@@ -147097,7 +147097,7 @@ sort: by_weight
 建设开发	jian she kai fa	0
 建设开工	jian she kai gong	0
 建设快速	jian she kuai su	0
-建设思路	jian she si lu	0
+建设思路	jian she si lu	14
 建设性对话	jian she xing dui hua	0
 建设性新闻	jian she xing xin wen	0
 建设性质	jian she xing zhi	0
@@ -147130,7 +147130,7 @@ sort: by_weight
 建设有序	jian she you xu	0
 建设服务	jian she fu wu	0
 建设服务中心	jian she fu wu zhong xin	0
-建设期间	jian she qi jian	0
+建设期间	jian she qi jian	7
 建设未来	jian she wei lai	0
 建设材料	jian she cai liao	0
 建设条件	jian she tiao jian	0
@@ -147162,7 +147162,7 @@ sort: by_weight
 建设科	jian she ke	0
 建设租赁住房	jian she zu lin zhu fang	0
 建设空间	jian she kong jian	0
-建设策略	jian she ce lve	0
+建设策略	jian she ce lve	2
 建设管理	jian she guan li	0
 建设管理中心	jian she guan li zhong xin	0
 建设管理处	jian she guan li chu	0
@@ -147583,7 +147583,7 @@ sort: by_weight
 开在哪里	kai zai na li	0
 开场方式	kai chang fang shi	0
 开场时	kai chang shi	0
-开场视频	kai chang shi pin	0
+开场视频	kai chang shi pin	4
 开城工业园区	kai cheng gong ye yuan qu	0
 开城镇	kai cheng zhen	0
 开埠区	kai bu qu	0
@@ -150323,7 +150323,7 @@ sort: by_weight
 强化创新引领	qiang hua chuang xin yin ling	0
 强化创新驱动	qiang hua chuang xin qu dong	0
 强化券	qiang hua quan	0
-强化力量	qiang hua li liang	0
+强化力量	qiang hua li liang	10
 强化办案	qiang hua ban an	0
 强化功能	qiang hua gong neng	0
 强化协作	qiang hua xie zuo	0
@@ -150398,7 +150398,7 @@ sort: by_weight
 强化政策扶持	qiang hua zheng ce fu chi	0
 强化政策支持	qiang hua zheng ce zhi chi	0
 强化效果	qiang hua xiao guo	0
-强化教育	qiang hua jiao yu	0
+强化教育	qiang hua jiao yu	4
 强化教育培训	qiang hua jiao yu pei xun	0
 强化教育引导	qiang hua jiao yu yin dao	0
 强化数据	qiang hua shu ju	0
@@ -150425,7 +150425,7 @@ sort: by_weight
 强化源头管控	qiang hua yuan tou guan kong	0
 强化源头管理	qiang hua yuan tou guan li	0
 强化点	qiang hua dian	0
-强化版	qiang hua ban	0
+强化版	qiang hua ban	136
 强化版本	qiang hua ban ben	0
 强化状态	qiang hua zhuang tai	0
 强化理论武装	qiang hua li lun wu zhuang	0
@@ -150499,7 +150499,7 @@ sort: by_weight
 强化部门协同	qiang hua bu men xie tong	0
 强化部门联动	qiang hua bu men lian dong	0
 强化配方	qiang hua pei fang	0
-强化金融	qiang hua jin rong	0
+强化金融	qiang hua jin rong	2
 强化铁	qiang hua tie	0
 强化门	qiang hua men	0
 强化问题导向	qiang hua wen ti dao xiang	0
@@ -150728,7 +150728,7 @@ sort: by_weight
 当下完美	dang xia wan mei	0
 当下市场	dang xia shi chang	0
 当下年轻人	dang xia nian qing ren	0
-当下性	dang xia xing	0
+当下性	dang xia xing	11
 当下手机	dang xia shou ji	0
 当下改	dang xia gai	0
 当下文化	dang xia wen hua	0
@@ -150994,7 +150994,7 @@ sort: by_weight
 当年建成	dang nian jian cheng	0
 当年建设	dang nian jian she	0
 当年投资	dang nian tou zi	0
-当年招生	dang nian zhao sheng	0
+当年招生	dang nian zhao sheng	7
 当年有效	dang nian you xiao	0
 当年梦	dang nian meng	0
 当年生	dang nian sheng	0
@@ -151724,7 +151724,7 @@ sort: by_weight
 影像世界	ying xiang shi jie	0
 影像中	ying xiang zhong	0
 影像中国	ying xiang zhong guo	0
-影像体验	ying xiang ti yan	0
+影像体验	ying xiang ti yan	13
 影像作品	ying xiang zuo pin	0
 影像信息	ying xiang xin xi	0
 影像内容	ying xiang nei rong	0
@@ -151785,7 +151785,7 @@ sort: by_weight
 影响别人	ying xiang bie ren	0
 影响到别人	ying xiang dao bie ren	0
 影响到工作	ying xiang dao gong zuo	0
-影响到身体	ying xiang dao shen ti	0
+影响到身体	ying xiang dao shen ti	11
 影响剧情	ying xiang ju qing	0
 影响力不够	ying xiang li bu gou	0
 影响力人物	ying xiang li ren wu	0
@@ -152378,7 +152378,7 @@ sort: by_weight
 很不稳定	hen bu wen ding	0
 很不符合	hen bu fu he	0
 很不讨	hen bu tao	0
-很不适	hen bu shi	0
+很不适	hen bu shi	15
 很不适合	hen bu shi he	0
 很不错哦	hen bu cuo o	0
 很不错啊	hen bu cuo a	0
@@ -152404,7 +152404,7 @@ sort: by_weight
 很像啊	hen xiang a	0
 很像我	hen xiang wo	0
 很克制	hen ke zhi	0
-很八卦	hen ba gua	0
+很八卦	hen ba gua	8
 很公主	hen gong zhu	0
 很关注	hen guan zhu	0
 很具体啊	hen ju ti a	0
@@ -152418,8 +152418,8 @@ sort: by_weight
 很创新	hen chuang xin	0
 很到位	hen dao wei	0
 很刻意	hen ke yi	0
-很勇敢	hen yong gan	0
-很包容	hen bao rong	0
+很勇敢	hen yong gan	82
+很包容	hen bao rong	69
 很匹配	hen pi pei	0
 很华丽	hen hua li	0
 很单纯	hen dan chun	0
@@ -152612,7 +152612,7 @@ sort: by_weight
 很容易干	hen rong yi gan	0
 很容易想到	hen rong yi xiang dao	0
 很容易想象	hen rong yi xiang xiang	0
-很容易感染	hen rong yi gan ran	0
+很容易感染	hen rong yi gan ran	33
 很容易找	hen rong yi zhao	0
 很容易找到	hen rong yi zhao dao	0
 很容易掉	hen rong yi diao	0
@@ -152669,7 +152669,7 @@ sort: by_weight
 很少部分	hen shao bu fen	0
 很少量	hen shao liang	0
 很少锻炼	hen shao duan lian	0
-很尽力	hen jin li	0
+很尽力	hen jin li	10
 很崩溃	hen beng kui	0
 很常规	hen chang gui	0
 很平均	hen ping jun	0
@@ -152723,7 +152723,7 @@ sort: by_weight
 很愤怒	hen fen nu	0
 很成熟	hen cheng shu	0
 很扎实	hen zha shi	0
-很扯淡	hen che dan	0
+很扯淡	hen che dan	121
 很抑郁	hen yi yu	0
 很投入	hen tou ru	0
 很折腾	hen zhe teng	0
@@ -152777,14 +152777,14 @@ sort: by_weight
 很智慧	hen zhi hui	0
 很智能	hen zhi neng	0
 很暴力呀	hen bao li ya	0
-很有价值	hen you jia zhi	0
+很有价值	hen you jia zhi	186
 很有优势	hen you you shi	0
 很有历史	hen you li shi	0
 很有可能会	hen you ke neng hui	0
 很有实力的	hen you shi li de	0
 很有市场	hen you shi chang	0
 很有年代	hen you nian dai	0
-很有幸	hen you xing	0
+很有幸	hen you xing	37
 很有影响	hen you ying xiang	0
 很有才能	hen you cai neng	0
 很有故事	hen you gu shi	0
@@ -152817,7 +152817,7 @@ sort: by_weight
 很洗脑	hen xi nao	0
 很活跃	hen huo yue	0
 很流畅	hen liu chang	0
-很浓郁	hen nong yu	0
+很浓郁	hen nong yu	131
 很浪漫	hen lang man	0
 很浪费	hen lang fei	0
 很浪费时间	hen lang fei shi jian	0
@@ -152896,7 +152896,7 @@ sort: by_weight
 很缺乏	hen que fa	0
 很网红	hen wang hong	0
 很美啊	hen mei a	0
-很美观	hen mei guan	0
+很美观	hen mei guan	38
 很耐心	hen nai xin	0
 很职业	hen zhi ye	0
 很聪明啊	hen cong ming a	0
@@ -152931,7 +152931,7 @@ sort: by_weight
 很费钱吗	hen fei qian ma	0
 很资深	hen zi shen	0
 很路人	hen lu ren	0
-很轻微	hen qing wei	0
+很轻微	hen qing wei	117
 很轻易	hen qing yi	0
 很轻松啊	hen qing song a	0
 很轻的	hen qing de	0
@@ -152944,7 +152944,7 @@ sort: by_weight
 很适合自己	hen shi he zi ji	0
 很适合自己的	hen shi he zi ji de	0
 很适应	hen shi ying	0
-很透明	hen tou ming	0
+很透明	hen tou ming	63
 很配合	hen pei he	0
 很配合呀	hen pei he ya	0
 很酷的	hen ku de	0
@@ -153577,7 +153577,7 @@ sort: by_weight
 微信宝	wei xin bao	0
 微信客户	wei xin ke hu	0
 微信客户管理	wei xin ke hu guan li	0
-微信客服	wei xin ke fu	0
+微信客服	wei xin ke fu	38
 微信对话	wei xin dui hua	0
 微信导航网	wei xin dao hang wang	0
 微信小	wei xin xiao	0
@@ -153790,7 +153790,7 @@ sort: by_weight
 微博话题	wei bo hua ti	0
 微博话题阅读量	wei bo hua ti yue du liang	0
 微博账号	wei bo zhang hao	0
-微博账户	wei bo zhang hu	0
+微博账户	wei bo zhang hu	8
 微博运营	wei bo yun ying	0
 微博配文	wei bo pei wen	0
 微博里	wei bo li	0
@@ -155070,7 +155070,7 @@ sort: by_weight
 忘了个记了	wang le ge ji le	0
 忘了个记了的	wang le ge ji le de	0
 忘了加密了	wang le jia mi le	0
-忘了谁	wang le shui	0
+忘了谁	wang le shui	14
 忘关摄像头	wang guan she xiang tou	0
 忘却的幸子	wang que de xing zi	0
 忘川夫妇	wang chuan fu fu	0
@@ -155595,7 +155595,7 @@ sort: by_weight
 快速记忆加盟	kuai su ji yi jia meng	0
 快速设置	kuai su she zhi	0
 快速设计	kuai su she ji	0
-快速评估	kuai su ping gu	0
+快速评估	kuai su ping gu	24
 快速诊断试剂	kuai su zhen duan shi ji	0
 快速读	kuai su du	0
 快速购买	kuai su gou mai	0
@@ -155786,7 +155786,7 @@ sort: by_weight
 怎么作	zen me zuo	0
 怎么促进	zen me cu jin	0
 怎么保	zen me bao	0
-怎么保养	zen me bao yang	0
+怎么保养	zen me bao yang	25
 怎么保存	zen me bao cun	0
 怎么保证	zen me bao zheng	0
 怎么保障	zen me bao zhang	0
@@ -156031,7 +156031,7 @@ sort: by_weight
 怎么清洗	zen me qing xi	0
 怎么清理	zen me qing li	0
 怎么滴	zen me di	0
-怎么演	zen me yan	0
+怎么演	zen me yan	76
 怎么激活	zen me ji huo	0
 怎么火	zen me huo	0
 怎么炒	zen me chao	0
@@ -157743,7 +157743,7 @@ sort: by_weight
 恢复树势	hui fu shu shi	0
 恢复正常生产生活	hui fu zheng chang sheng chan sheng huo	0
 恢复治疗	hui fu zhi liao	0
-恢复消费	hui fu xiao fei	0
+恢复消费	hui fu xiao fei	3
 恢复照片	hui fu zhao pian	0
 恢复状态	hui fu zhuang tai	0
 恢复环境	hui fu huan jing	0
@@ -157960,7 +157960,7 @@ sort: by_weight
 患者痛苦	huan zhe tong ku	0
 患者的情况	huan zhe de qing kuang	0
 患者的管理	huan zhe de guan li	0
-患者端	huan zhe duan	0
+患者端	huan zhe duan	3
 患者第一	huan zhe di yi	0
 患者答疑	huan zhe da yi	0
 患者管理	huan zhe guan li	0
@@ -158345,7 +158345,7 @@ sort: by_weight
 情感基础	qing gan ji chu	0
 情感处理	qing gan chu li	0
 情感复杂	qing gan fu za	0
-情感大师	qing gan da shi	0
+情感大师	qing gan da shi	6
 情感天空	qing gan tian kong	0
 情感寄语	qing gan ji yu	0
 情感小文章	qing gan xiao wen zhang	0
@@ -158569,7 +158569,7 @@ sort: by_weight
 情逢敌手	qing feng di shou	0
 惊人变化	jing ren bian hua	0
 惊人的发现	jing ren de fa xian	0
-惊人的数据	jing ren de shu ju	0
+惊人的数据	jing ren de shu ju	12
 惊人的结果	jing ren de jie guo	0
 惊人的能力	jing ren de neng li	0
 惊人身份	jing ren shen fen	0
@@ -158603,7 +158603,7 @@ sort: by_weight
 惊天岳雷	jing tian yue lei	0
 惊心一幕	jing xin yi mu	0
 惊悚剧情	jing song ju qing	0
-惊慌中	jing huang zhong	0
+惊慌中	jing huang zhong	13
 惊无险	jing wu xian	0
 惊爆全场	jing bao quan chang	0
 惊神阵	jing shen zhen	0
@@ -159106,11 +159106,11 @@ sort: by_weight
 想爸爸	xiang ba ba	0
 想犯罪	xiang fan zui	0
 想独立	xiang du li	0
-想玩手机	xiang wan shou ji	0
+想玩手机	xiang wan shou ji	27
 想玩游戏	xiang wan you xi	0
 想玩玩	xiang wan wan	0
 想玩英雄	xiang wan ying xiong	0
-想珍惜	xiang zhen xi	0
+想珍惜	xiang zhen xi	3
 想理解	xiang li jie	0
 想生存	xiang sheng cun	0
 想生小孩	xiang sheng xiao hai	0
@@ -159127,7 +159127,7 @@ sort: by_weight
 想看书	xiang kan shu	0
 想看到	xiang kan dao	0
 想看吗	xiang kan ma	0
-想看更多	xiang kan geng duo	0
+想看更多	xiang kan geng duo	264
 想看电影	xiang kan dian ying	0
 想看的话	xiang kan de hua	0
 想看见	xiang kan jian	0
@@ -159468,7 +159468,7 @@ sort: by_weight
 意外抢镜	yi wai qiang jing	0
 意外撞脸	yi wai zhuang lian	0
 意外撞衫	yi wai zhuang shan	0
-意外收入	yi wai shou ru	0
+意外收入	yi wai shou ru	5
 意外时	yi wai shi	0
 意外时尚	yi wai shi shang	0
 意外灾祸	yi wai zai huo	0
@@ -159647,7 +159647,7 @@ sort: by_weight
 感动我	gan dong wo	0
 感动我们	gan dong wo men	0
 感动故事	gan dong gu shi	0
-感动服务	gan dong fu wu	0
+感动服务	gan dong fu wu	1
 感动点	gan dong dian	0
 感动生命	gan dong sheng ming	0
 感动的话	gan dong de hua	0
@@ -159893,7 +159893,7 @@ sort: by_weight
 感温包	gan wen bao	0
 感温探测器	gan wen tan ce qi	0
 感温电缆	gan wen dian lan	0
-感激中国	gan ji zhong guo	0
+感激中国	gan ji zhong guo	1
 感激是	gan ji shi	0
 感激的话	gan ji de hua	0
 感烟探测器	gan yan tan ce qi	0
@@ -160535,7 +160535,7 @@ sort: by_weight
 成为自己	cheng wei zi ji	0
 成为艺术	cheng wei yi shu	0
 成为英雄	cheng wei ying xiong	0
-成为超级英雄	cheng wei chao ji ying xiong	0
+成为超级英雄	cheng wei chao ji ying xiong	53
 成为领导	cheng wei ling dao	0
 成为高手	cheng wei gao shou	0
 成事在人在线	cheng shi zai ren zai xian	0
@@ -160687,7 +160687,7 @@ sort: by_weight
 成佛道	cheng fu dao	0
 成佳镇	cheng jia zhen	0
 成像好	cheng xiang hao	0
-成像技术	cheng xiang ji shu	0
+成像技术	cheng xiang ji shu	71
 成像方式	cheng xiang fang shi	0
 成像能力	cheng xiang neng li	0
 成兄弟	cheng xiong di	0
@@ -160829,7 +160829,7 @@ sort: by_weight
 成功的尝试	cheng gong de chang shi	0
 成功的希望	cheng gong de xi wang	0
 成功的广告	cheng gong de guang gao	0
-成功的意义	cheng gong de yi yi	0
+成功的意义	cheng gong de yi yi	3
 成功的技术	cheng gong de ji shu	0
 成功的投资	cheng gong de tou zi	0
 成功的故事	cheng gong de gu shi	0
@@ -160969,7 +160969,7 @@ sort: by_weight
 成型后	cheng xing hou	0
 成型周期	cheng xing zhou qi	0
 成型品	cheng xing pin	0
-成型好	cheng xing hao	0
+成型好	cheng xing hao	2
 成型时间	cheng xing shi jian	0
 成型机械	cheng xing ji xie	0
 成型条件	cheng xing tiao jian	0
@@ -161153,7 +161153,7 @@ sort: by_weight
 成本的问题	cheng ben de wen ti	0
 成本目标	cheng ben mu biao	0
 成本竞争	cheng ben jing zheng	0
-成本竞争力	cheng ben jing zheng li	0
+成本竞争力	cheng ben jing zheng li	4
 成本端	cheng ben duan	0
 成本等方面	cheng ben deng fang mian	0
 成本管理员	cheng ben guan li yuan	0
@@ -161281,7 +161281,7 @@ sort: by_weight
 成熟的	cheng shu de	0
 成熟的演技	cheng shu de yan ji	0
 成熟的生产工艺	cheng shu de sheng chan gong yi	0
-成熟社区	cheng shu she qu	0
+成熟社区	cheng shu she qu	7
 成熟稳定	cheng shu wen ding	0
 成熟经验	cheng shu jing yan	0
 成熟美	cheng shu mei	0
@@ -161513,7 +161513,7 @@ sort: by_weight
 我不是很清楚	wo bu shi hen qing chu	0
 我不是我	wo bu shi wo	0
 我不是李连樱	wo bu shi li lian ying	0
-我不是谁	wo bu shi shui	0
+我不是谁	wo bu shi shui	4
 我不是随便的人	wo bu shi sui bian de ren	0
 我不服气	wo bu fu qi	0
 我不熟	wo bu shu	0
@@ -161807,7 +161807,7 @@ sort: by_weight
 我们的探索	wo men de tan suo	0
 我们的敌人	wo men de di ren	0
 我们的救主	wo men de jiu zhu	0
-我们的教室	wo men de jiao shi	0
+我们的教室	wo men de jiao shi	11
 我们的教育	wo men de jiao yu	0
 我们的文化	wo men de wen hua	0
 我们的文字	wo men de wen zi	0
@@ -162973,7 +162973,7 @@ sort: by_weight
 我的美女总裁	wo de mei nv zong cai	0
 我的美女总裁老婆	wo de mei nv zong cai lao po	0
 我的美食	wo de mei shi	0
-我的翅膀	wo de chi bang	0
+我的翅膀	wo de chi bang	11
 我的老公	wo de lao gong	0
 我的老大	wo de lao da	0
 我的老妈	wo de lao ma	0
@@ -163311,7 +163311,7 @@ sort: by_weight
 战争到底	zhan zheng dao di	0
 战争前	zhan zheng qian	0
 战争动作	zhan zheng dong zuo	0
-战争升级	zhan zheng sheng ji	0
+战争升级	zhan zheng sheng ji	8
 战争历史	zhan zheng li shi	0
 战争原因	zhan zheng yuan yin	0
 战争发生	zhan zheng fa sheng	0
@@ -163669,7 +163669,7 @@ sort: by_weight
 战胜佛	zhan sheng fu	0
 战胜你	zhan sheng ni	0
 战胜危机	zhan sheng wei ji	0
-战胜市场	zhan sheng shi chang	0
+战胜市场	zhan sheng shi chang	106
 战胜疫魔	zhan sheng yi mo	0
 战胜美国	zhan sheng mei guo	0
 战舰世界闪击战	zhan jian shi jie shan ji zhan	0
@@ -163961,7 +163961,7 @@ sort: by_weight
 房产圈	fang chan quan	0
 房产处	fang chan chu	0
 房产契税	fang chan qi shui	0
-房产平台	fang chan ping tai	0
+房产平台	fang chan ping tai	2
 房产快讯	fang chan kuai xun	0
 房产房价	fang chan fang jia	0
 房产所	fang chan suo	0
@@ -165000,7 +165000,7 @@ sort: by_weight
 所有贸易	suo you mao yi	0
 所有资产	suo you zi chan	0
 所有资料	suo you zi liao	0
-所有资讯	suo you zi xun	0
+所有资讯	suo you zi xun	2
 所有资质	suo you zi zhi	0
 所有资金	suo you zi jin	0
 所有赛事	suo you sai shi	0
@@ -165064,7 +165064,7 @@ sort: by_weight
 所有食物	suo you shi wu	0
 所有餐厅	suo you can ting	0
 所有饮料	suo you yin liao	0
-所有香料	suo you xiang liao	0
+所有香料	suo you xiang liao	8
 所有鱼	suo you yu	0
 所期待	suo qi dai	0
 所构成	suo gou cheng	0
@@ -165585,7 +165585,7 @@ sort: by_weight
 手机天堂	shou ji tian tang	0
 手机天堂网	shou ji tian tang wang	0
 手机天空	shou ji tian kong	0
-手机好玩	shou ji hao wan	0
+手机好玩	shou ji hao wan	6
 手机如何	shou ji ru he	0
 手机媒体	shou ji mei ti	0
 手机字体	shou ji zi ti	0
@@ -165980,7 +165980,7 @@ sort: by_weight
 手游时代	shou you shi dai	0
 手游服务端	shou you fu wu duan	0
 手游棋牌	shou you qi pai	0
-手游活动	shou you huo dong	0
+手游活动	shou you huo dong	1
 手游游戏	shou you you xi	0
 手游玩家	shou you wan jia	0
 手游电竞	shou you dian jing	0
@@ -166207,7 +166207,7 @@ sort: by_weight
 才是幸福	cai shi xing fu	0
 才是成功	cai shi cheng gong	0
 才是教育	cai shi jiao yu	0
-才是智慧	cai shi zhi hui	0
+才是智慧	cai shi zhi hui	6
 才是最佳	cai shi zui jia	0
 才是最大的幸福	cai shi zui da de xing fu	0
 才是最好的选择	cai shi zui hao de xuan ze	0
@@ -166810,7 +166810,7 @@ sort: by_weight
 打开操作	da kai cao zuo	0
 打开数据	da kai shu ju	0
 打开数据库	da kai shu ju ku	0
-打开文本	da kai wen ben	0
+打开文本	da kai wen ben	2
 打开新闻	da kai xin wen	0
 打开方便之门	da kai fang bian zhi men	0
 打开方法	da kai fang fa	0
@@ -168218,7 +168218,7 @@ sort: by_weight
 承担工作	cheng dan gong zuo	0
 承担方式	cheng dan fang shi	0
 承担更多	cheng dan geng duo	0
-承担比例	cheng dan bi li	0
+承担比例	cheng dan bi li	1
 承担能力	cheng dan neng li	0
 承担部分	cheng dan bu fen	0
 承担项目	cheng dan xiang mu	0
@@ -168674,7 +168674,7 @@ sort: by_weight
 技术男	ji shu nan	0
 技术百科	ji shu bai ke	0
 技术的发展	ji shu de fa zhan	0
-技术的支持	ji shu de zhi chi	0
+技术的支持	ji shu de zhi chi	28
 技术的研究	ji shu de yan jiu	0
 技术的进出口业务	ji shu de jin chu kou ye wu	0
 技术的问题	ji shu de wen ti	0
@@ -169296,7 +169296,7 @@ sort: by_weight
 抓监督	zhua jian du	0
 抓监管	zhua jian guan	0
 抓示范	zhua shi fan	0
-抓紧做	zhua jin zuo	0
+抓紧做	zhua jin zuo	8
 抓紧啊	zhua jin a	0
 抓紧恢复	zhua jin hui fu	0
 抓紧我	zhua jin wo	0
@@ -169586,7 +169586,7 @@ sort: by_weight
 投资保障	tou zi bao zhang	0
 投资信心	tou zi xin xin	0
 投资信息	tou zi xin xi	0
-投资偏好	tou zi pian hao	0
+投资偏好	tou zi pian hao	47
 投资健康	tou zi jian kang	0
 投资入籍	tou zi ru ji	0
 投资入籍项目	tou zi ru ji xiang mu	0
@@ -169721,7 +169721,7 @@ sort: by_weight
 投资新三板	tou zi xin san ban	0
 投资新手	tou zi xin shou	0
 投资方式	tou zi fang shi	0
-投资方法论	tou zi fang fa lun	0
+投资方法论	tou zi fang fa lun	34
 投资方面	tou zi fang mian	0
 投资旅游	tou zi lv you	0
 投资日本	tou zi ri ben	0
@@ -169833,7 +169833,7 @@ sort: by_weight
 投资者报	tou zi zhe bao	0
 投资者报告	tou zi zhe bao gao	0
 投资者担心	tou zi zhe dan xin	0
-投资者损失	tou zi zhe sun shi	0
+投资者损失	tou zi zhe sun shi	27
 投资者提供	tou zi zhe ti gong	0
 投资者收益	tou zi zhe shou yi	0
 投资者数量	tou zi zhe shu liang	0
@@ -170602,7 +170602,7 @@ sort: by_weight
 报价说明	bao jia shuo ming	0
 报价请求	bao jia qing qiu	0
 报价走势	bao jia zou shi	0
-报价高	bao jia gao	0
+报价高	bao jia gao	9
 报佛恩	bao fu en	0
 报信息	bao xin xi	0
 报修服务	bao xiu fu wu	0
@@ -170969,7 +170969,7 @@ sort: by_weight
 抽象装饰画	chou xiang zhuang shi hua	0
 抽象设计	chou xiang she ji	0
 抽象问题	chou xiang wen ti	0
-抽象风格	chou xiang feng ge	0
+抽象风格	chou xiang feng ge	8
 抽龙筋	chou long jin	0
 抿一口水	min yi kou shui	0
 抿唇笑	min chun xiao	0
@@ -171241,7 +171241,7 @@ sort: by_weight
 拉萨海关	la sa hai guan	0
 拉萨犬	la sa quan	0
 拉萨路小学	la sa lu xiao xue	0
-拉衣服	la yi fu	0
+拉衣服	la yi fu	4
 拉西拉天文台	la xi la tian wen tai	0
 拉西环	la xi huan	0
 拉贝尔大陆	la bei er da lu	0
@@ -171710,7 +171710,7 @@ sort: by_weight
 招生办公室主任	zhao sheng ban gong shi zhu ren	0
 招生咨询热线	zhao sheng zi xun re xian	0
 招生咨询电话	zhao sheng zi xun dian hua	0
-招生团队	zhao sheng tuan dui	0
+招生团队	zhao sheng tuan dui	14
 招生官网	zhao sheng guan wang	0
 招生就业办公室	zhao sheng jiu ye ban gong shi	0
 招生工作方案	zhao sheng gong zuo fang an	0
@@ -171900,7 +171900,7 @@ sort: by_weight
 拥抱后	yong bao hou	0
 拥抱吧	yong bao ba	0
 拥抱孩子	yong bao hai zi	0
-拥抱市场	yong bao shi chang	0
+拥抱市场	yong bao shi chang	8
 拥抱情人节	yong bao qing ren jie	0
 拥抱技术	yong bao ji shu	0
 拥抱方式	yong bao fang shi	0
@@ -172106,7 +172106,7 @@ sort: by_weight
 拼命买	pin ming mai	0
 拼命做	pin ming zuo	0
 拼命学习	pin ming xue xi	0
-拼品牌	pin pin pai	0
+拼品牌	pin pin pai	4
 拼商城	pin shang cheng	0
 拼四胎	pin si tai	0
 拼团商城	pin tuan shang cheng	0
@@ -172318,7 +172318,7 @@ sort: by_weight
 持续两年	chi xu liang nian	0
 持续中	chi xu zhong	0
 持续丰富	chi xu feng fu	0
-持续互动	chi xu hu dong	0
+持续互动	chi xu hu dong	11
 持续交易	chi xu jiao yi	0
 持续价值	chi xu jia zhi	0
 持续优化	chi xu you hua	0
@@ -172364,7 +172364,7 @@ sort: by_weight
 持续工作	chi xu gong zuo	0
 持续帮扶	chi xu bang fu	0
 持续开发	chi xu kai fa	0
-持续开放	chi xu kai fang	0
+持续开放	chi xu kai fang	3
 持续形态	chi xu xing tai	0
 持续影响	chi xu ying xiang	0
 持续思考	chi xu si kao	0
@@ -173781,7 +173781,7 @@ sort: by_weight
 授课时间	shou ke shi jian	0
 授课老师	shou ke lao shi	0
 授课能力	shou ke neng li	0
-授课视频	shou ke shi pin	0
+授课视频	shou ke shi pin	33
 掉不掉头	diao bu diao tou	0
 掉不掉头呀	diao bu diao tou ya	0
 掉不掉头啊	diao bu diao tou a	0
@@ -174122,7 +174122,7 @@ sort: by_weight
 排队企业	pai dui qi ye	0
 排队叫号机	pai dui jiao hao ji	0
 排队号	pai dui hao	0
-排队吃	pai dui chi	0
+排队吃	pai dui chi	7
 排队吗	pai dui ma	0
 排队吧	pai dui ba	0
 排队情况	pai dui qing kuang	0
@@ -174505,7 +174505,7 @@ sort: by_weight
 接触人群	jie chu ren qun	0
 接触介质	jie chu jie zhi	0
 接触他	jie chu ta	0
-接触他人	jie chu ta ren	0
+接触他人	jie chu ta ren	6
 接触信息	jie chu xin xi	0
 接触动物	jie chu dong wu	0
 接触口	jie chu kou	0
@@ -175392,7 +175392,7 @@ sort: by_weight
 提供创业	ti gong chuang ye	0
 提供创新	ti gong chuang xin	0
 提供办事指南	ti gong ban shi zhi nan	0
-提供加工	ti gong jia gong	0
+提供加工	ti gong jia gong	12
 提供劳务一方	ti gong lao wu yi fang	0
 提供劳动	ti gong lao dong	0
 提供包装	ti gong bao zhuang	0
@@ -175592,7 +175592,7 @@ sort: by_weight
 提供财务	ti gong cai wu	0
 提供财务资助	ti gong cai wu zi zhu	0
 提供账号	ti gong zhang hao	0
-提供购物	ti gong gou wu	0
+提供购物	ti gong gou wu	3
 提供资料	ti gong zi liao	0
 提供车辆	ti gong che liang	0
 提供输出	ti gong shu chu	0
@@ -175714,7 +175714,7 @@ sort: by_weight
 提前死亡	ti qian si wang	0
 提前毕业	ti qian bi ye	0
 提前沟通	ti qian gou tong	0
-提前消耗	ti qian xiao hao	0
+提前消耗	ti qian xiao hao	7
 提前消费	ti qian xiao fei	0
 提前熟悉	ti qian shu xi	0
 提前生产	ti qian sheng chan	0
@@ -176334,7 +176334,7 @@ sort: by_weight
 提高文明素质	ti gao wen ming su zhi	0
 提高斗争本领	ti gao dou zheng ben ling	0
 提高智商	ti gao zhi shang	0
-提高智慧	ti gao zhi hui	0
+提高智慧	ti gao zhi hui	2
 提高智能	ti gao zhi neng	0
 提高暴击	ti gao bao ji	0
 提高服务	ti gao fu wu	0
@@ -176750,7 +176750,7 @@ sort: by_weight
 搜资源	sou zi yuan	0
 搜资讯	sou zi xun	0
 搜门面网	sou men mian wang	0
-搜集信息	sou ji xin xi	0
+搜集信息	sou ji xin xi	265
 搜集数据	sou ji shu ju	0
 搜龙体育	sou long ti yu	0
 搞一把	gao yi ba	0
@@ -176973,7 +176973,7 @@ sort: by_weight
 搬进城	ban jin cheng	0
 搭伙过	da huo guo	0
 搭售保险	da shou bao xian	0
-搭平台	da ping tai	0
+搭平台	da ping tai	26
 搭建一个	da jian yi ge	0
 搭建个	da jian ge	0
 搭建中	da jian zhong	0
@@ -177970,7 +177970,7 @@ sort: by_weight
 支付商品	zhi fu shang pin	0
 支付场景	zhi fu chang jing	0
 支付处理	zhi fu chu li	0
-支付安全	zhi fu an quan	0
+支付安全	zhi fu an quan	31
 支付完成	zhi fu wan cheng	0
 支付宝中	zhi fu bao zhong	0
 支付宝乘车码	zhi fu bao cheng che ma	0
@@ -178040,10 +178040,10 @@ sort: by_weight
 支公司经理	zhi gong si jing li	0
 支出决算表	zhi chu jue suan biao	0
 支出型贫困家庭	zhi chu xing pin kun jia ting	0
-支出情况	zhi chu qing kuang	0
+支出情况	zhi chu qing kuang	25
 支出数据	zhi chu shu ju	0
 支出方面	zhi chu fang mian	0
-支出标准	zhi chu biao zhun	0
+支出标准	zhi chu biao zhun	2
 支出骤增	zhi chu zhou zeng	0
 支出高	zhi chu gao	0
 支塘镇	zhi tang zhen	0
@@ -179151,7 +179151,7 @@ sort: by_weight
 改扩建幼儿园	gai kuo jian you er yuan	0
 改拔丝	gai ba si	0
 改数据	gai shu ju	0
-改方案	gai fang an	0
+改方案	gai fang an	50
 改时间	gai shi jian	0
 改机选	gai ji xuan	0
 改水改厕	gai shui gai ce	0
@@ -180486,7 +180486,7 @@ sort: by_weight
 效果完美	xiao guo wan mei	0
 效果实现	xiao guo shi xian	0
 效果对比	xiao guo dui bi	0
-效果导向	xiao guo dao xiang	0
+效果导向	xiao guo dao xiang	3
 效果就好	xiao guo jiu hao	0
 效果展现	xiao guo zhan xian	0
 效果展示	xiao guo zhan shi	0
@@ -180506,7 +180506,7 @@ sort: by_weight
 效果怪兽	xiao guo guai shou	0
 效果惊艳	xiao guo jing yan	0
 效果慢	xiao guo man	0
-效果抵抗	xiao guo di kang	0
+效果抵抗	xiao guo di kang	5
 效果持续	xiao guo chi xu	0
 效果提升	xiao guo ti sheng	0
 效果插件	xiao guo cha jian	0
@@ -181065,7 +181065,7 @@ sort: by_weight
 教育人	jiao yu ren	0
 教育人员	jiao yu ren yuan	0
 教育人才	jiao yu ren cai	0
-教育人民	jiao yu ren min	0
+教育人民	jiao yu ren min	10
 教育人物	jiao yu ren wu	0
 教育人生	jiao yu ren sheng	0
 教育价值	jiao yu jia zhi	0
@@ -181086,7 +181086,7 @@ sort: by_weight
 教育信息网	jiao yu xin xi wang	0
 教育健康	jiao yu jian kang	0
 教育儿子	jiao yu er zi	0
-教育儿童	jiao yu er tong	0
+教育儿童	jiao yu er tong	6
 教育免费	jiao yu mian fei	0
 教育党员	jiao yu dang yuan	0
 教育党员干部	jiao yu dang yuan gan bu	0
@@ -181158,7 +181158,7 @@ sort: by_weight
 教育就业	jiao yu jiu ye	0
 教育局党委	jiao yu ju dang wei	0
 教育局相关负责人	jiao yu ju xiang guan fu ze ren	0
-教育层次	jiao yu ceng ci	0
+教育层次	jiao yu ceng ci	15
 教育属性	jiao yu shu xing	0
 教育工作委员会	jiao yu gong zuo wei yuan hui	0
 教育工具	jiao yu gong ju	0
@@ -181604,7 +181604,7 @@ sort: by_weight
 数字工业	shu zi gong ye	0
 数字工作	shu zi gong zuo	0
 数字工具	shu zi gong ju	0
-数字工程	shu zi gong cheng	0
+数字工程	shu zi gong cheng	4
 数字巨头	shu zi ju tou	0
 数字市场	shu zi shi chang	0
 数字平台	shu zi ping tai	0
@@ -181851,7 +181851,7 @@ sort: by_weight
 数据三	shu ju san	0
 数据下滑	shu ju xia hua	0
 数据下载	shu ju xia zai	0
-数据不一致	shu ju bu yi zhi	0
+数据不一致	shu ju bu yi zhi	112
 数据不准	shu ju bu zhun	0
 数据不好	shu ju bu hao	0
 数据不足	shu ju bu zu	0
@@ -182599,10 +182599,10 @@ sort: by_weight
 整乡推进	zheng xiang tui jin	0
 整人方法	zheng ren fang fa	0
 整人玩具	zheng ren wan ju	0
-整体上涨	zheng ti shang zhang	0
+整体上涨	zheng ti shang zhang	10
 整体上看	zheng ti shang kan	0
 整体下来	zheng ti xia lai	0
-整体下跌	zheng ti xia die	0
+整体下跌	zheng ti xia die	17
 整体不错	zheng ti bu cuo	0
 整体世界	zheng ti shi jie	0
 整体业务	zheng ti ye wu	0
@@ -182778,7 +182778,7 @@ sort: by_weight
 整体理解	zheng ti li jie	0
 整体生产	zheng ti sheng chan	0
 整体生命	zheng ti sheng ming	0
-整体生态	zheng ti sheng tai	0
+整体生态	zheng ti sheng tai	15
 整体画面	zheng ti hua mian	0
 整体的档次感	zheng ti de dang ci gan	0
 整体的气场	zheng ti de qi chang	0
@@ -182814,7 +182814,7 @@ sort: by_weight
 整体色彩	zheng ti se cai	0
 整体艺术	zheng ti yi shu	0
 整体节奏	zheng ti jie zou	0
-整体营养	zheng ti ying yang	0
+整体营养	zheng ti ying yang	8
 整体营销	zheng ti ying xiao	0
 整体融合	zheng ti rong he	0
 整体衣柜定制	zheng ti yi gui ding zhi	0
@@ -183420,7 +183420,7 @@ sort: by_weight
 文化理想	wen hua li xiang	0
 文化理解	wen hua li jie	0
 文化理论	wen hua li lun	0
-文化生	wen hua sheng	0
+文化生	wen hua sheng	54
 文化生产	wen hua sheng chan	0
 文化生态保护区	wen hua sheng tai bao hu qu	0
 文化用纸	wen hua yong zhi	0
@@ -184732,7 +184732,7 @@ sort: by_weight
 新创造	xin chuang zao	0
 新判断	xin pan duan	0
 新利体育	xin li ti yu	0
-新到来	xin dao lai	0
+新到来	xin dao lai	8
 新制作	xin zhi zuo	0
 新制定	xin zhi ding	0
 新制造	xin zhi zao	0
@@ -185184,7 +185184,7 @@ sort: by_weight
 新妹魔王的契约者	xin mei mo wang de qi yue zhe	0
 新妻子	xin qi zi	0
 新姿势	xin zi shi	0
-新姿态	xin zi tai	0
+新姿态	xin zi tai	6
 新娘发型	xin niang fa xing	0
 新娘头纱	xin niang tou sha	0
 新娘婚礼	xin niang hun li	0
@@ -185700,7 +185700,7 @@ sort: by_weight
 新晋级	xin jin ji	0
 新智慧	xin zhi hui	0
 新智能	xin zhi neng	0
-新曝光	xin bao guang	0
+新曝光	xin bao guang	1
 新更新	xin geng xin	0
 新月会	xin yue hui	0
 新月光	xin yue guang	0
@@ -187061,7 +187061,7 @@ sort: by_weight
 新闻链接	xin wen lian jie	0
 新闻镜头	xin wen jing tou	0
 新闻阅读	xin wen yue du	0
-新闻页面	xin wen ye mian	0
+新闻页面	xin wen ye mian	8
 新闻领域	xin wen ling yu	0
 新阅读	xin yue du	0
 新队友	xin dui you	0
@@ -187372,7 +187372,7 @@ sort: by_weight
 方振乾	fang zhen qian	0
 方振远	fang zhen yuan	0
 方敏仪	fang min yi	0
-方教授	fang jiao shou	0
+方教授	fang jiao shou	21
 方文军	fang wen jun	0
 方文强	fang wen qiang	0
 方无应	fang wu ying	0
@@ -187821,7 +187821,7 @@ sort: by_weight
 旅游人才	lv you ren cai	0
 旅游人气	lv you ren qi	0
 旅游人身意外险	lv you ren shen yi wai xian	0
-旅游介绍	lv you jie shao	0
+旅游介绍	lv you jie shao	4
 旅游价值	lv you jia zhi	0
 旅游价格	lv you jia ge	0
 旅游休闲场所	lv you xiu xian chang suo	0
@@ -188649,7 +188649,7 @@ sort: by_weight
 无毒社区	wu du she qu	0
 无毒青春	wu du qing chun	0
 无毒黄页	wu du huang ye	0
-无比优秀	wu bi you xiu	0
+无比优秀	wu bi you xiu	19
 无比例	wu bi li	0
 无比大	wu bi da	0
 无比赛	wu bi sai	0
@@ -188899,7 +188899,7 @@ sort: by_weight
 无法补	wu fa bu	0
 无法表示	wu fa biao shi	0
 无法覆盖	wu fa fu gai	0
-无法见面	wu fa jian mian	0
+无法见面	wu fa jian mian	10
 无法观测	wu fa guan ce	0
 无法观看	wu fa guan kan	0
 无法解决问题	wu fa jie jue wen ti	0
@@ -188932,7 +188932,7 @@ sort: by_weight
 无法退出	wu fa tui chu	0
 无法适应	wu fa shi ying	0
 无法逃离的背叛	wu fa tao li de bei pan	0
-无法选取	wu fa xuan qu	0
+无法选取	wu fa xuan qu	3
 无法选择	wu fa xuan ze	0
 无法通知	wu fa tong zhi	0
 无法通过	wu fa tong guo	0
@@ -190206,7 +190206,7 @@ sort: by_weight
 日本诞生	ri ben dan sheng	0
 日本语言	ri ben yu yan	0
 日本读研	ri ben du yan	0
-日本购物	ri ben gou wu	0
+日本购物	ri ben gou wu	4
 日本资源	ri ben zi yuan	0
 日本赛区	ri ben sai qu	0
 日本超市	ri ben chao shi	0
@@ -190356,7 +190356,7 @@ sort: by_weight
 日语学习	ri yu xue xi	0
 日语学习网	ri yu xue xi wang	0
 日语成绩	ri yu cheng ji	0
-日语教育	ri yu jiao yu	0
+日语教育	ri yu jiao yu	22
 日语机构	ri yu ji gou	0
 日语水平	ri yu shui ping	0
 日语相关	ri yu xiang guan	0
@@ -190813,7 +190813,7 @@ sort: by_weight
 时代经典	shi dai jing dian	0
 时代结束	shi dai jie shu	0
 时代绽放	shi dai zhan fang	0
-时代网	shi dai wang	0
+时代网	shi dai wang	4
 时代网络	shi dai wang luo	0
 时代舞台	shi dai wu tai	0
 时代色彩	shi dai se cai	0
@@ -192815,7 +192815,7 @@ sort: by_weight
 显示状态	xian shi zhuang tai	0
 显示电路	xian shi dian lu	0
 显示画面	xian shi hua mian	0
-显示程序	xian shi cheng xu	0
+显示程序	xian shi cheng xu	2
 显示答案	xian shi da an	0
 显示类型	xian shi lei xing	0
 显示置顶	xian shi zhi ding	0
@@ -193375,7 +193375,7 @@ sort: by_weight
 普通组	pu tong zu	0
 普通结构	pu tong jie gou	0
 普通缺口	pu tong que kou	0
-普通网	pu tong wang	0
+普通网	pu tong wang	1
 普通网友	pu tong wang you	0
 普通美国人	pu tong mei guo ren	0
 普通群	pu tong qun	0
@@ -193898,7 +193898,7 @@ sort: by_weight
 智慧移动	zhi hui yi dong	0
 智慧税务	zhi hui shui wu	0
 智慧空间	zhi hui kong jian	0
-智慧第一	zhi hui di yi	0
+智慧第一	zhi hui di yi	1
 智慧管理平台	zhi hui guan li ping tai	0
 智慧线	zhi hui xian	0
 智慧终端	zhi hui zhong duan	0
@@ -194268,7 +194268,7 @@ sort: by_weight
 智能运动	zhi neng yun dong	0
 智能运营	zhi neng yun ying	0
 智能进入	zhi neng jin ru	0
-智能连接	zhi neng lian jie	0
+智能连接	zhi neng lian jie	13
 智能连栋温室	zhi neng lian dong wen shi	0
 智能选号	zhi neng xuan hao	0
 智能选择	zhi neng xuan ze	0
@@ -194837,7 +194837,7 @@ sort: by_weight
 更为复杂	geng wei fu za	0
 更为容易	geng wei rong yi	0
 更为快速	geng wei kuai su	0
-更为方便	geng wei fang bian	0
+更为方便	geng wei fang bian	88
 更为明显	geng wei ming xian	0
 更为简单	geng wei jian dan	0
 更为经济	geng wei jing ji	0
@@ -194989,7 +194989,7 @@ sort: by_weight
 更加混乱	geng jia hun luan	0
 更加清晰	geng jia qing xi	0
 更加温暖	geng jia wen nuan	0
-更加温柔	geng jia wen rou	0
+更加温柔	geng jia wen rou	24
 更加渴望	geng jia ke wang	0
 更加满足	geng jia man zu	0
 更加漂亮	geng jia piao liang	0
@@ -195051,7 +195051,7 @@ sort: by_weight
 更加阳光	geng jia yang guang	0
 更加随意	geng jia sui yi	0
 更加难	geng jia nan	0
-更加难受	geng jia nan shou	0
+更加难受	geng jia nan shou	49
 更加集中	geng jia ji zhong	0
 更加需要注意	geng jia xu yao zhu yi	0
 更加青春	geng jia qing chun	0
@@ -195084,7 +195084,7 @@ sort: by_weight
 更名费	geng ming fei	0
 更向往	geng xiang wang	0
 更吸引	geng xi yin	0
-更吸引人	geng xi yin ren	0
+更吸引人	geng xi yin ren	204
 更和平	geng he ping	0
 更和谐	geng he xie	0
 更商务	geng shang wu	0
@@ -195184,7 +195184,7 @@ sort: by_weight
 更多声音	geng duo sheng yin	0
 更多奖励	geng duo jiang li	0
 更多女性	geng duo nv xing	0
-更多好听	geng duo hao ting	0
+更多好听	geng duo hao ting	9
 更多学生	geng duo xue sheng	0
 更多孩子	geng duo hai zi	0
 更多定制	geng duo ding zhi	0
@@ -195505,7 +195505,7 @@ sort: by_weight
 更大需求	geng da xu qiu	0
 更大面积	geng da mian ji	0
 更天然	geng tian ran	0
-更奇妙	geng qi miao	0
+更奇妙	geng qi miao	36
 更奇葩	geng qi pa	0
 更好一点	geng hao yi dian	0
 更好产品	geng hao chan pin	0
@@ -195564,7 +195564,7 @@ sort: by_weight
 更好的发挥	geng hao de fa hui	0
 更好的合作	geng hao de he zuo	0
 更好的品牌	geng hao de pin pai	0
-更好的品质	geng hao de pin zhi	0
+更好的品质	geng hao de pin zhi	16
 更好的商品	geng hao de shang pin	0
 更好的回答	geng hao de hui da	0
 更好的团队	geng hao de tuan dui	0
@@ -195692,7 +195692,7 @@ sort: by_weight
 更容易找到	geng rong yi zhao dao	0
 更容易掌握	geng rong yi zhang wo	0
 更容易接受	geng rong yi jie shou	0
-更容易接近	geng rong yi jie jin	0
+更容易接近	geng rong yi jie jin	10
 更容易控制	geng rong yi kong zhi	0
 更容易操作	geng rong yi cao zuo	0
 更容易满足	geng rong yi man zu	0
@@ -195758,7 +195758,7 @@ sort: by_weight
 更换方法	geng huan fang fa	0
 更换时	geng huan shi	0
 更换时间	geng huan shi jian	0
-更换标准	geng huan biao zhun	0
+更换标准	geng huan biao zhun	8
 更换液压油	geng huan ye ya you	0
 更换滤袋	geng huan lv dai	0
 更换电梯	geng huan dian ti	0
@@ -196010,7 +196010,7 @@ sort: by_weight
 更淑女	geng shu nv	0
 更混乱	geng hun luan	0
 更清洁	geng qing jie	0
-更清爽	geng qing shuang	0
+更清爽	geng qing shuang	88
 更清醒	geng qing xing	0
 更温暖	geng wen nuan	0
 更渴望	geng ke wang	0
@@ -196121,7 +196121,7 @@ sort: by_weight
 更适合孩子	geng shi he hai zi	0
 更适合的	geng shi he de	0
 更适应	geng shi ying	0
-更透彻	geng tou che	0
+更透彻	geng tou che	168
 更透明	geng tou ming	0
 更通俗	geng tong su	0
 更阳光	geng yang guang	0
@@ -199160,7 +199160,7 @@ sort: by_weight
 本钢集团	ben gang ji tuan	0
 本钱市场	ben qian shi chang	0
 本阶段	ben jie duan	0
-本集中	ben ji zhong	0
+本集中	ben ji zhong	35
 本页面	ben ye mian	0
 本领域	ben ling yu	0
 本领强啊	ben ling qiang a	0
@@ -199412,7 +199412,7 @@ sort: by_weight
 机会不大	ji hui bu da	0
 机会不好	ji hui bu hao	0
 机会不断	ji hui bu duan	0
-机会公平	ji hui gong ping	0
+机会公平	ji hui gong ping	8
 机会出现	ji hui chu xian	0
 机会分析	ji hui fen xi	0
 机会创造	ji hui chuang zao	0
@@ -199933,7 +199933,7 @@ sort: by_weight
 机械化收获	ji xie hua shou huo	0
 机械化清扫	ji xie hua qing sao	0
 机械厂家	ji xie chang jia	0
-机械压力	ji xie ya li	0
+机械压力	ji xie ya li	23
 机械及工业制品	ji xie ji gong ye zhi pin	0
 机械品牌	ji xie pin pai	0
 机械回收	ji xie hui shou	0
@@ -203446,7 +203446,7 @@ sort: by_weight
 板块定位	ban kuai ding wei	0
 板块市场	ban kuai shi chang	0
 板块房价	ban kuai fang jia	0
-板块整体	ban kuai zheng ti	0
+板块整体	ban kuai zheng ti	13
 板块方面	ban kuai fang mian	0
 板块早盘	ban kuai zao pan	0
 板块机会	ban kuai ji hui	0
@@ -205066,7 +205066,7 @@ sort: by_weight
 查询服务	cha xun fu wu	0
 查询期限	cha xun qi xian	0
 查询流程	cha xun liu cheng	0
-查询渠道	cha xun qu dao	0
+查询渠道	cha xun qu dao	10
 查询点	cha xun dian	0
 查询用户	cha xun yong hu	0
 查询申请	cha xun shen qing	0
@@ -205618,7 +205618,7 @@ sort: by_weight
 标志设备	biao zhi she bei	0
 标志设计公司	biao zhi she ji gong si	0
 标志设计制作	biao zhi she ji zhi zuo	0
-标志说明	biao zhi shuo ming	0
+标志说明	biao zhi shuo ming	1
 标普全球普氏	biao pu quan qiu pu shi	0
 标本采样	biao ben cai yang	0
 标杆产品	biao gan chan pin	0
@@ -206723,7 +206723,7 @@ sort: by_weight
 案件管理工作	an jian guan li gong zuo	0
 案件管理部	an jian guan li bu	0
 案件管理部门	an jian guan li bu men	0
-案件类型	an jian lei xing	0
+案件类型	an jian lei xing	31
 案件线索移送	an jian xian suo yi song	0
 案件细节	an jian xi jie	0
 案件经过	an jian jing guo	0
@@ -207693,7 +207693,7 @@ sort: by_weight
 检查电源电压	jian cha dian yuan dian ya	0
 检查电缆	jian cha dian lan	0
 检查疫情防控	jian cha yi qing fang kong	0
-检查病人	jian cha bing ren	0
+检查病人	jian cha bing ren	7
 检查眼睛	jian cha yan jing	0
 检查督办	jian cha du ban	0
 检查站执勤	jian cha zhan zhi qin	0
@@ -207775,7 +207775,7 @@ sort: by_weight
 检测板	jian ce ban	0
 检测正常	jian ce zheng chang	0
 检测水平	jian ce shui ping	0
-检测治疗	jian ce zhi liao	0
+检测治疗	jian ce zhi liao	5
 检测流程	jian ce liu cheng	0
 检测测试	jian ce ce shi	0
 检测环境	jian ce huan jing	0
@@ -209479,7 +209479,7 @@ sort: by_weight
 款式各异	kuan shi ge yi	0
 款式多	kuan shi duo	0
 款式好	kuan shi hao	0
-款式新	kuan shi xin	0
+款式新	kuan shi xin	5
 款式的搭配	kuan shi de da pei	0
 款式简单	kuan shi jian dan	0
 款式设计	kuan shi she ji	0
@@ -209990,7 +209990,7 @@ sort: by_weight
 正式建立	zheng shi jian li	0
 正式开发	zheng shi kai fa	0
 正式形成	zheng shi xing cheng	0
-正式感	zheng shi gan	0
+正式感	zheng shi gan	47
 正式打开	zheng shi da kai	0
 正式拍摄	zheng shi pai she	0
 正式提出	zheng shi ti chu	0
@@ -210098,7 +210098,7 @@ sort: by_weight
 正确姿势是	zheng que zi shi shi	0
 正确学习	zheng que xue xi	0
 正确完成	zheng que wan cheng	0
-正确定位	zheng que ding wei	0
+正确定位	zheng que ding wei	25
 正确履职	zheng que lv zhi	0
 正确引导舆论	zheng que yin dao yu lun	0
 正确思想	zheng que si xiang	0
@@ -210252,7 +210252,7 @@ sort: by_weight
 正规捕鱼平台	zheng gui bu yu ping tai	0
 正规斗牛	zheng gui dou niu	0
 正规服务	zheng gui fu wu	0
-正规机构	zheng gui ji gou	0
+正规机构	zheng gui ji gou	126
 正规棋牌	zheng gui qi pai	0
 正规江苏快三	zheng gui jiang su kuai san	0
 正规游戏	zheng gui you xi	0
@@ -212268,7 +212268,7 @@ sort: by_weight
 比较尴尬	bi jiao gan ga	0
 比较差异	bi jiao cha yi	0
 比较帅	bi jiao shuai	0
-比较帅气	bi jiao shuai qi	0
+比较帅气	bi jiao shuai qi	14
 比较希望	bi jiao xi wang	0
 比较常规	bi jiao chang gui	0
 比较干净	bi jiao gan jing	0
@@ -212296,7 +212296,7 @@ sort: by_weight
 比较惊喜	bi jiao jing xi	0
 比较惨	bi jiao can	0
 比较想	bi jiao xiang	0
-比较愉快	bi jiao yu kuai	0
+比较愉快	bi jiao yu kuai	35
 比较意外	bi jiao yi wai	0
 比较感兴趣	bi jiao gan xing qu	0
 比较感性	bi jiao gan xing	0
@@ -212411,7 +212411,7 @@ sort: by_weight
 比较突然	bi jiao tu ran	0
 比较符合	bi jiao fu he	0
 比较简洁	bi jiao jian jie	0
-比较简约	bi jiao jian yue	0
+比较简约	bi jiao jian yue	45
 比较类似	bi jiao lei si	0
 比较粗	bi jiao cu	0
 比较粗糙	bi jiao cu cao	0
@@ -212419,7 +212419,7 @@ sort: by_weight
 比较精彩	bi jiao jing cai	0
 比较精致	bi jiao jing zhi	0
 比较糟糕	bi jiao zao gao	0
-比较紧密	bi jiao jin mi	0
+比较紧密	bi jiao jin mi	103
 比较紧张	bi jiao jin zhang	0
 比较累	bi jiao lei	0
 比较繁琐	bi jiao fan suo	0
@@ -212758,7 +212758,7 @@ sort: by_weight
 毫无可能	hao wu ke neng	0
 毫无基础	hao wu ji chu	0
 毫无帮助	hao wu bang zhu	0
-毫无想法	hao wu xiang fa	0
+毫无想法	hao wu xiang fa	13
 毫无技术	hao wu ji shu	0
 毫无改变	hao wu gai bian	0
 毫无方向	hao wu fang xiang	0
@@ -213891,7 +213891,7 @@ sort: by_weight
 水平越高	shui ping yue gao	0
 水平距离	shui ping ju li	0
 水平转子	shui ping zhuan zi	0
-水平较低	shui ping jiao di	0
+水平较低	shui ping jiao di	83
 水平较高	shui ping jiao gao	0
 水平进步	shui ping jin bu	0
 水平问题	shui ping wen ti	0
@@ -214805,7 +214805,7 @@ sort: by_weight
 求离婚	qiu li hun	0
 求租求购	qiu zu qiu gou	0
 求答案	qiu da an	0
-求粉丝	qiu fen si	0
+求粉丝	qiu fen si	12
 求组团	qiu zu tuan	0
 求经验	qiu jing yan	0
 求结婚	qiu jie hun	0
@@ -216698,7 +216698,7 @@ sort: by_weight
 沙发清洗	sha fa qing xi	0
 沙发清洗机	sha fa qing xi ji	0
 沙发租赁	sha fa zu lin	0
-沙发类	sha fa lei	0
+沙发类	sha fa lei	3
 沙发维修	sha fa wei xiu	0
 沙发翻新	sha fa fan xin	0
 沙发茶几组合	sha fa cha ji zu he	0
@@ -217688,7 +217688,7 @@ sort: by_weight
 治理资源	zhi li zi yuan	0
 治理超限超载	zhi li chao xian chao zai	0
 治理问题	zhi li wen ti	0
-治理项目	zhi li xiang mu	0
+治理项目	zhi li xiang mu	6
 治疗一切	zhi liao yi qie	0
 治疗一段时间	zhi liao yi duan shi jian	0
 治疗专家	zhi liao zhuan jia	0
@@ -219801,7 +219801,7 @@ sort: by_weight
 活动轨迹公布	huo dong gui ji gong bu	0
 活动载体	huo dong zai ti	0
 活动过	huo dong guo	0
-活动过后	huo dong guo hou	0
+活动过后	huo dong guo hou	16
 活动过多	huo dong guo duo	0
 活动过程中	huo dong guo cheng zhong	0
 活动运营	huo dong yun ying	0
@@ -220091,7 +220091,7 @@ sort: by_weight
 流程创新	liu cheng chuang xin	0
 流程制造	liu cheng zhi zao	0
 流程制造业	liu cheng zhi zao ye	0
-流程合理	liu cheng he li	0
+流程合理	liu cheng he li	5
 流程培训	liu cheng pei xun	0
 流程处理	liu cheng chu li	0
 流程复杂	liu cheng fu za	0
@@ -220110,7 +220110,7 @@ sort: by_weight
 流程服务	liu cheng fu wu	0
 流程标准	liu cheng biao zhun	0
 流程步骤	liu cheng bu zhou	0
-流程清晰	liu cheng qing xi	0
+流程清晰	liu cheng qing xi	16
 流程环节	liu cheng huan jie	0
 流程申请	liu cheng shen qing	0
 流程相关	liu cheng xiang guan	0
@@ -220423,7 +220423,7 @@ sort: by_weight
 测评项目	ce ping xiang mu	0
 测试一	ce shi yi	0
 测试三	ce shi san	0
-测试上线	ce shi shang xian	0
+测试上线	ce shi shang xian	19
 测试与测量	ce shi yu ce liang	0
 测试专家	ce shi zhuan jia	0
 测试业务	ce shi ye wu	0
@@ -221330,7 +221330,7 @@ sort: by_weight
 海南屯昌县	hai nan tun chang xian	0
 海南岛东南部	hai nan dao dong nan bu	0
 海南岛国际	hai nan dao guo ji	0
-海南市场	hai nan shi chang	0
+海南市场	hai nan shi chang	1
 海南广播电视总台	hai nan guang bo dian shi zong tai	0
 海南彩票	hai nan cai piao	0
 海南房产网	hai nan fang chan wang	0
@@ -221705,7 +221705,7 @@ sort: by_weight
 海洋类	hai yang lei	0
 海洋综合执法	hai yang zong he zhi fa	0
 海洋自然	hai yang zi ran	0
-海洋运动	hai yang yun dong	0
+海洋运动	hai yang yun dong	4
 海洋里	hai yang li	0
 海洋领域	hai yang ling yu	0
 海洋风格	hai yang feng ge	0
@@ -222604,7 +222604,7 @@ sort: by_weight
 涉及企业	she ji qi ye	0
 涉及住宅	she ji zhu zhai	0
 涉及保险	she ji bao xian	0
-涉及健康	she ji jian kang	0
+涉及健康	she ji jian kang	12
 涉及公共安全	she ji gong gong an quan	0
 涉及公安	she ji gong an	0
 涉及其中	she ji qi zhong	0
@@ -222617,7 +222617,7 @@ sort: by_weight
 涉及商业	she ji shang ye	0
 涉及国家	she ji guo jia	0
 涉及基础	she ji ji chu	0
-涉及学科	she ji xue ke	0
+涉及学科	she ji xue ke	13
 涉及就业	she ji jiu ye	0
 涉及广告	she ji guang gao	0
 涉及户数	she ji hu shu	0
@@ -223229,7 +223229,7 @@ sort: by_weight
 淘宝直播	tao bao zhi bo	0
 淘宝相册	tao bao xiang ce	0
 淘宝看看	tao bao kan kan	0
-淘宝社区	tao bao she qu	0
+淘宝社区	tao bao she qu	3
 淘宝第一	tao bao di yi	0
 淘宝素材	tao bao su cai	0
 淘宝经验	tao bao jing yan	0
@@ -223241,7 +223241,7 @@ sort: by_weight
 淘宝网开店	tao bao wang kai dian	0
 淘宝网站	tao bao wang zhan	0
 淘宝美工培训	tao bao mei gong pei xun	0
-淘宝群	tao bao qun	0
+淘宝群	tao bao qun	16
 淘宝考试	tao bao kao shi	0
 淘宝职位	tao bao zhi wei	0
 淘宝营销	tao bao ying xiao	0
@@ -223254,7 +223254,7 @@ sort: by_weight
 淘宝评价	tao bao ping jia	0
 淘宝评论	tao bao ping lun	0
 淘宝账号	tao bao zhang hao	0
-淘宝账户	tao bao zhang hu	0
+淘宝账户	tao bao zhang hu	21
 淘宝购买	tao bao gou mai	0
 淘宝赚钱	tao bao zhuan qian	0
 淘宝软件	tao bao ruan jian	0
@@ -223800,7 +223800,7 @@ sort: by_weight
 深圳第一	shen zhen di yi	0
 深圳第三	shen zhen di san	0
 深圳第二	shen zhen di er	0
-深圳精神	shen zhen jing shen	0
+深圳精神	shen zhen jing shen	3
 深圳经济	shen zhen jing ji	0
 深圳经济特区公民无偿献血及血液管理条例	shen zhen jing ji te qu gong min wu chang xian xue ji xue ye guan li tiao li	0
 深圳经验	shen zhen jing yan	0
@@ -224944,7 +224944,7 @@ sort: by_weight
 渠道方式	qu dao fang shi	0
 渠道服务	qu dao fu wu	0
 渠道来源	qu dao lai yuan	0
-渠道查询	qu dao cha xun	0
+渠道查询	qu dao cha xun	10
 渠道流量	qu dao liu liang	0
 渠道用户	qu dao yong hu	0
 渠道申请	qu dao shen qing	0
@@ -225430,7 +225430,7 @@ sort: by_weight
 游客评价	you ke ping jia	0
 游客选择	you ke xuan ze	0
 游客采摘	you ke cai zhai	0
-游客需求	you ke xu qiu	0
+游客需求	you ke xu qiu	8
 游客须知	you ke xu zhi	0
 游客预约	you ke yu yue	0
 游少菁	you shao jing	0
@@ -227239,7 +227239,7 @@ sort: by_weight
 演出收入	yan chu shou ru	0
 演出效果	yan chu xiao guo	0
 演出方式	yan chu fang shi	0
-演出期间	yan chu qi jian	0
+演出期间	yan chu qi jian	14
 演出机会	yan chu ji hui	0
 演出机构	yan chu ji gou	0
 演出照片	yan chu zhao pian	0
@@ -229939,7 +229939,7 @@ sort: by_weight
 热狗直播软件下载	re gou zhi bo ruan jian xia zai	0
 热狗看球	re gou kan qiu	0
 热玛吉除皱	re ma ji chu zhou	0
-热环境	re huan jing	0
+热环境	re huan jing	21
 热用户	re yong hu	0
 热甫卡提江	re fu ka ti jiang	0
 热电企业	re dian qi ye	0
@@ -231071,7 +231071,7 @@ sort: by_weight
 爱一切	ai yi qie	0
 爱一场	ai yi chang	0
 爱一次	ai yi ci	0
-爱一生	ai yi sheng	0
+爱一生	ai yi sheng	3
 爱一起	ai yi qi	0
 爱一辈子	ai yi bei zi	0
 爱丁堡市	ai ding bao shi	0
@@ -232816,7 +232816,7 @@ sort: by_weight
 特别优秀	te bie you xiu	0
 特别优质	te bie you zhi	0
 特别会	te bie hui	0
-特别伟大	te bie wei da	0
+特别伟大	te bie wei da	12
 特别体验	te bie ti yan	0
 特别作	te bie zuo	0
 特别依赖	te bie yi lai	0
@@ -232865,7 +232865,7 @@ sort: by_weight
 特别奖励	te bie jiang li	0
 特别好友	te bie hao you	0
 特别好吃	te bie hao chi	0
-特别好奇	te bie hao qi	0
+特别好奇	te bie hao qi	77
 特别好看	te bie hao kan	0
 特别孤独	te bie gu du	0
 特别安全	te bie an quan	0
@@ -233126,7 +233126,7 @@ sort: by_weight
 特别预算	te bie yu suan	0
 特别高级	te bie gao ji	0
 特别麻烦	te bie ma fan	0
-特别黄	te bie huang	0
+特别黄	te bie huang	9
 特别黄的视频	te bie huang de shi pin	0
 特别黑	te bie hei	0
 特别鼓励	te bie gu li	0
@@ -233174,7 +233174,7 @@ sort: by_weight
 特定事件	te ding shi jian	0
 特定产品	te ding chan pin	0
 特定人	te ding ren	0
-特定人员	te ding ren yuan	0
+特定人员	te ding ren yuan	13
 特定人群	te ding ren qun	0
 特定任务	te ding ren wu	0
 特定企业	te ding qi ye	0
@@ -233372,7 +233372,7 @@ sort: by_weight
 特殊使用	te shu shi yong	0
 特殊保护	te shu bao hu	0
 特殊保镖	te shu bao biao	0
-特殊保障	te shu bao zhang	0
+特殊保障	te shu bao zhang	2
 特殊信息	te shu xin xi	0
 特殊值	te shu zhi	0
 特殊假期	te shu jia qi	0
@@ -236626,7 +236626,7 @@ sort: by_weight
 环保的特点	huan bao de te dian	0
 环保皮	huan bao pi	0
 环保监督	huan bao jian du	0
-环保相关	huan bao xiang guan	0
+环保相关	huan bao xiang guan	2
 环保督察整改	huan bao du cha zheng gai	0
 环保督察问题整改	huan bao du cha wen ti zheng gai	0
 环保知识	huan bao zhi shi	0
@@ -236777,7 +236777,7 @@ sort: by_weight
 环境品质	huan jing pin zhi	0
 环境啊	huan jing a	0
 环境噪声污染	huan jing zao sheng wu ran	0
-环境噪音	huan jing zao yin	0
+环境噪音	huan jing zao yin	96
 环境图	huan jing tu	0
 环境在线	huan jing zai xian	0
 环境基础	huan jing ji chu	0
@@ -237105,7 +237105,7 @@ sort: by_weight
 现代农牧	xian dai nong mu	0
 现代农牧业	xian dai nong mu ye	0
 现代分析	xian dai fen xi	0
-现代创新	xian dai chuang xin	0
+现代创新	xian dai chuang xin	3
 现代剧中	xian dai ju zhong	0
 现代包装	xian dai bao zhuang	0
 现代化中心城区	xian dai hua zhong xin cheng qu	0
@@ -237138,7 +237138,7 @@ sort: by_weight
 现代墨连城	xian dai mo lian cheng	0
 现代复古	xian dai fu gu	0
 现代大学	xian dai da xue	0
-现代女人	xian dai nv ren	0
+现代女人	xian dai nv ren	4
 现代媒体	xian dai mei ti	0
 现代学生	xian dai xue sheng	0
 现代学科	xian dai xue ke	0
@@ -237164,7 +237164,7 @@ sort: by_weight
 现代手段	xian dai shou duan	0
 现代技术	xian dai ji shu	0
 现代挖掘机	xian dai wa jue ji	0
-现代摄影	xian dai she ying	0
+现代摄影	xian dai she ying	13
 现代支付	xian dai zhi fu	0
 现代政府	xian dai zheng fu	0
 现代政治	xian dai zheng zhi	0
@@ -237617,7 +237617,7 @@ sort: by_weight
 现实之外	xian shi zhi wai	0
 现实之间	xian shi zhi jian	0
 现实事件	xian shi shi jian	0
-现实些	xian shi xie	0
+现实些	xian shi xie	7
 现实人物	xian shi ren wu	0
 现实人生	xian shi ren sheng	0
 现实价值	xian shi jia zhi	0
@@ -238091,11 +238091,11 @@ sort: by_weight
 珍惜婚姻	zhen xi hun yin	0
 珍惜工作	zhen xi gong zuo	0
 珍惜我	zhen xi wo	0
-珍惜所有	zhen xi suo you	0
+珍惜所有	zhen xi suo you	2
 珍惜时间	zhen xi shi jian	0
 珍惜现在	zhen xi xian zai	0
 珍惜眼前的幸福	zhen xi yan qian de xing fu	0
-珍惜过	zhen xi guo	0
+珍惜过	zhen xi guo	5
 珍爱十字绣	zhen ai shi zi xiu	0
 珍珠内裤	zhen zhu nei ku	0
 珍珠吊坠项链	zhen zhu diao zhui xiang lian	0
@@ -238421,7 +238421,7 @@ sort: by_weight
 球迷文化	qiu mi wen hua	0
 球迷朋友	qiu mi peng you	0
 球迷第一	qiu mi di yi	0
-球迷组织	qiu mi zu zhi	0
+球迷组织	qiu mi zu zhi	7
 球迷评论	qiu mi ping lun	0
 球铁铸件	qiu tie zhu jian	0
 球铰支座	qiu jiao zhi zuo	0
@@ -238534,7 +238534,7 @@ sort: by_weight
 理性投注	li xing tou zhu	0
 理性消费者	li xing xiao fei zhe	0
 理性状态	li xing zhuang tai	0
-理性科学	li xing ke xue	0
+理性科学	li xing ke xue	6
 理性竞争	li xing jing zheng	0
 理性表达	li xing biao da	0
 理性认知	li xing ren zhi	0
@@ -238854,7 +238854,7 @@ sort: by_weight
 理财者	li cai zhe	0
 理财能力	li cai neng li	0
 理财计划	li cai ji hua	0
-理财课	li cai ke	0
+理财课	li cai ke	53
 理财课程	li cai ke cheng	0
 理财购物	li cai gou wu	0
 理财需求	li cai xu qiu	0
@@ -239490,7 +239490,7 @@ sort: by_weight
 生产场景	sheng chan chang jing	0
 生产垃圾	sheng chan la ji	0
 生产型号	sheng chan xing hao	0
-生产培训	sheng chan pei xun	0
+生产培训	sheng chan pei xun	1
 生产基础	sheng chan ji chu	0
 生产处	sheng chan chu	0
 生产处理	sheng chan chu li	0
@@ -239509,7 +239509,7 @@ sort: by_weight
 生产家	sheng chan jia	0
 生产岗位	sheng chan gang wei	0
 生产工作	sheng chan gong zuo	0
-生产工程师	sheng chan gong cheng shi	0
+生产工程师	sheng chan gong cheng shi	7
 生产工艺和设备	sheng chan gong yi he she bei	0
 生产工艺流程图	sheng chan gong yi liu cheng tu	0
 生产工艺设备	sheng chan gong yi she bei	0
@@ -239698,7 +239698,7 @@ sort: by_weight
 生命古树	sheng ming gu shu	0
 生命周期成本	sheng ming zhou qi cheng ben	0
 生命周期服务	sheng ming zhou qi fu wu	0
-生命品质	sheng ming pin zhi	0
+生命品质	sheng ming pin zhi	5
 生命哲学	sheng ming zhe xue	0
 生命基因	sheng ming ji yin	0
 生命如此	sheng ming ru ci	0
@@ -239850,7 +239850,7 @@ sort: by_weight
 生态价值转化	sheng tai jia zhi zhuan hua	0
 生态企业	sheng tai qi ye	0
 生态休闲农业	sheng tai xiu xian nong ye	0
-生态优势	sheng tai you shi	0
+生态优势	sheng tai you shi	34
 生态会	sheng tai hui	0
 生态住宅	sheng tai zhu zhai	0
 生态体育公园	sheng tai ti yu gong yuan	0
@@ -240140,7 +240140,7 @@ sort: by_weight
 生效中	sheng xiao zhong	0
 生效时	sheng xiao shi	0
 生效裁判监督	sheng xiao cai pan jian du	0
-生文化	sheng wen hua	0
+生文化	sheng wen hua	1
 生料磨	sheng liao mo	0
 生料立磨	sheng liao li mo	0
 生日主持	sheng ri zhu chi	0
@@ -240340,7 +240340,7 @@ sort: by_weight
 生活基础	sheng huo ji chu	0
 生活基金	sheng huo ji jin	0
 生活大片	sheng huo da pian	0
-生活奋斗	sheng huo fen dou	0
+生活奋斗	sheng huo fen dou	1
 生活好	sheng huo hao	0
 生活好习惯	sheng huo hao xi guan	0
 生活如何	sheng huo ru he	0
@@ -240595,7 +240595,7 @@ sort: by_weight
 生活课堂	sheng huo ke tang	0
 生活负担	sheng huo fu dan	0
 生活质感	sheng huo zhi gan	0
-生活购物	sheng huo gou wu	0
+生活购物	sheng huo gou wu	10
 生活资源	sheng huo zi yuan	0
 生活起来	sheng huo qi lai	0
 生活超市	sheng huo chao shi	0
@@ -240806,7 +240806,7 @@ sort: by_weight
 生病前	sheng bing qian	0
 生病后	sheng bing hou	0
 生病时	sheng bing shi	0
-生的东西	sheng de dong xi	0
+生的东西	sheng de dong xi	11
 生米大桥	sheng mi da qiao	0
 生米已煮成熟饭	sheng mi yi zhu cheng shu fan	0
 生米熟饭	sheng mi shu fan	0
@@ -241566,7 +241566,7 @@ sort: by_weight
 申请过程	shen qing guo cheng	0
 申请过程中	shen qing guo cheng zhong	0
 申请进入	shen qing jin ru	0
-申请退出	shen qing tui chu	0
+申请退出	shen qing tui chu	13
 申请途径	shen qing tu jing	0
 申请邀请	shen qing yao qing	0
 申请邮箱	shen qing you xiang	0
@@ -242011,7 +242011,7 @@ sort: by_weight
 电商项目	dian shang xiang mu	0
 电商领域	dian shang ling yu	0
 电喷摩托车	dian pen mo tuo che	0
-电器专业	dian qi zhuan ye	0
+电器专业	dian qi zhuan ye	1
 电器专营店	dian qi zhuan ying dian	0
 电器修理	dian qi xiu li	0
 电器公司	dian qi gong si	0
@@ -243361,7 +243361,7 @@ sort: by_weight
 电视价格	dian shi jia ge	0
 电视企业	dian shi qi ye	0
 电视内容	dian shi nei rong	0
-电视制作	dian shi zhi zuo	0
+电视制作	dian shi zhi zuo	16
 电视前	dian shi qian	0
 电视剧一姐	dian shi ju yi jie	0
 电视剧一播出	dian shi ju yi bo chu	0
@@ -243394,7 +243394,7 @@ sort: by_weight
 电视剧男演员	dian shi ju nan yan yuan	0
 电视剧相关	dian shi ju xiang guan	0
 电视剧类	dian shi ju lei	0
-电视剧类型	dian shi ju lei xing	0
+电视剧类型	dian shi ju lei xing	5
 电视剧网	dian shi ju wang	0
 电视剧观众	dian shi ju guan zhong	0
 电视剧视频	dian shi ju shi pin	0
@@ -244355,7 +244355,7 @@ sort: by_weight
 画面展示	hua mian zhan shi	0
 画面差	hua mian cha	0
 画面布局	hua mian bu ju	0
-画面干净	hua mian gan jing	0
+画面干净	hua mian gan jing	46
 画面当中	hua mian dang zhong	0
 画面形象	hua mian xing xiang	0
 画面截图	hua mian jie tu	0
@@ -244531,7 +244531,7 @@ sort: by_weight
 留学教育	liu xue jiao yu	0
 留学文书套餐	liu xue wen shu tao can	0
 留学新闻	liu xue xin wen	0
-留学方案	liu xue fang an	0
+留学方案	liu xue fang an	20
 留学时	liu xue shi	0
 留学时间	liu xue shi jian	0
 留学机会	liu xue ji hui	0
@@ -244554,7 +244554,7 @@ sort: by_weight
 留学英语	liu xue ying yu	0
 留学计划	liu xue ji hua	0
 留学课程	liu xue ke cheng	0
-留学费用	liu xue fei yong	0
+留学费用	liu xue fei yong	194
 留学选择	liu xue xuan ze	0
 留学问题	liu xue wen ti	0
 留学项目	liu xue xiang mu	0
@@ -244804,7 +244804,7 @@ sort: by_weight
 疫情处理	yi qing chu li	0
 疫情外	yi qing wai	0
 疫情大考	yi qing da kao	0
-疫情安全	yi qing an quan	0
+疫情安全	yi qing an quan	2
 疫情对策	yi qing dui ce	0
 疫情就是警情	yi qing jiu shi jing qing	0
 疫情工作	yi qing gong zuo	0
@@ -244832,7 +244832,7 @@ sort: by_weight
 疫情救助	yi qing jiu zhu	0
 疫情数字	yi qing shu zi	0
 疫情数据	yi qing shu ju	0
-疫情新闻	yi qing xin wen	0
+疫情新闻	yi qing xin wen	3
 疫情方面	yi qing fang mian	0
 疫情无国界	yi qing wu guo jie	0
 疫情日记	yi qing ri ji	0
@@ -245026,7 +245026,7 @@ sort: by_weight
 疫苗援助	yi miao yuan zhu	0
 疫苗效果	yi miao xiao guo	0
 疫苗概念股	yi miao gai nian gu	0
-疫苗相关	yi miao xiang guan	0
+疫苗相关	yi miao xiang guan	8
 疫苗研发工作	yi miao yan fa gong zuo	0
 疫苗研究	yi miao yan jiu	0
 疫苗竞赛	yi miao jing sai	0
@@ -247180,7 +247180,7 @@ sort: by_weight
 监测要求	jian ce yao qiu	0
 监测规范	jian ce gui fan	0
 监测防控	jian ce fang kong	0
-监测项目	jian ce xiang mu	0
+监测项目	jian ce xiang mu	11
 监测预警平台	jian ce yu jing ping tai	0
 监狱中	jian yu zhong	0
 监狱围栏网	jian yu wei lan wang	0
@@ -248476,7 +248476,7 @@ sort: by_weight
 直男啊	zhi nan a	0
 直男杀手	zhi nan sha shou	0
 直男男友	zhi nan nan you	0
-直白一点	zhi bai yi dian	0
+直白一点	zhi bai yi dian	349
 直白点	zhi bai dian	0
 直短发	zhi duan fa	0
 直立锁边	zhi li suo bian	0
@@ -248925,7 +248925,7 @@ sort: by_weight
 相关特性	xiang guan te xing	0
 相关犯罪	xiang guan fan zui	0
 相关状况	xiang guan zhuang kuang	0
-相关环保	xiang guan huan bao	0
+相关环保	xiang guan huan bao	1
 相关环境	xiang guan huan jing	0
 相关理论	xiang guan li lun	0
 相关申请	xiang guan shen qing	0
@@ -249180,9 +249180,9 @@ sort: by_weight
 相对会	xiang dui hui	0
 相对估值	xiang dui gu zhi	0
 相对低	xiang dui di	0
-相对保守	xiang dui bao shou	0
+相对保守	xiang dui bao shou	145
 相对健康	xiang dui jian kang	0
-相对充分	xiang dui chong fen	0
+相对充分	xiang dui chong fen	5
 相对公平	xiang dui gong ping	0
 相对具体	xiang dui ju ti	0
 相对准确	xiang dui zhun que	0
@@ -249198,7 +249198,7 @@ sort: by_weight
 相对合适	xiang dui he shi	0
 相对困难	xiang dui kun nan	0
 相对固定	xiang dui gu ding	0
-相对均衡	xiang dui jun heng	0
+相对均衡	xiang dui jun heng	90
 相对垄断	xiang dui long duan	0
 相对复杂	xiang dui fu za	0
 相对多	xiang dui duo	0
@@ -251170,7 +251170,7 @@ sort: by_weight
 真实皮肤	zhen shi pi fu	0
 真实看法	zhen shi kan fa	0
 真实破处	zhen shi po chu	0
-真实社交	zhen shi she jiao	0
+真实社交	zhen shi she jiao	16
 真实社会	zhen shi she hui	0
 真实空间	zhen shi kong jian	0
 真实答案	zhen shi da an	0
@@ -251313,11 +251313,11 @@ sort: by_weight
 真是快	zhen shi kuai	0
 真是时尚	zhen shi shi shang	0
 真是有钱	zhen shi you qian	0
-真是漂亮	zhen shi piao liang	0
+真是漂亮	zhen shi piao liang	23
 真是特别	zhen shi te bie	0
 真是神	zhen shi shen	0
 真是第一次	zhen shi di yi ci	0
-真是美好	zhen shi mei hao	0
+真是美好	zhen shi mei hao	22
 真是让人不敢相信	zhen shi rang ren bu gan xiang xin	0
 真是让人捉摸不透	zhen shi rang ren zhuo mo bu tou	0
 真是让人羡慕啊	zhen shi rang ren xian mu a	0
@@ -251601,7 +251601,7 @@ sort: by_weight
 真正的日本	zhen zheng de ri ben	0
 真正的时间	zhen zheng de shi jian	0
 真正的明星	zhen zheng de ming xing	0
-真正的智能	zhen zheng de zhi neng	0
+真正的智能	zhen zheng de zhi neng	37
 真正的朋友	zhen zheng de peng you	0
 真正的服务	zhen zheng de fu wu	0
 真正的本质	zhen zheng de ben zhi	0
@@ -251883,7 +251883,7 @@ sort: by_weight
 真的就好	zhen de jiu hao	0
 真的差不多	zhen de cha bu duo	0
 真的帅	zhen de shuai	0
-真的帅气	zhen de shuai qi	0
+真的帅气	zhen de shuai qi	2
 真的干	zhen de gan	0
 真的干净	zhen de gan jing	0
 真的幸福	zhen de xing fu	0
@@ -252226,7 +252226,7 @@ sort: by_weight
 真耶稣教会	zhen ye su jiao hui	0
 真肥大	zhen fei da	0
 真肥胖	zhen fei pang	0
-真自信	zhen zi xin	0
+真自信	zhen zi xin	2
 真自我	zhen zi wo	0
 真自由	zhen zi you	0
 真荣田乡敦	zhen rong tian xiang dun	0
@@ -252670,7 +252670,7 @@ sort: by_weight
 知名企事业单位	zhi ming qi shi ye dan wei	0
 知名作品	zhi ming zuo pin	0
 知名作家刘信达	zhi ming zuo jia liu xin da	0
-知名作者	zhi ming zuo zhe	0
+知名作者	zhi ming zuo zhe	14
 知名公司	zhi ming gong si	0
 知名女主持人	zhi ming nv zhu chi ren	0
 知名女艺人	zhi ming nv yi ren	0
@@ -252730,7 +252730,7 @@ sort: by_weight
 知识产权公司	zhi shi chan quan gong si	0
 知识产权司法	zhi shi chan quan si fa	0
 知识产权工作	zhi shi chan quan gong zuo	0
-知识产权市场	zhi shi chan quan shi chang	0
+知识产权市场	zhi shi chan quan shi chang	3
 知识产权战略实施	zhi shi chan quan zhan lve shi shi	0
 知识产权教育	zhi shi chan quan jiao yu	0
 知识产权方面	zhi shi chan quan fang mian	0
@@ -254221,7 +254221,7 @@ sort: by_weight
 研究记录	yan jiu ji lu	0
 研究论坛	yan jiu lun tan	0
 研究设计	yan jiu she ji	0
-研究证实	yan jiu zheng shi	0
+研究证实	yan jiu zheng shi	151
 研究评价	yan jiu ping jia	0
 研究评估	yan jiu ping gu	0
 研究试验	yan jiu shi yan	0
@@ -254910,7 +254910,7 @@ sort: by_weight
 确认合作	que ren he zuo	0
 确认听证会	que ren ting zheng hui	0
 确认好	que ren hao	0
-确认安全	que ren an quan	0
+确认安全	que ren an quan	43
 确认完成	que ren wan cheng	0
 确认工作	que ren gong zuo	0
 确认性	que ren xing	0
@@ -255441,7 +255441,7 @@ sort: by_weight
 社会一	she hui yi	0
 社会一般	she hui yi ban	0
 社会个体	she hui ge ti	0
-社会主义中国	she hui zhu yi zhong guo	0
+社会主义中国	she hui zhu yi zhong guo	23
 社会主义办学方向	she hui zhu yi ban xue fang xiang	0
 社会主义建设规律	she hui zhu yi jian she gui lv	0
 社会主义文明	she hui zhu yi wen ming	0
@@ -255717,7 +255717,7 @@ sort: by_weight
 社会的支持	she hui de zhi chi	0
 社会的未来	she hui de wei lai	0
 社会的理解	she hui de li jie	0
-社会的肯定	she hui de ken ding	0
+社会的肯定	she hui de ken ding	3
 社会的资源	she hui de zi yuan	0
 社会的问题	she hui de wen ti	0
 社会的需求	she hui de xu qiu	0
@@ -257371,7 +257371,7 @@ sort: by_weight
 离开母亲	li kai mu qin	0
 离开比赛	li kai bi sai	0
 离开水	li kai shui	0
-离开深圳	li kai shen zhen	0
+离开深圳	li kai shen zhen	34
 离开游戏	li kai you xi	0
 离开爸爸	li kai ba ba	0
 离开球队	li kai qiu dui	0
@@ -258023,7 +258023,7 @@ sort: by_weight
 科学技能	ke xue ji neng	0
 科学报告	ke xue bao gao	0
 科学报国	ke xue bao guo	0
-科学指导	ke xue zhi dao	0
+科学指导	ke xue zhi dao	22
 科学指引	ke xue zhi yin	0
 科学指挥	ke xue zhi hui	0
 科学控制	ke xue kong zhi	0
@@ -258060,7 +258060,7 @@ sort: by_weight
 科学消费	ke xue xiao fei	0
 科学版	ke xue ban	0
 科学现象	ke xue xian xiang	0
-科学理性	ke xue li xing	0
+科学理性	ke xue li xing	65
 科学生	ke xue sheng	0
 科学生产	ke xue sheng chan	0
 科学生活	ke xue sheng huo	0
@@ -258223,7 +258223,7 @@ sort: by_weight
 科技创新论坛	ke ji chuang xin lun tan	0
 科技创新赋能	ke ji chuang xin fu neng	0
 科技创新载体	ke ji chuang xin zai ti	0
-科技创造	ke ji chuang zao	0
+科技创造	ke ji chuang zao	9
 科技制作	ke ji zhi zuo	0
 科技前进	ke ji qian jin	0
 科技副总	ke ji fu zong	0
@@ -258231,7 +258231,7 @@ sort: by_weight
 科技助农	ke ji zhu nong	0
 科技北京	ke ji bei jing	0
 科技十足	ke ji shi zu	0
-科技升级	ke ji sheng ji	0
+科技升级	ke ji sheng ji	24
 科技协同创新	ke ji xie tong chuang xin	0
 科技发展部	ke ji fa zhan bu	0
 科技合作协议	ke ji he zuo xie yi	0
@@ -259413,7 +259413,7 @@ sort: by_weight
 程序交易	cheng xu jiao yi	0
 程序人生	cheng xu ren sheng	0
 程序介绍	cheng xu jie shao	0
-程序保障	cheng xu bao zhang	0
+程序保障	cheng xu bao zhang	4
 程序信息	cheng xu xin xi	0
 程序关	cheng xu guan	0
 程序删除	cheng xu shan chu	0
@@ -259653,7 +259653,7 @@ sort: by_weight
 稳定的状态	wen ding de zhuang tai	0
 稳定的环境	wen ding de huan jing	0
 稳定的生活	wen ding de sheng huo	0
-稳定的社会	wen ding de she hui	0
+稳定的社会	wen ding de she hui	17
 稳定的结构	wen ding de jie gou	0
 稳定的表现	wen ding de biao xian	0
 稳定的质量	wen ding de zhi liang	0
@@ -260344,7 +260344,7 @@ sort: by_weight
 穿越后	chuan yue hou	0
 穿越后宫	chuan yue hou gong	0
 穿越吧	chuan yue ba	0
-穿越啦	chuan yue la	0
+穿越啦	chuan yue la	1
 穿越女尊	chuan yue nv zun	0
 穿越小说吧	chuan yue xiao shuo ba	0
 穿越小说完本	chuan yue xiao shuo wan ben	0
@@ -260422,7 +260422,7 @@ sort: by_weight
 突出效果	tu chu xiao guo	0
 突出整体	tu chu zheng ti	0
 突出文化	tu chu wen hua	0
-突出明显	tu chu ming xian	0
+突出明显	tu chu ming xian	2
 突出服务	tu chu fu wu	0
 突出民生	tu chu min sheng	0
 突出治安问题	tu chu zhi an wen ti	0
@@ -260687,7 +260687,7 @@ sort: by_weight
 立即放人	li ji fang ren	0
 立即查找	li ji cha zhao	0
 立即玩	li ji wan	0
-立即申请	li ji shen qing	0
+立即申请	li ji shen qing	15
 立即留言	li ji liu yan	0
 立即登记	li ji deng ji	0
 立即研究	li ji yan jiu	0
@@ -260787,7 +260787,7 @@ sort: by_weight
 立案一庭	li an yi ting	0
 立案单位	li an dan wei	0
 立案处罚	li an chu fa	0
-立案时	li an shi	0
+立案时	li an shi	11
 立案服务	li an fu wu	0
 立案查办	li an cha ban	0
 立检为公	li jian wei gong	0
@@ -262069,7 +262069,7 @@ sort: by_weight
 第三方公司	di san fang gong si	0
 第三方内容	di san fang nei rong	0
 第三方力量	di san fang li liang	0
-第三方合作	di san fang he zuo	0
+第三方合作	di san fang he zuo	60
 第三方品牌	di san fang pin pai	0
 第三方回款	di san fang hui kuan	0
 第三方国家	di san fang guo jia	0
@@ -262610,7 +262610,7 @@ sort: by_weight
 等待已久了	deng dai yi jiu le	0
 等待您	deng dai nin	0
 等待我	deng dai wo	0
-等待死亡	deng dai si wang	0
+等待死亡	deng dai si wang	51
 等待爱	deng dai ai	0
 等待者	deng dai zhe	0
 等慰问品	deng wei wen pin	0
@@ -263003,7 +263003,7 @@ sort: by_weight
 简单动作	jian dan dong zuo	0
 简单包装	jian dan bao zhuang	0
 简单发型	jian dan fa xing	0
-简单叠加	jian dan die jia	0
+简单叠加	jian dan die jia	24
 简单句子	jian dan ju zi	0
 简单吧	jian dan ba	0
 简单善良	jian dan shan liang	0
@@ -263459,7 +263459,7 @@ sort: by_weight
 管加工	guan jia gong	0
 管向东	guan xiang dong	0
 管型母线	guan xing mu xian	0
-管基金	guan ji jin	0
+管基金	guan ji jin	9
 管壳式	guan ke shi	0
 管多少	guan duo shao	0
 管夹阀	guan jia fa	0
@@ -263688,7 +263688,7 @@ sort: by_weight
 管理状态	guan li zhuang tai	0
 管理环境	guan li huan jing	0
 管理环节	guan li huan jie	0
-管理现状	guan li xian zhuang	0
+管理现状	guan li xian zhuang	10
 管理班	guan li ban	0
 管理球队	guan li qiu dui	0
 管理生产	guan li sheng chan	0
@@ -263792,7 +263792,7 @@ sort: by_weight
 管理领导	guan li ling dao	0
 管理风格	guan li feng ge	0
 管理风险	guan li feng xian	0
-管理高效	guan li gao xiao	0
+管理高效	guan li gao xiao	3
 管用有效	guan yong you xiao	0
 管用的话	guan yong de hua	0
 管磨机	guan mo ji	0
@@ -264700,7 +264700,7 @@ sort: by_weight
 精准服务企业	jing zhun fu wu qi ye	0
 精准查处	jing zhun cha chu	0
 精准核查	jing zhun he cha	0
-精准治疗	jing zhun zhi liao	0
+精准治疗	jing zhun zhi liao	28
 精准流量	jing zhun liu liang	0
 精准点	jing zhun dian	0
 精准点评	jing zhun dian ping	0
@@ -265839,7 +265839,7 @@ sort: by_weight
 纠正和预防措施	jiu zheng he yu fang cuo shi	0
 纠正孩子	jiu zheng hai zi	0
 纠正工作	jiu zheng gong zuo	0
-纠正方法	jiu zheng fang fa	0
+纠正方法	jiu zheng fang fa	64
 纠正漏捕	jiu zheng lou bu	0
 纠正胎位	jiu zheng tai wei	0
 纠正违法	jiu zheng wei fa	0
@@ -267001,7 +267001,7 @@ sort: by_weight
 线上客户	xian shang ke hu	0
 线上就业	xian shang jiu ye	0
 线上展映	xian shang zhan ying	0
-线上展示	xian shang zhan shi	0
+线上展示	xian shang zhan shi	15
 线上工作	xian shang gong zuo	0
 线上工具	xian shang gong ju	0
 线上市场	xian shang shi chang	0
@@ -267067,7 +267067,7 @@ sort: by_weight
 线上艺术	xian shang yi shu	0
 线上英语	xian shang ying yu	0
 线上英雄	xian shang ying xiong	0
-线上营销	xian shang ying xiao	0
+线上营销	xian shang ying xiao	53
 线上营销服务	xian shang ying xiao fu wu	0
 线上观展	xian shang guan zhan	0
 线上视频	xian shang shi pin	0
@@ -267495,14 +267495,14 @@ sort: by_weight
 组织决策	zu zhi jue ce	0
 组织准备	zu zhi zhun bei	0
 组织分	zu zhi fen	0
-组织分配	zu zhi fen pei	0
+组织分配	zu zhi fen pei	8
 组织创业	zu zhi chuang ye	0
 组织创作	zu zhi chuang zuo	0
 组织创新	zu zhi chuang xin	0
 组织利益	zu zhi li yi	0
 组织到	zu zhi dao	0
 组织到位	zu zhi dao wei	0
-组织制定	zu zhi zhi ding	0
+组织制定	zu zhi zhi ding	8
 组织力	zu zhi li	0
 组织功能	zu zhi gong neng	0
 组织务工	zu zhi wu gong	0
@@ -268208,7 +268208,7 @@ sort: by_weight
 经典文学	jing dian wen xue	0
 经典文章	jing dian wen zhang	0
 经典斗牛	jing dian dou niu	0
-经典方	jing dian fang	0
+经典方	jing dian fang	4
 经典方法	jing dian fang fa	0
 经典旅游	jing dian lv you	0
 经典旋律	jing dian xuan lv	0
@@ -268283,7 +268283,7 @@ sort: by_weight
 经典英雄	jing dian ying xiong	0
 经典菜	jing dian cai	0
 经典表情	jing dian biao qing	0
-经典装	jing dian zhuang	0
+经典装	jing dian zhuang	2
 经典装饰	jing dian zhuang shi	0
 经典视频	jing dian shi pin	0
 经典言情小说	jing dian yan qing xiao shuo	0
@@ -270198,7 +270198,7 @@ sort: by_weight
 统计排名	tong ji pai ming	0
 统计改革	tong ji gai ge	0
 统计数量	tong ji shu liang	0
-统计整理	tong ji zheng li	0
+统计整理	tong ji zheng li	14
 统计方式	tong ji fang shi	0
 统计时	tong ji shi	0
 统计时间	tong ji shi jian	0
@@ -270461,7 +270461,7 @@ sort: by_weight
 继续添加	ji xu tian jia	0
 继续游戏	ji xu you xi	0
 继续演绎	ji xu yan yi	0
-继续炒	ji xu chao	0
+继续炒	ji xu chao	24
 继续烤	ji xu kao	0
 继续煮	ji xu zhu	0
 继续燃烧	ji xu ran shao	0
@@ -270514,7 +270514,7 @@ sort: by_weight
 继续读书	ji xu du shu	0
 继续读研	ji xu du yan	0
 继续购买	ji xu gou mai	0
-继续购物	ji xu gou wu	0
+继续购物	ji xu gou wu	3
 继续走在前列	ji xu zou zai qian lie	0
 继续走路	ji xu zou lu	0
 继续跑	ji xu pao	0
@@ -271283,7 +271283,7 @@ sort: by_weight
 综艺大集合	zong yi da ji he	0
 综艺女王	zong yi nv wang	0
 综艺小王子	zong yi xiao wang zi	0
-综艺效果	zong yi xiao guo	0
+综艺效果	zong yi xiao guo	36
 综艺新时代	zong yi xin shi dai	0
 综艺玩很大	zong yi wan hen da	0
 综艺细胞	zong yi xi bao	0
@@ -272047,7 +272047,7 @@ sort: by_weight
 网上审批	wang shang shen pi	0
 网上审查	wang shang shen cha	0
 网上客户	wang shang ke hu	0
-网上客服	wang shang ke fu	0
+网上客服	wang shang ke fu	5
 网上就业	wang shang jiu ye	0
 网上展示	wang shang zhan shi	0
 网上展览	wang shang zhan lan	0
@@ -273086,7 +273086,7 @@ sort: by_weight
 网络完全	wang luo wan quan	0
 网络官网	wang luo guan wang	0
 网络客户	wang luo ke hu	0
-网络客服	wang luo ke fu	0
+网络客服	wang luo ke fu	11
 网络家园	wang luo jia yuan	0
 网络对接	wang luo dui jie	0
 网络小说中	wang luo xiao shuo zhong	0
@@ -273240,7 +273240,7 @@ sort: by_weight
 网络知识竞赛	wang luo zhi shi jing sai	0
 网络研究	wang luo yan jiu	0
 网络硬盘录像机	wang luo ying pan lu xiang ji	0
-网络社交	wang luo she jiao	0
+网络社交	wang luo she jiao	55
 网络社会	wang luo she hui	0
 网络社会组织	wang luo she hui zu zhi	0
 网络祭扫	wang luo ji sao	0
@@ -273270,7 +273270,7 @@ sort: by_weight
 网络老虎机	wang luo lao hu ji	0
 网络考试	wang luo kao shi	0
 网络职业	wang luo zhi ye	0
-网络联盟	wang luo lian meng	0
+网络联盟	wang luo lian meng	14
 网络自动化	wang luo zi dong hua	0
 网络自由	wang luo zi you	0
 网络舆情监控	wang luo yu qing jian kong	0
@@ -274476,7 +274476,7 @@ sort: by_weight
 美国电影网	mei guo dian ying wang	0
 美国电视	mei guo dian shi	0
 美国电视剧	mei guo dian shi ju	0
-美国电视台	mei guo dian shi tai	0
+美国电视台	mei guo dian shi tai	10
 美国男	mei guo nan	0
 美国男人	mei guo nan ren	0
 美国男友	mei guo nan you	0
@@ -274996,7 +274996,7 @@ sort: by_weight
 美媒爆	mei mei bao	0
 美媛馆	mei yuan guan	0
 美孚齿轮油	mei fu chi lun you	0
-美学研究	mei xue yan jiu	0
+美学研究	mei xue yan jiu	20
 美宝宝	mei bao bao	0
 美家园	mei jia yuan	0
 美家庭	mei jia ting	0
@@ -275078,7 +275078,7 @@ sort: by_weight
 美式轮盘	mei shi lun pan	0
 美式风格装修	mei shi feng ge zhuang xiu	0
 美式风格装修案例	mei shi feng ge zhuang xiu an li	0
-美心善	mei xin shan	0
+美心善	mei xin shan	1
 美心蛋糕	mei xin dan gao	0
 美思德	mei si de	0
 美性中文	mei xing zhong wen	0
@@ -276274,7 +276274,7 @@ sort: by_weight
 老师点评	lao shi dian ping	0
 老师生气	lao shi sheng qi	0
 老师电话	lao shi dian hua	0
-老师的做法	lao shi de zuo fa	0
+老师的做法	lao shi de zuo fa	25
 老师的关注	lao shi de guan zhu	0
 老师的分析	lao shi de fen xi	0
 老师的回答	lao shi de hui da	0
@@ -276497,7 +276497,7 @@ sort: by_weight
 老是被	lao shi bei	0
 老有所医	lao you suo yi	0
 老有颐养	lao you yi yang	0
-老朋友们	lao peng you men	0
+老朋友们	lao peng you men	50
 老机器	lao ji qi	0
 老杜漫画	lao du man hua	0
 老板不喜欢	lao ban bu xi huan	0
@@ -276810,7 +276810,7 @@ sort: by_weight
 考核要求	kao he yao qiu	0
 考核评价结果	kao he ping jia jie guo	0
 考核责任	kao he ze ren	0
-考核过程中	kao he guo cheng zhong	0
+考核过程中	kao he guo cheng zhong	3
 考核通报	kao he tong bao	0
 考核问责	kao he wen ze	0
 考核项目	kao he xiang mu	0
@@ -276997,7 +276997,7 @@ sort: by_weight
 考试报	kao shi bao	0
 考试报名通知	kao shi bao ming tong zhi	0
 考试报考	kao shi bao kao	0
-考试招生	kao shi zhao sheng	0
+考试招生	kao shi zhao sheng	12
 考试招生办法	kao shi zhao sheng ban fa	0
 考试招聘	kao shi zhao pin	0
 考试排名	kao shi pai ming	0
@@ -277063,7 +277063,7 @@ sort: by_weight
 考试组织实施	kao shi zu zhi shi shi	0
 考试经验	kao shi jing yan	0
 考试结束	kao shi jie shu	0
-考试结束后	kao shi jie shu hou	0
+考试结束后	kao shi jie shu hou	122
 考试综合	kao shi zong he	0
 考试网站	kao shi wang zhan	0
 考试考	kao shi kao	0
@@ -277753,7 +277753,7 @@ sort: by_weight
 职业课程	zhi ye ke cheng	0
 职业资历证书	zhi ye zi li zheng shu	0
 职业路	zhi ye lu	0
-职业路径	zhi ye lu jing	0
+职业路径	zhi ye lu jing	165
 职业身份	zhi ye shen fen	0
 职业辅助	zhi ye fu zhu	0
 职业运动	zhi ye yun dong	0
@@ -277762,7 +277762,7 @@ sort: by_weight
 职业道路	zhi ye dao lu	0
 职业鉴定	zhi ye jian ding	0
 职业问题	zhi ye wen ti	0
-职业队伍	zhi ye dui wu	0
+职业队伍	zhi ye dui wu	34
 职业限制	zhi ye xian zhi	0
 职业需求	zhi ye xu qiu	0
 职业需要	zhi ye xu yao	0
@@ -278098,7 +278098,7 @@ sort: by_weight
 联合空中战略巡航	lian he kong zhong zhan lve xun hang	0
 联合站	lian he zhan	0
 联合竞买	lian he jing mai	0
-联合管理	lian he guan li	0
+联合管理	lian he guan li	7
 联合线	lian he xian	0
 联合网络	lian he wang luo	0
 联合考试	lian he kao shi	0
@@ -278106,7 +278106,7 @@ sort: by_weight
 联合自治区	lian he zi zhi qu	0
 联合街道	lian he jie dao	0
 联合表彰	lian he biao zhang	0
-联合计划	lian he ji hua	0
+联合计划	lian he ji hua	2
 联合认定	lian he ren ding	0
 联合训练	lian he xun lian	0
 联合设计	lian he she ji	0
@@ -278196,7 +278196,7 @@ sort: by_weight
 联盟平台	lian meng ping tai	0
 联盟广告	lian meng guang gao	0
 联盟建立	lian meng jian li	0
-联盟排名	lian meng pai ming	0
+联盟排名	lian meng pai ming	13
 联盟旨在	lian meng zhi zai	0
 联盟服务	lian meng fu wu	0
 联盟未来	lian meng wei lai	0
@@ -278211,7 +278211,7 @@ sort: by_weight
 联盟管理	lian meng guan li	0
 联盟组织	lian meng zu zhi	0
 联盟网站	lian meng wang zhan	0
-联盟网络	lian meng wang luo	0
+联盟网络	lian meng wang luo	1
 联盟街道	lian meng jie dao	0
 联盟规则	lian meng gui ze	0
 联盟里面	lian meng li mian	0
@@ -280227,7 +280227,7 @@ sort: by_weight
 能力考试	neng li kao shi	0
 能力者	neng li zhe	0
 能力范围内	neng li fan wei nei	0
-能力薄弱	neng li bo ruo	0
+能力薄弱	neng li bo ruo	19
 能力表现	neng li biao xian	0
 能力要求	neng li yao qiu	0
 能力认证	neng li ren zheng	0
@@ -280843,7 +280843,7 @@ sort: by_weight
 能源创新	neng yuan chuang xin	0
 能源化工产业	neng yuan hua gong chan ye	0
 能源区块链	neng yuan qu kuai lian	0
-能源发展	neng yuan fa zhan	0
+能源发展	neng yuan fa zhan	3
 能源大数据中心	neng yuan da shu ju zhong xin	0
 能源工作	neng yuan gong zuo	0
 能源投资集团	neng yuan tou zi ji tuan	0
@@ -281343,7 +281343,7 @@ sort: by_weight
 脱离器	tuo li qi	0
 脱离工作	tuo li gong zuo	0
 脱离手机	tuo li shou ji	0
-脱离控制	tuo li kong zhi	0
+脱离控制	tuo li kong zhi	36
 脱离时	tuo li shi	0
 脱离时代	tuo li shi dai	0
 脱离父母	tuo li fu mu	0
@@ -281815,7 +281815,7 @@ sort: by_weight
 自主核心	zi zhu he xin	0
 自主游戏	zi zhu you xi	0
 自主研发和创新	zi zhu yan fa he chuang xin	0
-自主研究	zi zhu yan jiu	0
+自主研究	zi zhu yan jiu	23
 自主能力	zi zhu neng li	0
 自主脱贫	zi zhu tuo pin	0
 自主设计	zi zhu she ji	0
@@ -281939,7 +281939,7 @@ sort: by_weight
 自动化机床	zi dong hua ji chuang	0
 自动化机械设备	zi dong hua ji xie she bei	0
 自动化检测设备	zi dong hua jian ce she bei	0
-自动化水平	zi dong hua shui ping	0
+自动化水平	zi dong hua shui ping	23
 自动化流水线设备	zi dong hua liu shui xian she bei	0
 自动化焊接设备	zi dong hua han jie she bei	0
 自动化生产流水线	zi dong hua sheng chan liu shui xian	0
@@ -282111,7 +282111,7 @@ sort: by_weight
 自动英文	zi dong ying wen	0
 自动荣耀型	zi dong rong yao xing	0
 自动荣耀版	zi dong rong yao ban	0
-自动获取	zi dong huo qu	0
+自动获取	zi dong huo qu	60
 自动螺丝机	zi dong luo si ji	0
 自动补充	zi dong bu chong	0
 自动补光	zi dong bu guang	0
@@ -282125,7 +282125,7 @@ sort: by_weight
 自动计量	zi dong ji liang	0
 自动设备	zi dong she bei	0
 自动设定	zi dong she ding	0
-自动设置	zi dong she zhi	0
+自动设置	zi dong she zhi	42
 自动设计	zi dong she ji	0
 自动评价	zi dong ping jia	0
 自动评论	zi dong ping lun	0
@@ -282578,7 +282578,7 @@ sort: by_weight
 自我排查	zi wo pai cha	0
 自我探索	zi wo tan suo	0
 自我提升	zi wo ti sheng	0
-自我提醒	zi wo ti xing	0
+自我提醒	zi wo ti xing	9
 自我提高的能力	zi wo ti gao de neng li	0
 自我改变	zi wo gai bian	0
 自我攻击	zi wo gong ji	0
@@ -282595,7 +282595,7 @@ sort: by_weight
 自我疗法	zi wo liao fa	0
 自我目标	zi wo mu biao	0
 自我矛盾	zi wo mao dun	0
-自我确认	zi wo que ren	0
+自我确认	zi wo que ren	23
 自我积累	zi wo ji lei	0
 自我空间	zi wo kong jian	0
 自我突破	zi wo tu po	0
@@ -282852,7 +282852,7 @@ sort: by_weight
 自然养护	zi ran yang hu	0
 自然减少	zi ran jian shao	0
 自然出现	zi ran chu xian	0
-自然分解	zi ran fen jie	0
+自然分解	zi ran fen jie	8
 自然创造	zi ran chuang zao	0
 自然到	zi ran dao	0
 自然力量	zi ran li liang	0
@@ -283119,7 +283119,7 @@ sort: by_weight
 自由创业	zi you chuang ye	0
 自由创作	zi you chuang zuo	0
 自由创造	zi you chuang zao	0
-自由匹配	zi you pi pei	0
+自由匹配	zi you pi pei	3
 自由发布	zi you fa bu	0
 自由变化	zi you bian hua	0
 自由可投	zi you ke tou	0
@@ -283160,8 +283160,8 @@ sort: by_weight
 自由独立	zi you du li	0
 自由生活	zi you sheng huo	0
 自由的人	zi you de ren	0
-自由的发展	zi you de fa zhan	0
-自由的国家	zi you de guo jia	0
+自由的发展	zi you de fa zhan	8
+自由的国家	zi you de guo jia	15
 自由的小说阅读网	zi you de xiao shuo yue du wang	0
 自由的时间	zi you de shi jian	0
 自由的游戏	zi you de you xi	0
@@ -283177,7 +283177,7 @@ sort: by_weight
 自由结合	zi you jie he	0
 自由编辑	zi you bian ji	0
 自由者	zi you zhe	0
-自由联盟	zi you lian meng	0
+自由联盟	zi you lian meng	5
 自由舞	zi you wu	0
 自由艺术	zi you yi shu	0
 自由表达	zi you biao da	0
@@ -284327,7 +284327,7 @@ sort: by_weight
 艺术内容	yi shu nei rong	0
 艺术写真	yi shu xie zhen	0
 艺术分	yi shu fen	0
-艺术创新	yi shu chuang xin	0
+艺术创新	yi shu chuang xin	17
 艺术创造	yi shu chuang zao	0
 艺术北京	yi shu bei jing	0
 艺术历史	yi shu li shi	0
@@ -284343,7 +284343,7 @@ sort: by_weight
 艺术图	yi shu tu	0
 艺术图片	yi shu tu pian	0
 艺术培养	yi shu pei yang	0
-艺术培训	yi shu pei xun	0
+艺术培训	yi shu pei xun	17
 艺术基础	yi shu ji chu	0
 艺术基金	yi shu ji jin	0
 艺术墙	yi shu qiang	0
@@ -284748,7 +284748,7 @@ sort: by_weight
 节目要求	jie mu yao qiu	0
 节目规则	jie mu gui ze	0
 节目视频	jie mu shi pin	0
-节目设置	jie mu she zhi	0
+节目设置	jie mu she zhi	7
 节目设计	jie mu she ji	0
 节目质量	jie mu zhi liang	0
 节目资源	jie mu zi yuan	0
@@ -286440,7 +286440,7 @@ sort: by_weight
 苹果中	ping guo zhong	0
 苹果中国	ping guo zhong guo	0
 苹果之前	ping guo zhi qian	0
-苹果产业	ping guo chan ye	0
+苹果产业	ping guo chan ye	2
 苹果产业发展	ping guo chan ye fa zhan	0
 苹果产业后整理	ping guo chan ye hou zheng li	0
 苹果产品	ping guo chan pin	0
@@ -287450,7 +287450,7 @@ sort: by_weight
 获奖个人	huo jiang ge ren	0
 获奖之后	huo jiang zhi hou	0
 获奖产品	huo jiang chan pin	0
-获奖企业	huo jiang qi ye	0
+获奖企业	huo jiang qi ye	2
 获奖作品公示	huo jiang zuo pin gong shi	0
 获奖作品展示	huo jiang zuo pin zhan shi	0
 获奖公告	huo jiang gong gao	0
@@ -287746,7 +287746,7 @@ sort: by_weight
 营养专业	ying yang zhuan ye	0
 营养丰富的食材	ying yang feng fu de shi cai	0
 营养产品	ying yang chan pin	0
-营养优势	ying yang you shi	0
+营养优势	ying yang you shi	7
 营养佳品	ying yang jia pin	0
 营养信息	ying yang xin xi	0
 营养健康又美味	ying yang jian kang you mei wei	0
@@ -290536,7 +290536,7 @@ sort: by_weight
 补充力量	bu chong li liang	0
 补充包	bu chong bao	0
 补充协议书	bu chong xie yi shu	0
-补充发言	bu chong fa yan	0
+补充发言	bu chong fa yan	8
 补充句子	bu chong ju zi	0
 补充回答	bu chong hui da	0
 补充团	bu chong tuan	0
@@ -290653,7 +290653,7 @@ sort: by_weight
 补贴支持	bu tie zhi chi	0
 补贴新政	bu tie xin zheng	0
 补贴方式	bu tie fang shi	0
-补贴时代	bu tie shi dai	0
+补贴时代	bu tie shi dai	2
 补贴时间	bu tie shi jian	0
 补贴机具	bu tie ji ju	0
 补贴标准	bu tie biao zhun	0
@@ -292645,7 +292645,7 @@ sort: by_weight
 装备情况	zhuang bei qing kuang	0
 装备技术	zhuang bei ji shu	0
 装备技能	zhuang bei ji neng	0
-装备投入	zhuang bei tou ru	0
+装备投入	zhuang bei tou ru	2
 装备推荐	zhuang bei tui jian	0
 装备提供	zhuang bei ti gong	0
 装备提升	zhuang bei ti sheng	0
@@ -293112,7 +293112,7 @@ sort: by_weight
 西安区域	xi an qu yu	0
 西安医院	xi an yi yuan	0
 西安南	xi an nan	0
-西安历史	xi an li shi	0
+西安历史	xi an li shi	2
 西安发展	xi an fa zhan	0
 西安吧	xi an ba	0
 西安商业	xi an shang ye	0
@@ -293968,7 +293968,7 @@ sort: by_weight
 观察人员	guan cha ren yuan	0
 观察人类	guan cha ren lei	0
 观察他	guan cha ta	0
-观察他人	guan cha ta ren	0
+观察他人	guan cha ta ren	21
 观察体验	guan cha ti yan	0
 观察值	guan cha zhi	0
 观察分析	guan cha fen xi	0
@@ -294652,7 +294652,7 @@ sort: by_weight
 视频对讲机	shi pin dui jiang ji	0
 视频对话	shi pin dui hua	0
 视频导入	shi pin dao ru	0
-视频导出	shi pin dao chu	0
+视频导出	shi pin dao chu	17
 视频导航	shi pin dao hang	0
 视频封面	shi pin feng mian	0
 视频屏幕	shi pin ping mu	0
@@ -294695,7 +294695,7 @@ sort: by_weight
 视频拍照	shi pin pai zhao	0
 视频招聘	shi pin zhao pin	0
 视频指导	shi pin zhi dao	0
-视频授课	shi pin shou ke	0
+视频授课	shi pin shou ke	24
 视频推广	shi pin tui guang	0
 视频推荐	shi pin tui jian	0
 视频描述	shi pin miao shu	0
@@ -295915,7 +295915,7 @@ sort: by_weight
 认真拍摄	ren zhen pai she	0
 认真摸排	ren zhen mo pai	0
 认真操作	ren zhen cao zuo	0
-认真整理	ren zhen zheng li	0
+认真整理	ren zhen zheng li	29
 认真服务	ren zhen fu wu	0
 认真查找问题	ren zhen cha zhao wen ti	0
 认真查摆	ren zhen cha bai	0
@@ -296057,7 +296057,7 @@ sort: by_weight
 认识中	ren shi zhong	0
 认识中国	ren shi zhong guo	0
 认识人	ren shi ren	0
-认识人民币	ren shi ren min bi	0
+认识人民币	ren shi ren min bi	1
 认识人生	ren shi ren sheng	0
 认识人类	ren shi ren lei	0
 认识他人	ren shi ta ren	0
@@ -296124,7 +296124,7 @@ sort: by_weight
 认购金	ren gou jin	0
 讨伐陈炯明	tao fa chen jiong ming	0
 讨你开心	tao ni kai xin	0
-讨厌一个人	tao yan yi ge ren	0
+讨厌一个人	tao yan yi ge ren	46
 讨厌中国	tao yan zhong guo	0
 讨厌人	tao yan ren	0
 讨厌人类	tao yan ren lei	0
@@ -298071,7 +298071,7 @@ sort: by_weight
 证券配资开户	zheng quan pei zi kai hu	0
 证券配资炒股	zheng quan pei zi chao gu	0
 证券鑫东财配资	zheng quan xin dong cai pei zi	0
-证券领域	zheng quan ling yu	0
+证券领域	zheng quan ling yu	8
 证大公司	zheng da gong si	0
 证大财富	zheng da cai fu	0
 证悟空性	zheng wu kong xing	0
@@ -298237,7 +298237,7 @@ sort: by_weight
 评估服务	ping gu fu wu	0
 评估材料	ping gu cai liao	0
 评估活动	ping gu huo dong	0
-评估流程	ping gu liu cheng	0
+评估流程	ping gu liu cheng	8
 评估测试	ping gu ce shi	0
 评估申请	ping gu shen qing	0
 评估研究	ping gu yan jiu	0
@@ -298301,7 +298301,7 @@ sort: by_weight
 评测平台	ping ce ping tai	0
 评测教程	ping ce jiao cheng	0
 评测文章	ping ce wen zhang	0
-评测方法	ping ce fang fa	0
+评测方法	ping ce fang fa	17
 评测结果	ping ce jie guo	0
 评测视频	ping ce shi pin	0
 评理说事点	ping li shuo shi dian	0
@@ -298893,7 +298893,7 @@ sort: by_weight
 该如何办呢	gai ru he ban ne	0
 该如何回答	gai ru he hui da	0
 该如何理解	gai ru he li jie	0
-该如何生活	gai ru he sheng huo	0
+该如何生活	gai ru he sheng huo	13
 该如何过	gai ru he guo	0
 该学些	gai xue xie	0
 该学生	gai xue sheng	0
@@ -299719,7 +299719,7 @@ sort: by_weight
 读书时间	du shu shi jian	0
 读书月	du shu yue	0
 读书期间	du shu qi jian	0
-读书氛围	du shu fen wei	0
+读书氛围	du shu fen wei	21
 读书汇	du shu hui	0
 读书法	du shu fa	0
 读书牛	du shu niu	0
@@ -300020,7 +300020,7 @@ sort: by_weight
 谁上班	shui shang ban	0
 谁不会	shui bu hui	0
 谁不信呢	shui bu xin ne	0
-谁不去	shui bu qu	0
+谁不去	shui bu qu	12
 谁不喜欢	shui bu xi huan	0
 谁不在	shui bu zai	0
 谁不好	shui bu hao	0
@@ -300215,7 +300215,7 @@ sort: by_weight
 谁的青春不热血	shei de qing chun bu re xue	0
 谁相信	shui xiang xin	0
 谁看了	shui kan le	0
-谁看你	shui kan ni	0
+谁看你	shui kan ni	19
 谁看到	shui kan dao	0
 谁看的	shui kan de	0
 谁看谁傻逼啦	shui kan shui sha bi la	0
@@ -300262,7 +300262,7 @@ sort: by_weight
 谁认识	shui ren shi	0
 谁让他	shui rang ta	0
 谁让你	shui rang ni	0
-谁让她	shui rang ta	0
+谁让她	shui rang ta	32
 谁让我	shui rang wo	0
 谁说一下	shui shuo yi xia	0
 谁说不是	shui shuo bu shi	0
@@ -301136,7 +301136,7 @@ sort: by_weight
 负载能力强	fu zai neng li qiang	0
 负载试验	fu zai shi yan	0
 负面内容	fu mian nei rong	0
-负面效果	fu mian xiao guo	0
+负面效果	fu mian xiao guo	254
 负面结果	fu mian jie guo	0
 负面表格	fu mian biao ge	0
 负面问题	fu mian wen ti	0
@@ -302211,12 +302211,12 @@ sort: by_weight
 购物热潮	gou wu re chao	0
 购物狂潮	gou wu kuang chao	0
 购物王路易	gou wu wang lu yi	0
-购物生活	gou wu sheng huo	0
+购物生活	gou wu sheng huo	3
 购物用户	gou wu yong hu	0
 购物网站大全	gou wu wang zhan da quan	0
 购物选择	gou wu xuan ze	0
 购物问题	gou wu wen ti	0
-购物需求	gou wu xu qiu	0
+购物需求	gou wu xu qiu	93
 购票信息单	gou piao xin xi dan	0
 购票金额	gou piao jin e	0
 购置新房	gou zhi xin fang	0
@@ -302389,7 +302389,7 @@ sort: by_weight
 贵州兵	gui zhou bing	0
 贵州农业	gui zhou nong ye	0
 贵州刺梨	gui zhou ci li	0
-贵州剑河	gui zhou jian he	0
+贵州剑河	gui zhou jian he	1
 贵州医疗队	gui zhou yi liao dui	0
 贵州十一选五	gui zhou shi yi xuan wu	0
 贵州历史	gui zhou li shi	0
@@ -302432,7 +302432,7 @@ sort: by_weight
 贵州沿河	gui zhou yan he	0
 贵州消防	gui zhou xiao fang	0
 贵州理工学院	gui zhou li gong xue yuan	0
-贵州瓮安	gui zhou weng an	0
+贵州瓮安	gui zhou weng an	1
 贵州电信	gui zhou dian xin	0
 贵州电网公司	gui zhou dian wang gong si	0
 贵州电视台	gui zhou dian shi tai	0
@@ -304899,7 +304899,7 @@ sort: by_weight
 超专业	chao zhuan ye	0
 超个性	chao ge xing	0
 超中国	chao zhong guo	0
-超丰富	chao feng fu	0
+超丰富	chao feng fu	48
 超亲密	chao qin mi	0
 超人一样	chao ren yi yang	0
 超人一般	chao ren yi ban	0
@@ -305237,7 +305237,7 @@ sort: by_weight
 超级巨乳	chao ji ju ru	0
 超级巨星柳白	chao ji ju xing liu bai	0
 超级差	chao ji cha	0
-超级干	chao ji gan	0
+超级干	chao ji gan	5
 超级干货	chao ji gan huo	0
 超级平台	chao ji ping tai	0
 超级年轻	chao ji nian qing	0
@@ -305277,7 +305277,7 @@ sort: by_weight
 超级材料	chao ji cai liao	0
 超级枢纽	chao ji shu niu	0
 超级核心	chao ji he xin	0
-超级武器	chao ji wu qi	0
+超级武器	chao ji wu qi	95
 超级水	chao ji shui	0
 超级水果机	chao ji shui guo ji	0
 超级污	chao ji wu	0
@@ -305471,7 +305471,7 @@ sort: by_weight
 超越经典	chao yue jing dian	0
 超越美国	chao yue mei guo	0
 超越自然	chao yue zi ran	0
-超越自身	chao yue zi shen	0
+超越自身	chao yue zi shen	32
 超越苹果	chao yue ping guo	0
 超越许可	chao yue xu ke	0
 超越语言	chao yue yu yan	0
@@ -306133,7 +306133,7 @@ sort: by_weight
 跟他学习	gen ta xue xi	0
 跟他打	gen ta da	0
 跟他比	gen ta bi	0
-跟他讲	gen ta jiang	0
+跟他讲	gen ta jiang	103
 跟他说你	gen ta shuo ni	0
 跟他过	gen ta guo	0
 跟你不一样	gen ni bu yi yang	0
@@ -306742,7 +306742,7 @@ sort: by_weight
 身份查验	shen fen cha yan	0
 身份正	shen fen zheng	0
 身份注册	shen fen zhu ce	0
-身份焦虑	shen fen jiao lv	0
+身份焦虑	shen fen jiao lv	13
 身份特征	shen fen te zheng	0
 身份特殊	shen fen te shu	0
 身份申请	shen fen shen qing	0
@@ -308076,19 +308076,19 @@ sort: by_weight
 软件机器人	ruan jian ji qi ren	0
 软件条件	ruan jian tiao jian	0
 软件来源	ruan jian lai yuan	0
-软件板块	ruan jian ban kuai	0
+软件板块	ruan jian ban kuai	4
 软件标签	ruan jian biao qian	0
 软件格式	ruan jian ge shi	0
 软件检查	ruan jian jian cha	0
 软件比较	ruan jian bi jiao	0
 软件水平	ruan jian shui ping	0
 软件注册	ruan jian zhu ce	0
-软件测评	ruan jian ce ping	0
+软件测评	ruan jian ce ping	12
 软件测试技术	ruan jian ce shi ji shu	0
 软件游戏	ruan jian you xi	0
 软件特点	ruan jian te dian	0
 软件特色	ruan jian te se	0
-软件生态	ruan jian sheng tai	0
+软件生态	ruan jian sheng tai	163
 软件用户	ruan jian yong hu	0
 软件盘	ruan jian pan	0
 软件相关	ruan jian xiang guan	0
@@ -308502,7 +308502,7 @@ sort: by_weight
 较为适合	jiao wei shi he	0
 较优秀	jiao you xiu	0
 较低价格	jiao di jia ge	0
-较低水平	jiao di shui ping	0
+较低水平	jiao di shui ping	61
 较去年同期相比	jiao qu nian tong qi xiang bi	0
 较喜欢	jiao xi huan	0
 较大婴儿	jiao da ying er	0
@@ -309445,7 +309445,7 @@ sort: by_weight
 过去历史	guo qu li shi	0
 过去吃	guo qu chi	0
 过去后	guo qu hou	0
-过去四年	guo qu si nian	0
+过去四年	guo qu si nian	42
 过去多年	guo qu duo nian	0
 过去好	guo qu hao	0
 过去如何	guo qu ru he	0
@@ -309841,7 +309841,7 @@ sort: by_weight
 迎高峰	ying gao feng	0
 迎高考	ying gao kao	0
 运九套	yun jiu tao	0
-运作团队	yun zuo tuan dui	0
+运作团队	yun zuo tuan dui	19
 运作好	yun zuo hao	0
 运作平台	yun zuo ping tai	0
 运作方法	yun zuo fang fa	0
@@ -310243,7 +310243,7 @@ sort: by_weight
 运用规则	yun yong gui ze	0
 运用视频	yun yong shi pin	0
 运用设备	yun yong she bei	0
-运用证据	yun yong zheng ju	0
+运用证据	yun yong zheng ju	4
 运用语言	yun yong yu yan	0
 运用起来	yun yong qi lai	0
 运用软件	yun yong ruan jian	0
@@ -314156,7 +314156,7 @@ sort: by_weight
 逐渐变化	zhu jian bian hua	0
 逐渐呈现	zhu jian cheng xian	0
 逐渐好	zhu jian hao	0
-逐渐完善	zhu jian wan shan	0
+逐渐完善	zhu jian wan shan	163
 逐渐完成	zhu jian wan cheng	0
 逐渐实现	zhu jian shi xian	0
 逐渐展开	zhu jian zhan kai	0
@@ -314174,7 +314174,7 @@ sort: by_weight
 逐渐改善	zhu jian gai shan	0
 逐渐放量	zhu jian fang liang	0
 逐渐明白	zhu jian ming bai	0
-逐渐深入	zhu jian shen ru	0
+逐渐深入	zhu jian shen ru	87
 逐渐熟悉	zhu jian shu xi	0
 逐渐理解	zhu jian li jie	0
 逐渐积累	zhu jian ji lei	0
@@ -314706,7 +314706,7 @@ sort: by_weight
 造成国有资产损失	zao cheng guo you zi chan sun shi	0
 造成威胁	zao cheng wei xie	0
 造成影响	zao cheng ying xiang	0
-造成意外	zao cheng yi wai	0
+造成意外	zao cheng yi wai	8
 造成感染	zao cheng gan ran	0
 造成死亡	zao cheng si wang	0
 造成混乱	zao cheng hun luan	0
@@ -316968,7 +316968,7 @@ sort: by_weight
 郑州西京	zheng zhou xi jing	0
 郑州西区	zheng zhou xi qu	0
 郑州西站	zheng zhou xi zhan	0
-郑州设计	zheng zhou she ji	0
+郑州设计	zheng zhou she ji	1
 郑州轨道交通	zheng zhou gui dao jiao tong	0
 郑州酒店	zheng zhou jiu dian	0
 郑州钢板	zheng zhou gang ban	0
@@ -317892,7 +317892,7 @@ sort: by_weight
 配合点	pei he dian	0
 配合物业	pei he wu ye	0
 配合社	pei he she	0
-配合社区	pei he she qu	0
+配合社区	pei he she qu	5
 配合管理	pei he guan li	0
 配合美国	pei he mei guo	0
 配合老师	pei he lao shi	0
@@ -319035,7 +319035,7 @@ sort: by_weight
 量子技术	liang zi ji shu	0
 量子点	liang zi dian	0
 量子特攻	liang zi te gong	0
-量子研究	liang zi yan jiu	0
+量子研究	liang zi yan jiu	4
 量子能	liang zi neng	0
 量子通信产业	liang zi tong xin chan ye	0
 量小非	liang xiao fei	0
@@ -319850,7 +319850,7 @@ sort: by_weight
 金融中	jin rong zhong	0
 金融事件	jin rong shi jian	0
 金融互联网	jin rong hu lian wang	0
-金融产业	jin rong chan ye	0
+金融产业	jin rong chan ye	52
 金融人	jin rong ren	0
 金融价值	jin rong jia zhi	0
 金融优势	jin rong you shi	0
@@ -325447,7 +325447,7 @@ sort: by_weight
 阿里员工	a li yuan gong	0
 阿里和卓	a li he zhuo	0
 阿里妈妈	a li ma ma	0
-阿里安全	a li an quan	0
+阿里安全	a li an quan	2
 阿里巴巴中国	a li ba ba zhong guo	0
 阿里巴巴农村淘宝	a li ba ba nong cun tao bao	0
 阿里巴巴平台	a li ba ba ping tai	0
@@ -327918,7 +327918,7 @@ sort: by_weight
 集团创新	ji tuan chuang xin	0
 集团办公	ji tuan ban gong	0
 集团发展	ji tuan fa zhan	0
-集团员工	ji tuan yuan gong	0
+集团员工	ji tuan yuan gong	6
 集团品牌	ji tuan pin pai	0
 集团团委	ji tuan tuan wei	0
 集团工程	ji tuan gong cheng	0
@@ -330439,7 +330439,7 @@ sort: by_weight
 非常准确	fei chang zhun que	0
 非常出名	fei chang chu ming	0
 非常分散	fei chang fen san	0
-非常划算	fei chang hua suan	0
+非常划算	fei chang hua suan	261
 非常刚	fei chang gang	0
 非常初级	fei chang chu ji	0
 非常到位	fei chang dao wei	0
@@ -330503,7 +330503,7 @@ sort: by_weight
 非常大的问题	fei chang da de wen ti	0
 非常大量	fei chang da liang	0
 非常天然	fei chang tian ran	0
-非常天真	fei chang tian zhen	0
+非常天真	fei chang tian zhen	10
 非常头疼	fei chang tou teng	0
 非常夸张	fei chang kua zhang	0
 非常奇葩	fei chang qi pa	0
@@ -330526,7 +330526,7 @@ sort: by_weight
 非常好看	fei chang hao kan	0
 非常姊妹	fei chang zi mei	0
 非常委屈	fei chang wei qu	0
-非常嫉妒	fei chang ji du	0
+非常嫉妒	fei chang ji du	23
 非常嫌弃	fei chang xian qi	0
 非常孤独	fei chang gu du	0
 非常安全	fei chang an quan	0
@@ -330539,7 +330539,7 @@ sort: by_weight
 非常宝贵	fei chang bao gui	0
 非常实用呢	fei chang shi yong ne	0
 非常客观	fei chang ke guan	0
-非常密集	fei chang mi ji	0
+非常密集	fei chang mi ji	60
 非常富贵	fei chang fu gui	0
 非常对	fei chang dui	0
 非常对不起	fei chang dui bu qi	0
@@ -330564,7 +330564,7 @@ sort: by_weight
 非常平静	fei chang ping jing	0
 非常幸福	fei chang xing fu	0
 非常广泛	fei chang guang fan	0
-非常庆幸	fei chang qing xing	0
+非常庆幸	fei chang qing xing	72
 非常庞大	fei chang pang da	0
 非常廉价	fei chang lian jia	0
 非常开放	fei chang kai fang	0
@@ -330718,7 +330718,7 @@ sort: by_weight
 非常环保	fei chang huan bao	0
 非常现代	fei chang xian dai	0
 非常现实	fei chang xian shi	0
-非常珍惜	fei chang zhen xi	0
+非常珍惜	fei chang zhen xi	59
 非常理性	fei chang li xing	0
 非常理智	fei chang li zhi	0
 非常理解	fei chang li jie	0
@@ -330834,7 +330834,7 @@ sort: by_weight
 非常运动	fei chang yun dong	0
 非常近	fei chang jin	0
 非常远	fei chang yuan	0
-非常迷	fei chang mi	0
+非常迷	fei chang mi	23
 非常迷茫	fei chang mi mang	0
 非常适合吃	fei chang shi he chi	0
 非常适合学习	fei chang shi he xue xi	0
@@ -332933,7 +332933,7 @@ sort: by_weight
 项目汇报	xiang mu hui bao	0
 项目沙盘	xiang mu sha pan	0
 项目沟通	xiang mu gou tong	0
-项目治理	xiang mu zhi li	0
+项目治理	xiang mu zhi li	4
 项目注册	xiang mu zhu ce	0
 项目活动	xiang mu huo dong	0
 项目流	xiang mu liu	0
@@ -333316,7 +333316,7 @@ sort: by_weight
 顾客感受	gu ke gan shou	0
 顾客推荐	gu ke tui jian	0
 顾客数据	gu ke shu ju	0
-顾客数量	gu ke shu liang	0
+顾客数量	gu ke shu liang	6
 顾客朋友	gu ke peng you	0
 顾客服务中心	gu ke fu wu zhong xin	0
 顾客来	gu ke lai	0
@@ -333817,7 +333817,7 @@ sort: by_weight
 预防甲状腺	yu fang jia zhuang xian	0
 预防电信网络诈骗	yu fang dian xin wang luo zha pian	0
 预防白癜风	yu fang bai dian feng	0
-预防知识	yu fang zhi shi	0
+预防知识	yu fang zhi shi	10
 预防秋季	yu fang qiu ji	0
 预防老年斑	yu fang lao nian ban	0
 预防职务犯罪	yu fang zhi wu fan zui	0
@@ -333918,7 +333918,7 @@ sort: by_weight
 领域新	ling yu xin	0
 领域服务	ling yu fu wu	0
 领域相关	ling yu xiang guan	0
-领域知名	ling yu zhi ming	0
+领域知名	ling yu zhi ming	10
 领域研究	ling yu yan jiu	0
 领域科技	ling yu ke ji	0
 领域空间	ling yu kong jian	0
@@ -335932,7 +335932,7 @@ sort: by_weight
 香樟价格	xiang zhang jia ge	0
 香樟大道	xiang zhang da dao	0
 香樟林	xiang zhang lin	0
-香气高	xiang qi gao	0
+香气高	xiang qi gao	14
 香水中	xiang shui zhong	0
 香水产品	xiang shui chan pin	0
 香水吧	xiang shui ba	0
@@ -335989,7 +335989,7 @@ sort: by_weight
 香港创	xiang gang chuang	0
 香港创业	xiang gang chuang ye	0
 香港化验所	xiang gang hua yan suo	0
-香港区	xiang gang qu	0
+香港区	xiang gang qu	9
 香港医生	xiang gang yi sheng	0
 香港医院	xiang gang yi yuan	0
 香港单双王	xiang gang dan shuang wang	0
@@ -336932,7 +336932,7 @@ sort: by_weight
 驾驶报废车	jia shi bao fei che	0
 驾驶数据	jia shi shu ju	0
 驾驶方式	jia shi fang shi	0
-驾驶方面	jia shi fang mian	0
+驾驶方面	jia shi fang mian	18
 驾驶无牌摩托车	jia shi wu pai mo tuo che	0
 驾驶时	jia shi shi	0
 驾驶时间	jia shi shi jian	0
@@ -337338,7 +337338,7 @@ sort: by_weight
 高于中国	gao yu zhong guo	0
 高于人	gao yu ren	0
 高于全市平均水平	gao yu quan shi ping jun shui ping	0
-高于去年	gao yu qu nian	0
+高于去年	gao yu qu nian	7
 高于市场	gao yu shi chang	0
 高于标准	gao yu biao zhun	0
 高于正常	gao yu zheng chang	0
@@ -337463,7 +337463,7 @@ sort: by_weight
 高兴夫	gao xing fu	0
 高兴时	gao xing shi	0
 高兴有	gao xing you	0
-高兴点	gao xing dian	0
+高兴点	gao xing dian	8
 高兴而来	gao xing er lai	0
 高兴镇	gao xing zhen	0
 高兽决	gao shou jue	0
@@ -337914,7 +337914,7 @@ sort: by_weight
 高投资	gao tou zi	0
 高投集团	gao tou ji tuan	0
 高抗压	gao kang ya	0
-高报价	gao bao jia	0
+高报价	gao bao jia	4
 高拉力	gao la li	0
 高招咨询会	gao zhao zi xun hui	0
 高招忍者	gao zhao ren zhe	0
@@ -337993,7 +337993,7 @@ sort: by_weight
 高效的法律服务	gao xiao de fa lv fu wu	0
 高效监管	gao xiao jian guan	0
 高效真空滤油机	gao xiao zhen kong lv you ji	0
-高效管理	gao xiao guan li	0
+高效管理	gao xiao guan li	61
 高效粉碎机	gao xiao fen sui ji	0
 高效组件	gao xiao zu jian	0
 高效细碎机	gao xiao xi sui ji	0
@@ -338530,7 +338530,7 @@ sort: by_weight
 高端职业	gao duan zhi ye	0
 高端舒适	gao duan shu shi	0
 高端装备制造产业	gao duan zhuang bei zhi zao chan ye	0
-高端设备	gao duan she bei	0
+高端设备	gao duan she bei	44
 高端设计	gao duan she ji	0
 高端课程	gao duan ke cheng	0
 高端资源	gao duan zi yuan	0
@@ -338658,7 +338658,7 @@ sort: by_weight
 高级色彩	gao ji se cai	0
 高级艺术	gao ji yi shu	0
 高级英语	gao ji ying yu	0
-高级营销	gao ji ying xiao	0
+高级营销	gao ji ying xiao	3
 高级装扮	gao ji zhuang ban	0
 高级视频	gao ji shi pin	0
 高级计划	gao ji ji hua	0
