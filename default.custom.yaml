@@ -16,7 +16,8 @@ patch:
     - { when: always, accept: Control+Shift+P, toggle: ascii_punct } # 切换中/西文模式
   ascii_composer/switch_key:
     Caps_Lock: commit_code  # 按下 Caps Lock 会直接上屏
-    Control_L: commit_code  # 按下左 Control 键会切换到西文模式
+    # Control_L: commit_code  # 按下左 Control 键会切换到西文模式
+    Control_L: noop  # 使用 xremap 切换输入法
     Control_R: noop  # 按下右 Control 键不做任何操作
     Shift_L: noop  # 按下左 Shift 键不做任何操作
     Shift_R: noop  # 按下右 Shift 键不做任何操作
