@@ -3188,3 +3188,348 @@ sort: by_weight
 边保	bian bao	0
 跨代	kua dai	0
 四冠	si guan	0
+# 2026-09-29 补：戟把、闹嚷、挠攘、舞见、乌角鲨（用户指定；唱见已在 cn_dicts/base.dict.yaml，注音 chang jian）
+戟把	ji ba	0
+闹嚷	nao rang	0
+挠攘	nao rang	0
+舞见	wu jian	0
+乌角鲨	wu jiao sha	0
+# 2026-09-29 新增：知乎热榜热词（体育人物与教练名/网络昵称/金融监管与车务术语/历史军事与武术术语，来自 zhihu_missing_2026-09-29 分词缺失词）
+任少芬	ren shao fen	0
+队短	dui duan	0
+苟局	gou ju	0
+李矛	li mao	0
+白户	bai hu	0
+背户	bei hu	0
+金监	jin jian	0
+德意军	de yi jun	0
+批贷	pi dai	0
+泳队	yong dui	0
+身管	shen guan	0
+郑刚	zheng gang	0
+闯禁	chuang jin	0
+鞭锏	bian jian	0
+# 2026-09-30 新增：知乎热榜热词（明末历史人物与科技人物名/古建访古与文史术语/网络航空与金融房产用语，来自 zhihu_missing_2026-09-30 分词缺失词）
+侯峒曾	hou dong zeng	0
+侯岐曾	hou qi zeng	0
+黄渊耀	huang yuan yao	0
+季逸超	ji yi chao	0
+罗福莉	luo fu li	0
+肖弘	xiao hong	0
+栾剑	luan jian	0
+陈妤颉	chen yu jie	0
+窟区	ku qu	0
+券门	quan men	0
+塔基	ta ji	0
+特窟	te ku	0
+时思寺	shi si si	0
+辽构	liao gou	0
+市舶务	shi bo wu	0
+经世文编	jing shi wen bian	0
+宋金	song jin	0
+崧泽村	song ze cun	0
+僧舍	seng she	0
+军褂	jun gua	0
+文管员	wen guan yuan	0
+前向	qian xiang	0
+叠甲	die jia	0
+摔机	shuai ji	0
+尾钩	wei gou	0
+去化	qu hua	0
+转盈	zhuan ying	0
+# 2026-10-01 新增：知乎热榜热词（文学人物名与媒体/网络博主名，来自 zhihu_missing_2026-10-01 分词缺失词）
+周吉婕	zhou ji jie	0
+文春	wen chun	0
+星无	xing wu	0
+# 2026-10-02 新增：知乎热榜热词（交通驾驶与新闻用语/漫画家名/文本用语，来自 zhihu_missing_2026-10-02 分词缺失词）
+别车	bie che	0
+压速	ya su	0
+夏达	xia da	0
+外电报道	wai dian bao dao	0
+文内	wen nei	0
+# 2026-10-03 新增：知乎热榜热词（新闻媒体名，来自 zhihu_missing_2026-10-03 分词缺失词）
+财闻	cai wen	0
+# 2026-10-04 新增：知乎热榜热词（机构名与新闻用语/历史与学术术语/人物名，来自 zhihu_missing_2026-10-04 分词缺失词）
+尚思	shang si	0
+全法	quan fa	0
+官帑	guan tang	0
+幻刃	huan ren	0
+正刊	zheng kan	0
+陈佳	chen jia	0
+# 2026-10-05 新增：知乎热榜热词（地名/人物名/经济与航运用语，来自 zhihu_missing_2026-10-05 分词缺失词）
+库皮扬斯克	ku pi yang si ke	0
+沈伯洋	shen bo yang	0
+油运	you yun	0
+# 2026-10-07 新增：知乎热榜热词（科技术语/时政经济用语/人物名，来自 zhihu_missing_2026-10-07 分词缺失词）
+三值	san zhi	0
+二值	er zhi	0
+噪声容限	zao sheng rong xian	0
+存储阵列	cun chu zhen lie	0
+对端	dui duan	0
+眼图	yan tu	0
+板内	ban nei	0
+英债	ying zhai	0
+中右	zhong you	0
+转右	zhuan you	0
+嘴替	zui ti	0
+退意	tui yi	0
+长戟	chang ji	0
+牟倩文	mou qian wen	0
+此沙	ci sha	0
+代露娃	dai lu wa	0
+卤汤	lu tang	0
+赖上	lai shang	0
+椎牛	zhui niu	0
+罗粉	luo fen	0
+首作	shou zuo	0
+键值	jian zhi	0
+# 2026-10-08 新增：知乎热榜热词（缅北时政人物与地名/美国时政与网络用语/铁路与医疗术语，来自 zhihu_missing_2026-10-08 分词缺失词）
+缅军	mian jun	0
+缅方	mian fang	0
+缅中	mian zhong	0
+魏超仁	wei chao ren	0
+魏清涛	wei qing tao	0
+明学昌	ming xue chang	0
+丹穗	dan sui	0
+莫乔图	mo qiao tu	0
+莫艾河	mo ai he	0
+苍盛	cang sheng	0
+红州	hong zhou	0
+蓝州	lan zhou	0
+牢美	lao mei	0
+沙壁	sha bi	0
+苟命	gou ming	0
+辱主	ru zhu	0
+普速	pu su	0
+合武段	he wu duan	0
+宁蓉线	ning rong xian	0
+排图	pai tu	0
+时间槽	shi jian cao	0
+诊查	zhen cha	0
+首责	shou ze	0
+查拉耶娃	cha la ye wa	0
+王棋	wang qi	0
+周铭	zhou ming	0
+王星	wang xing	0
+深柜	shen gui	0
+联排	lian pai	0
+担事	dan shi	0
+满房	man fang	0
+电显	dian xian	0
+汪达尔人	wang da er ren	0
+# 2026-10-09 新增：知乎热榜热词（唐末与民国军政人物/国际人物与民族/汉服与时尚术语/体育与网络用语/生活与生物医药用语，来自 zhihu_missing_2026-10-09 分词缺失词）
+姚令言	yao ling yan	0
+段文楚	duan wen chu	0
+荔非元礼	li fei yuan li	0
+毕自肃	bi zi su	0
+刘峙	liu zhi	0
+黄维	huang wei	0
+凯申	kai shen	0
+蒋宋孔陈	jiang song kong chen	0
+骆明楷	luo ming kai	0
+田湖	tian hu	0
+赫雷罗	he lei luo	0
+纳马人	na ma ren	0
+木姐	mu jie	0
+云州	yun zhou	0
+泾原	jing yuan	0
+文班	wen ban	0
+薄肌	bao ji	0
+仙服	xian fu	0
+挂谷	gua gu	0
+冷鲜	leng xian	0
+冲框	chong kuang	0
+下球	xia qiu	0
+咽齿	yan chi	0
+低仿	di fang	0
+厚赏	hou shang	0
+欠饷	qian xiang	0
+牙兵	ya bing	0
+防雹	fang bao	0
+禁映	jin ying	0
+趋严	qu yan	0
+备婚	bei hun	0
+腰旗	yao qi	0
+触式	chu shi	0
+技犯	ji fan	0
+斜襟	xie jin	0
+鬼服	gui fu	0
+鸡架	ji jia	0
+菲奖	fei jiang	0
+中登	zhong deng	0
+单绕	dan rao	0
+双绕	shuang rao	0
+九锦司	jiu jin si	0
+鹿韵记	lu yun ji	0
+华姿仪赏	hua zi yi shang	0
+衔泥小筑	xian ni xiao zhu	0
+# 2026-10-10 新增：知乎热榜热词（希腊神话人物/明代宫廷史人物与术语/核电与化工术语/科技时政与网络用语，来自 zhihu_missing_2026-10-10 分词缺失词）
+伊娥	yi e	0
+塞墨勒	sai mo le	0
+迈亚	mai ya	0
+勒托	le tuo	0
+勒达	le da	0
+珀耳修斯	po er xiu si	0
+欧律斯透斯	ou lv si tou si	0
+摩涅莫绪涅	mo nie mo xu nie	0
+阿尔克墨涅	a er ke mo nie	0
+欧律诺墨	ou lv nuo mo	0
+得洛斯	de luo si	0
+杜进忠	du jin zhong	0
+宋进喜	song jin xi	0
+刘进喜	liu jin xi	0
+王库儿	wang ku er	0
+魏进忠	wei jin zhong	0
+京营	jing ying	0
+宫婢	gong bi	0
+闯宫	chuang gong	0
+断键	duan jian	0
+氢脆	qing cui	0
+炼厂	lian chang	0
+核优势	he you shi	0
+补能	bu neng	0
+梁赞州	liang zan zhou	0
+萨索沃	sa suo wo	0
+懂子	dong zi	0
+超雄	chao xiong	0
+美签	mei qian	0
+科企	ke qi	0
+产痛	chan tong	0
+暗账	an zhang	0
+篡取	cuan qu	0
+# 2026-10-12 新增：知乎热榜热词（明代宫廷史人物与术语/两宋文史与谥号/国漫影视与体育网络用语/化工与医学术语，来自 zhihu_missing_2026-10-12 分词缺失词）
+壮缪侯	zhuang miu hou	0
+林昭	lin zhao	0
+芬顿	fen dun	0
+辛几何	xin ji he	0
+郭爱	guo ai	0
+郭登	guo deng	0
+刘娥	liu e	0
+妻眷	qi juan	0
+无冠	wu guan	0
+李婧	li jing	0
+熹宗	xi zong	0
+邵妃	shao fei	0
+陈素	chen su	0
+仇远	qiu yuan	0
+内壮功	nei zhuang gong	0
+千问	qian wen	0
+夏言	xia yan	0
+失独	shi du	0
+女教	nv jiao	0
+宋末	song mo	0
+张孚敬	zhang fu jing	0
+慈安	ci an	0
+憨货	han huo	0
+扩店	kuo dian	0
+显宗	xian zong	0
+漫剧	man ju	0
+濮议	pu yi	0
+猛猛	meng meng	0
+留力	liu li	0
+空击	kong ji	0
+端妃	duan fei	0
+精严	jing yan	0
+脂醇	zhi chun	0
+西李	xi li	0
+谭斌	tan bin	0
+赵星棠	zhao xing tang	0
+邓皇后	deng huang hou	0
+邓绥	deng sui	0
+释意	shi yi	0
+马圣	ma sheng	0
+骨量	gu liang	0
+魔丸	mo wan	0
+魔童	mo tong	0
+黄媛介	huang yuan jie	0
+# 2026-10-13 新增：知乎热榜热词（游戏与游戏社区用语/网文用语/生物防治与建筑环境术语/睡眠类型术语/汽车科技品牌与人物名，来自 zhihu_missing_2026-10-13 分词缺失词）
+卵卡	luan ka	0
+魂游	hun you	0
+切书	qie shu	0
+晚型	wan xing	0
+树池	shu chi	0
+坐火	zuo huo	0
+掰持	bai chi	0
+赋魅	fu mei	0
+连廊	lian lang	0
+互害	hu hai	0
+加洞	jia dong	0
+吉瓦级	ji wa ji	0
+宇树	yu shu	0
+导则	dao ze	0
+尊界	zun jie	0
+开书	kai shu	0
+推流	tui liu	0
+早型	zao xing	0
+晨型	chen xing	0
+曼娘	man niang	0
+杀虫药剂	sha chong yao ji	0
+石昱莉	shi yu li	0
+类魂	lei hun	0
+爆量	bao liang	0
+邓煜	deng yu	0
+战点	zhan dian	0
+冬契军	dong qi jun	0
+老菊	lao ju	0
+铁梅	tie mei	0
+除霉	chu mei	0
+霉点	mei dian	0
+# 2026-10-14 新增：知乎热榜热词（还珠格格第三部角色与演员/网球赛事与人物/电竞与网络社区用语/科技时政与网络用语/职业与生活术语，来自 zhihu_missing_2026-10-14 分词缺失词）
+知画	zhi hua	0
+萧剑	xiao jian	0
+慕沙	mu sha	0
+书桓	shu huan	0
+尔泰	er tai	0
+蒙丹	meng dan	0
+马伊俐	ma yi li	0
+吴祯	wu zhen	0
+施晗	shi han	0
+武网	wu wang	0
+王右	wang you	0
+重球	zhong qiu	0
+刘神	liu shen	0
+牢田	lao tian	0
+祁驴	qi lv	0
+突脸	tu lian	0
+软辅	ruan fu	0
+田柯宇	tian ke yu	0
+五源	wu yuan	0
+判测胜券本征	pan ce sheng quan ben zheng	0
+姆伯莫	mu bo mo	0
+钉蹄师	ding ti shi	0
+网批	wang pi	0
+误射	wu she	0
+委聘	wei pin	0
+批地	pi di	0
+香度	xiang du	0
+韩杰	han jie	0
+# 2026-10-15 新增：知乎热榜热词（红楼梦人物与器物/三国与两宋文史人物及官制术语/国考围岗与职场网络用语/电竞与体育人物名/科技用语，来自 zhihu_missing_2026-10-15 分词缺失词）
+贾家	jia jia	0
+围岗	wei gang	0
+萧元	xiao yuan	0
+责授	ze shou	0
+广美	guang mei	0
+秀昕	xiu xin	0
+云光	yun guang	0
+围考	wei kao	0
+宁远军	ning yuan jun	0
+赵谦	zhao qian	0
+交圈	jiao quan	0
+恰米	qia mi	0
+杜埃	du ai	0
+炕屏	kang ping	0
+罪臣	zui chen	0
+赞诗	zan shi	0
+吴亚存	wu ya cun	0
+吴简	wu jian	0
+周妃	zhou fei	0
+周忠	zhou zhong	0
+周晖	zhou hui	0
+攒局	cuan ju	0
+曹粉	cao fen	0
+朝奉郎	chao feng lang	0
+灰测	hui ce	0
+甄家	zhen jia	0
+皇商	huang shang	0
+血皮	xue pi	0
+许哥	xu ge	0
